@@ -1,0 +1,1528 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Profile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" lang="french" file="0030N000023i5iaQAA.pdf">
+
+<ProfileSummary>
+    <CurrentJob>CHEF D&apos;EQUIPE DE 5 PERSONNES</CurrentJob>
+    <CurrentEmployer>BNP Cardif</CurrentEmployer>
+    <CurrentEmployerLocation></CurrentEmployerLocation>
+    <TotalExperienceYears>23</TotalExperienceYears>
+    <HighestEducationLevel code="4"
+        description="Bachelor"
+       
+        description.cz="Bakalář"
+        description.de="Bachelor/Fachhochschule"
+        description.dk="Bachelor"
+        description.el="Προπτυχιακό"
+        description.en="Bachelor"
+        description.es="Grado"
+        description.fr="Licence/Bac+3"
+        description.it="Laureato"
+        description.nl="HBO/Bachelor"
+        description.pl="Bakałarz"
+        description.pt="Bacharel"
+        description.ro="Licenţiat"
+       
+        description.se="Bachelor"
+        description.sk="Bakalár">Bachelor</HighestEducationLevel>
+    <ESHighestEducationLevel
+       
+       ></ESHighestEducationLevel>
+        <SummaryAmbitionSection>GESTIONNAIRE D&apos;ASSURANCE CONFIRMEE</SummaryAmbitionSection>
+    <CVTitle>GESTIONNAIRE D&apos;ASSURANCE CONFIRMEE</CVTitle>
+
+<ProfilePicture>
+        <Base64Content></Base64Content>
+    <Filename></Filename>
+    <ContentType></ContentType>
+</ProfilePicture>
+<ExternalID></ExternalID>
+</ProfileSummary>
+
+<Personal>
+    <FirstName>Sophie</FirstName>
+    <MiddleName></MiddleName>
+    <LastName>Armand</LastName>
+    <LastNamePrefix></LastNamePrefix>
+    <LastNameWithoutPrefix>Armand</LastNameWithoutPrefix>
+    <FullName>Sophie ARMAND</FullName>
+    <Initials>S.</Initials>
+    <Nationality
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       ></Nationality>
+    <Gender code="2"
+        description="Female"
+       
+       
+        description.de="Frau"
+        description.dk="Kvinde"
+        description.el="Θήλυ"
+        description.en="Female"
+        description.es="Mujer"
+        description.fr="Femme"
+        description.it="Donna"
+        description.nl="Vrouw"
+       
+       
+       
+       
+       
+       >Female</Gender>
+    <MaritalStatus
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   ></MaritalStatus>
+    <DateOfBirth></DateOfBirth>
+        <DriversLicense></DriversLicense>
+        <DriversLicenseEUNorm></DriversLicenseEUNorm>
+
+<Address>
+        <StreetName></StreetName>
+        <StreetNumberBase></StreetNumberBase>
+        <ZipCode>75012</ZipCode>
+        <City>Paris</City>
+        <Region code="FR-75"
+       
+       
+        description.de="FR Paris"
+       
+       
+        description.en="FR Paris"
+       
+        description.fr="FR Paris"
+       
+        description.nl="FR Parijs"
+       
+       
+       
+       
+       
+       >FR Paris</Region>
+        <Country code="FR"
+       
+        description.cz="Francie"
+        description.de="Frankreich"
+        description.dk="Frankrig"
+       
+        description.en="France"
+        description.es="Francia"
+        description.fr="France"
+        description.it="Francia"
+        description.nl="Frankrijk"
+        description.pl="Francja"
+        description.pt="França"
+        description.ro="Franța"
+       
+        description.se="Frankrike"
+        description.sk="Francúzsko">France</Country>
+</Address>
+<HomePhones>
+        <HomePhone></HomePhone>
+</HomePhones>
+<MobilePhones>
+        <MobilePhone>+33632222363</MobilePhone>
+</MobilePhones>
+<Emails>
+        <Email>sasophiearmand966@gmail.com</Email>
+</Emails>
+<ExtraInfo>
+        <TrxmlID>134213245</TrxmlID>
+    <ExternalID></ExternalID>
+    <Source></Source>
+    <ExtraInfo1></ExtraInfo1>
+    <ExtraInfo2></ExtraInfo2>
+    <ExtraInfo3></ExtraInfo3>
+    
+</ExtraInfo>
+</Personal>
+
+<EducationHistory>
+    <EducationItem>
+        <EducationLevel code="4"
+            description="Bachelor"
+           
+            description.cz="Bakalář"
+            description.de="Bachelor/Fachhochschule"
+            description.dk="Bachelor"
+            description.el="Προπτυχιακό"
+            description.en="Bachelor"
+            description.es="Grado"
+            description.fr="Licence/Bac+3"
+            description.it="Laureato"
+            description.nl="HBO/Bachelor"
+            description.pl="Bakałarz"
+            description.pt="Bacharel"
+            description.ro="Licenţiat"
+           
+            description.se="Bachelor"
+            description.sk="Bakalár">Bachelor</EducationLevel>
+        <InstituteName></InstituteName>
+        <InstituteLocation></InstituteLocation>
+        <Major>Licence professionnelle conseillère gestionnaire de clientèle (Banque, assurance, finance)</Major>
+        <GPA></GPA>
+        <StartDate></StartDate>
+        <EndDate>2011-06-30</EndDate>
+        <ESEducationLevel
+           
+           ></ESEducationLevel>
+
+    </EducationItem>
+    <EducationItem>
+        <EducationLevel code="7"
+            description="Course"
+           
+            description.cz="Kurz"
+            description.de="Kurs"
+            description.dk="Kursus"
+            description.el="Μάθημα"
+            description.en="Course"
+            description.es="Curso"
+            description.fr="Cours"
+            description.it="Corso"
+            description.nl="Cursus"
+            description.pl="Kurs"
+            description.pt="Curso"
+            description.ro="Curs"
+           
+            description.se="Kurs"
+            description.sk="Kurz">Course</EducationLevel>
+        <InstituteName></InstituteName>
+        <InstituteLocation></InstituteLocation>
+        <Major>Brevet Professionnel d&apos;Assurance</Major>
+        <GPA></GPA>
+        <StartDate></StartDate>
+        <EndDate>1998-06-30</EndDate>
+        <ESEducationLevel
+           
+           ></ESEducationLevel>
+
+    </EducationItem>
+
+</EducationHistory>
+
+<EmploymentHistory>
+    <EmploymentItem>
+        <JobTitle>CHEF D&apos;EQUIPE DE 5 PERSONNES</JobTitle>
+        <ExperienceONET id="47_1011_00">First-Line Supervisors of Construction Trades and Extraction Workers</ExperienceONET>
+        <EmployerName>BNP Cardif</EmployerName>
+        <EmployerLocation></EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>4</YearsExperience>
+        <JobCode code="2653"></JobCode>
+        <JobGroup code="23"></JobGroup>
+        <JobClass code="3"></JobClass>
+        <JobDescription>Soutien aux différentes directions régionales des services successions - Coordination et Interface entre mes collaborateurs et les responsables des différentes équipes - Appui technique - Contrôle et validation des dossiers collaborateurs à hauteur de 50 000 € - Ouverture et constitution des dossiers successions - Analyse du dossier, affectation des bénéficiaires, demandes de pièces, règlements des bénéficiaires, rédaction de courriers, mails aux différents intervenants internes et externes - Dans la cadre de la mise en place de la loi Eckert, prise en charge d&apos;une task force pour l&apos;instruction des contrats d&apos;assurance vie suite au décès de l&apos;assuré pour les capitaux non réclamés (14 personnes) - Organisation des compétences professionnelles de l&apos;équipe, remontées des anomalies, des statistiques - Réalisation des recherches (recherches multipistes actives et instruction des dossiers par l&apos;envoi de courriers, de mails et appels sortants) - Analyse et préconisations de recherches complémentaires sur les bénéficiaires - Contrôle et identifier les règlements différés afin que les fonds ne soient pas déposés à la caisse des dépôts et consignation - Contrôler, instruire, clôturer les dossiers en anomalie - Réception des pièces complémentaires, analyse, traitement, règlement de la succession aux ayants droit - Prise en charge des appels entrants - Report et uniformisation des informations dans différents fichiers avant règlement définitif à la Caisse des dépôts et consignation (soldes comptables, clauses bénéficiaires)</JobDescription>
+        <StartDate>2014-01-01</StartDate>
+        <EndDate>2017-12-31</EndDate>
+    </EmploymentItem>
+    <EmploymentItem>
+        <JobTitle>GESTIONNAIRE D&apos;ASSURANCE VIE</JobTitle>
+        <ExperienceONET id="11_3031_02">Financial Managers, Branch or Department</ExperienceONET>
+        <EmployerName>BNP Cardif</EmployerName>
+        <EmployerLocation></EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>2</YearsExperience>
+        <JobCode code="1996"></JobCode>
+        <JobGroup code="220"></JobGroup>
+        <JobClass code="24"></JobClass>
+        <JobDescription>Prise en charge, contrôle et traitement des clauses bénéficiaires Banque Privée 1818 - Garantir le traitement des opérations sur l&apos;assurance vie et apporter la qualité de service inhérente aux réseaux et banques privés - Gestion des contrats : réceptionner les demandes, réaliser les contrôles de 1er niveau (complétude et conformité) Traiter et suivre les dossiers inhérents à tous les actes d&apos;assurance vie (adhésion, versement complémentaire, avance, rachat, arbitrage, changement de clause bénéficiaire, gestion administrative) - Assurer l&apos;interface entre les partenaires, les Banquiers Privés et les compagnies d&apos;assurance CNP Assurances - Dans le cadre d&apos;une modification informatique, traitement, saisie et suivi des dossiers clients, mise à jour des rachats - Mise en place des nantissements - Après vérifications de la conformité des demandes clients, paiement des prestations (rachats partiels, rachats partiels programmés, rachats totaux, résiliations) - Après vérification des éléments juridiques concernant les majeurs protégés mise en place du blocage des contrats - Remontée des informations, contrôle qualité des dossiers, travail d&apos;équipe AXA - Délégation de pouvoir à hauteur de 80 000 € - Vérification des documents (identité, origine des fonds, cohérence entre le choix du client et sa situation globale financière) - Traitement des émissions et des actes de gestion - Souscriptions, versements complémentaires, rachats partiels, rachats totaux - Arbitrages - Vérification et saisie des clauses bénéficiaires et clauses démembrées - Prise en charge des actes administratifs - Octroi d&apos;avances - Remontée des informations et travail d&apos;équipe</JobDescription>
+        <StartDate>2012-01-01</StartDate>
+        <EndDate>2014-01-01</EndDate>
+    </EmploymentItem>
+    <EmploymentItem>
+        <JobTitle>CHARGEE DE CLIENTELE</JobTitle>
+        <ExperienceONET id="11_2022_00">Sales Managers</ExperienceONET>
+        <EmployerName>ALLIANZ</EmployerName>
+        <EmployerLocation></EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>17</YearsExperience>
+        <JobCode code="4319"></JobCode>
+        <JobGroup code="9"></JobGroup>
+        <JobClass code="1"></JobClass>
+        <JobDescription>Gestion et développement d&apos;un portefeuille clients moyen haut de gamme par la mise en place de stratégies financières pour constituer, optimiser, valoriser, transmettre le patrimoine AXA - Prospection, création, fidélisation et développement d&apos;un portefeuille clients en assurance IARD et assurance vie + crédits adossés MAAF ASSURANCE - Développement, gestion, fidélisation d&apos;un portefeuille clients en assurance IARD et vie - Création et mise en place du plateau téléphonique. (Vente par téléphone)</JobDescription>
+        <StartDate>1995-01-01</StartDate>
+        <EndDate>2012-01-01</EndDate>
+    </EmploymentItem>
+
+</EmploymentHistory>
+
+<RecentEmploymentHistory>
+    <RecentEmploymentItem>
+        <JobTitle>CHEF D&apos;EQUIPE DE 5 PERSONNES</JobTitle>
+        <ExperienceONET></ExperienceONET>
+        <EmployerName>BNP Cardif</EmployerName>
+        <EmployerLocation></EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>4</YearsExperience>
+        <JobCode code="2653"></JobCode>
+        <JobGroup code="23"></JobGroup>
+        <JobClass code="3"></JobClass>
+        <JobDescription>Soutien aux différentes directions régionales des services successions - Coordination et Interface entre mes collaborateurs et les responsables des différentes équipes - Appui technique - Contrôle et validation des dossiers collaborateurs à hauteur de 50 000 € - Ouverture et constitution des dossiers successions - Analyse du dossier, affectation des bénéficiaires, demandes de pièces, règlements des bénéficiaires, rédaction de courriers, mails aux différents intervenants internes et externes - Dans la cadre de la mise en place de la loi Eckert, prise en charge d&apos;une task force pour l&apos;instruction des contrats d&apos;assurance vie suite au décès de l&apos;assuré pour les capitaux non réclamés (14 personnes) - Organisation des compétences professionnelles de l&apos;équipe, remontées des anomalies, des statistiques - Réalisation des recherches (recherches multipistes actives et instruction des dossiers par l&apos;envoi de courriers, de mails et appels sortants) - Analyse et préconisations de recherches complémentaires sur les bénéficiaires - Contrôle et identifier les règlements différés afin que les fonds ne soient pas déposés à la caisse des dépôts et consignation - Contrôler, instruire, clôturer les dossiers en anomalie - Réception des pièces complémentaires, analyse, traitement, règlement de la succession aux ayants droit - Prise en charge des appels entrants - Report et uniformisation des informations dans différents fichiers avant règlement définitif à la Caisse des dépôts et consignation (soldes comptables, clauses bénéficiaires)</JobDescription>
+        <StartDate>2014-01-01</StartDate>
+        <EndDate>2017-12-31</EndDate>
+    </RecentEmploymentItem>
+
+</RecentEmploymentHistory>
+
+<Skills>
+    <LanguageSkills>
+            <LanguageSkill>
+        <LanguageSkill></LanguageSkill>
+        <LanguageProficiency
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           ></LanguageProficiency>
+        <LanguageSkillDuration></LanguageSkillDuration>
+        <LanguageSkillFirstUsed></LanguageSkillFirstUsed>
+        <LanguageSkillLastUsed></LanguageSkillLastUsed>
+    </LanguageSkill>
+
+    </LanguageSkills>
+    <ComputerSkills>
+            <ComputerSkill>
+        <ComputerSkill>Interface</ComputerSkill>
+        <ComputerSkillDuration>4</ComputerSkillDuration>
+        <ComputerSkillFirstUsed>2014-01-01</ComputerSkillFirstUsed>
+        <ComputerSkillLastUsed>2017-12-31</ComputerSkillLastUsed>
+    </ComputerSkill>
+    <ComputerSkill>
+        <ComputerSkill>contrôle qualité</ComputerSkill>
+        <ComputerSkillDuration>2</ComputerSkillDuration>
+        <ComputerSkillFirstUsed>2012-01-01</ComputerSkillFirstUsed>
+        <ComputerSkillLastUsed>2014-01-01</ComputerSkillLastUsed>
+    </ComputerSkill>
+
+    </ComputerSkills>
+    <ProfessionalSkills>
+            <ProfessionalSkill>
+        <ProfessionalSkill></ProfessionalSkill>
+        <ProfessionalSkillDuration></ProfessionalSkillDuration>
+        <ProfessionalSkillFirstUsed></ProfessionalSkillFirstUsed>
+        <ProfessionalSkillLastUsed></ProfessionalSkillLastUsed>
+    </ProfessionalSkill>
+    </ProfessionalSkills>
+    <SoftSkills>
+            <SoftSkill>
+        <SoftSkill></SoftSkill>
+        <SoftSkillDuration></SoftSkillDuration>
+        <SoftSkillFirstUsed></SoftSkillFirstUsed>
+        <SoftSkillLastUsed></SoftSkillLastUsed>
+    </SoftSkill>
+
+    </SoftSkills>
+</Skills>
+
+<SkillsObject>
+    <Skill>
+        <ExtractedSkill>Interface</ExtractedSkill>
+        <Normalized>N</Normalized>
+        <MasterSetID></MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode></MasterSkillCode>
+        <SkillType>IT_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears>4</DurationYears>
+        <DurationMonths>48</DurationMonths>
+        <StartDate>2014-01-01</StartDate>
+        <EndDate>2017-12-31</EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>contrôle qualité</ExtractedSkill>
+        <Normalized>N</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Contrôle Qualité</MasterSkillName>
+        <MasterSkillCode>PROFSKILL20233</MasterSkillCode>
+        <SkillType>IT_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears>2</DurationYears>
+        <DurationMonths>25</DurationMonths>
+        <StartDate>2012-01-01</StartDate>
+        <EndDate>2014-01-01</EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>D&apos;ASSURANCE</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Gestion et Suivi d&apos;Assurance</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1369</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>juridique</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Application du Droit et Gestion Juridique</MasterSkillName>
+        <MasterSkillCode>PROFSKILL2156</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>coordination</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Coordination</MasterSkillName>
+        <MasterSkillCode>PROFSKILL90113</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>satisfaction client</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Gérer la Relation Clientèle</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1178</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>services</ExtractedSkill>
+        <Normalized>N</Normalized>
+        <MasterSetID></MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode></MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>équipes</ExtractedSkill>
+        <Normalized>N</Normalized>
+        <MasterSetID></MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode></MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>constitution des dossiers</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Saisie et tâches administratives</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1481</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>demandes de pièces</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Assemblage et Montage de Sous-Ensemble</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1358</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>rédaction de courriers</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Application du Droit et Gestion Juridique</MasterSkillName>
+        <MasterSkillCode>PROFSKILL2156</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>contrats d&apos;assurance</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Gestion et Suivi d&apos;Assurance</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1369</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>statistiques</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Etudes et Statistiques</MasterSkillName>
+        <MasterSkillCode>PROFSKILL2185</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>recherches</ExtractedSkill>
+        <Normalized>N</Normalized>
+        <MasterSetID></MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode></MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>instruction des dossiers</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Saisie et tâches administratives</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1481</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>envoi de courriers</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Gérer le Courrier</MasterSkillName>
+        <MasterSkillCode>PROFSKILL5401</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>appels sortants</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Centre d&apos;Appel, Vente et Prospection Téléphonique</MasterSkillName>
+        <MasterSkillCode>PROFSKILL2262</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>caisse</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Encaissement et Tenue de Caisse</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1578</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Réception des pièces</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Travail Dans la Logistique</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1401</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Prise en charge des appels entrants</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Accueil Téléphonique et Gestion de standard</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1455</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>comptables</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Comptabilité et gestion de la trésorerie</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1248</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Banque Privée</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Banque</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1250</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>assurance vie</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Gestion et Suivi d&apos;Assurance</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1369</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>qualité de service</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Service Client et Service Après Vente (Sav)</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1179</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>banques</ExtractedSkill>
+        <Normalized>N</Normalized>
+        <MasterSetID></MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode></MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Gestion des contrats</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Gestion de Contrat</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1253</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>gestion administrative</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Saisie et tâches administratives</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1481</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Assurances</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Gestion et Suivi d&apos;Assurance</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1369</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>suivi des dossiers clients</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Saisie et tâches administratives</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1481</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>juridiques</ExtractedSkill>
+        <Normalized>N</Normalized>
+        <MasterSetID></MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode></MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Vérification des documents</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Rédaction de Rapports et de Présentations</MasterSkillName>
+        <MasterSkillCode>PROFSKILL90223</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>actes de gestion</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Contrôle de Gestion</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1232</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>actes administratifs</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Saisie et tâches administratives</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1481</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>développement d&apos;un portefeuille</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Développement Commercial</MasterSkillName>
+        <MasterSkillCode>PROFSKILL30011</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>développement d&apos;un portefeuille clients</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Développement Commercial</MasterSkillName>
+        <MasterSkillCode>PROFSKILL30011</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>fidélisation</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Gérer la Relation Clientèle</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1178</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>assurance</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Gestion et Suivi d&apos;Assurance</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1369</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>fidélisation d&apos;un portefeuille clients</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Gérer la Relation Clientèle</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1178</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>téléphonique</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Accueil Téléphonique et Gestion de standard</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1455</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Vente par téléphone</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Centre d&apos;Appel, Vente et Prospection Téléphonique</MasterSkillName>
+        <MasterSkillCode>PROFSKILL2262</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Banque</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Banque</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1250</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>finance</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Gestion Financière</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1243</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Prospection</ExtractedSkill>
+        <Normalized>N</Normalized>
+        <MasterSetID></MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode></MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>informatique</ExtractedSkill>
+        <Normalized>N</Normalized>
+        <MasterSetID></MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode></MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+
+</SkillsObject>
+
+<Other>
+    <FullTextKeywords>
+        ASSURANCEBanque PrivéeBanquiers PrivésGestionGestion des contratsIARDProspectionVente par téléphoneactes administratifsappels sortantsassurance viecréationdirections régionalesgestion administrativeinformatiquemailsqualité de servicerecherchesrédactionréseaux
+    </FullTextKeywords>
+</Other>
+
+<UserArea>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+</UserArea>
+
+<DocumentText>
+Sophie ARMAND - 75012 Paris -                     Objectif : Traiter les dossiers dans les délais impartis
+Mail : sasophiearmand966@gmail.com                avec rigueur en assurant un service de qualité
+Port : 06 32 22 23 63
+
+                 GESTIONNAIRE D&apos;ASSURANCE CONFIRMEE
+
+
+ *  L&apos;étude et l&apos;analyse de la situation juridique et fiscale du particulier avec pour objectif de constituer,
+    valoriser, optimiser ou transmettre un patrimoine, dans le cadre de mes précédentes fonctions, m&apos;ont
+    conduit vers un poste de référent de 5 personnes.
+ *  La coordination et le travail d&apos;équipe permettent de respecter les engagements dans les délais impartis.
+ *  Polyvalente, bon relationnel, orientée satisfaction client.
+
+
+                                    EXPERIENCES PROFESSIONNELLES
+
+
+2014-2017 : CHEF D&apos;EQUIPE DE 5 PERSONNES
+BNP Cardif : Successions Particuliers
+   -   Soutien aux différentes directions régionales des services successions
+   -   Coordination et Interface entre mes collaborateurs et les responsables des différentes équipes
+   -   Appui technique
+   -   Contrôle et validation des dossiers collaborateurs à hauteur de 50 000 €
+   -   Ouverture et constitution des dossiers successions
+   -   Analyse du dossier, affectation des bénéficiaires, demandes de pièces, règlements des bénéficiaires,
+       rédaction de courriers, mails aux différents intervenants internes et externes
+   -  Dans la cadre de la mise en place de la loi Eckert, prise en charge d&apos;une task force pour l&apos;instruction des
+       contrats d&apos;assurance vie suite au décès de l&apos;assuré pour les capitaux non réclamés (14 personnes)
+   -   Organisation des compétences professionnelles de l&apos;équipe, remontées des anomalies, des statistiques
+   -  Réalisation des recherches (recherches multipistes actives et instruction des dossiers par l&apos;envoi de courriers,
+       de mails et appels sortants)
+   -   Analyse et préconisations de recherches complémentaires sur les bénéficiaires
+   -   Contrôle et identifier les règlements différés afin que les fonds ne soient pas déposés à la caisse des dépôts
+       et consignation
+   -   Contrôler, instruire, clôturer les dossiers en anomalie
+   -   Réception des pièces complémentaires, analyse, traitement, règlement de la succession aux ayants droit
+   -   Prise en charge des appels entrants
+   -   Report et uniformisation des informations dans différents fichiers avant règlement définitif à la Caisse des
+       dépôts et consignation (soldes comptables, clauses bénéficiaires)
+
+
+
+2012 - 2014 : GESTIONNAIRE D&apos;ASSURANCE VIE
+BNP Cardif
+   -   Prise en charge, contrôle et traitement des clauses bénéficiaires
+Banque Privée 1818
+   -   Garantir le traitement des opérations sur l&apos;assurance vie et apporter la qualité de service inhérente aux
+       réseaux et banques privés
+   -   Gestion des contrats : réceptionner les demandes, réaliser les contrôles de 1er                           niveau (complétude et
+       conformité)
+       Traiter et suivre les dossiers inhérents à tous les actes d&apos;assurance vie (adhésion, versement
+       complémentaire, avance, rachat, arbitrage, changement de clause bénéficiaire, gestion administrative)
+   -   Assurer l&apos;interface entre les partenaires, les Banquiers Privés et les compagnies d&apos;assurance
+
+
+
+
+CNP Assurances
+   -   Dans le cadre d&apos;une modification informatique, traitement, saisie et suivi des dossiers clients, mise à jour des
+       rachats
+   -   Mise en place des nantissements
+   -   Après vérifications de la conformité des demandes clients, paiement des prestations (rachats partiels,
+       rachats partiels programmés, rachats totaux, résiliations)
+   -   Après vérification des éléments juridiques concernant les majeurs protégés mise en place du blocage des
+       contrats
+   -  Remontée des informations, contrôle qualité des dossiers, travail d&apos;équipe
+AXA
+   -   Délégation de pouvoir à hauteur de 80 000 €
+   -   Vérification des documents (identité, origine des fonds, cohérence entre le choix du client et sa situation
+       globale financière)
+   -   Traitement des émissions et des actes de gestion
+   -   Souscriptions, versements complémentaires, rachats partiels, rachats totaux
+   -   Arbitrages
+   -   Vérification et saisie des clauses bénéficiaires et clauses démembrées
+   -   Prise en charge des actes administratifs
+   -  Octroi d&apos;avances
+   -  Remontée des informations et travail d&apos;équipe
+
+1995-2012 : CHARGEE DE CLIENTELE
+ALLIANZ
+   -  Gestion et développement d&apos;un portefeuille principalement de particuliers en assurances IARD et vie
+LA BANQUE POSTALE
+   -  Gestion et développement d&apos;un portefeuille clients moyen haut de gamme par la mise en place de stratégies
+       financières pour constituer, optimiser, valoriser, transmettre le patrimoine
+AXA
+   -  Prospection, création, fidélisation et développement d&apos;un portefeuille clients en assurance IARD et
+       assurance vie + crédits adossés
+MAAF ASSURANCE
+   -   Développement, gestion, fidélisation d&apos;un portefeuille clients en assurance IARD et vie
+   -   Création et mise en place du plateau téléphonique. (Vente par téléphone)
+
+
+                                           FORMATION
+
+
+2011 Licence professionnelle conseillère gestionnaire de clientèle (Banque, assurance, finance)
+1998 Brevet Professionnel d&apos;Assurance
+
+
+                                        CENTRES D&apos;INTERET
+
+Diplômée de sophrologie (Ecole EDHES), sciences humaines, danse
+</DocumentText>
+<DocumentHtml>
+&lt;div&gt;&lt;div style=&quot;position: relative;&quot;&gt;&lt;tk_metadata name=&quot;last_modified&quot; value=&quot;04/10/2017, 12:52&quot;&gt; &lt;/tk_metadata&gt;&lt;tk_metadata name=&quot;author&quot; value=&quot;sasop&quot;&gt; &lt;/tk_metadata&gt;&lt;p&gt; &lt;/p&gt;
+&lt;div style=&quot;position:absolute;top:51px;left:48px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-11&quot;&gt;&lt;span class=&quot;trxml-356&quot;&gt;Sophie ARMAND&lt;/span&gt; - &lt;span class=&quot;trxml-70&quot;&gt;75012 Paris&lt;/span&gt; -                    &lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:51px;left:379px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-11&quot;&gt;Objectif : Traiter les dossiers dans les délais impartis&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:69px;left:48px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-11&quot;&gt;Mail : &lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:69px;left:85px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:11pt;color:#0000ff;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;a href=&quot;mailto:sasophiearmand966@gmail.com&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-11&quot;&gt;&lt;span class=&quot;trxml-472&quot;&gt;sasophiearmand966@gmail.com&lt;/span&gt;              &lt;/span&gt;&lt;/b&gt;&lt;/a&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:69px;left:379px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-11&quot;&gt;avec rigueur en assurant un service de qualité&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:86px;left:48px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;Port : &lt;span class=&quot;trxml-242&quot;&gt;06 32 22 23 63&lt;/span&gt;&lt;/span&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:126px;left:161px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:19pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-12&quot;&gt;&lt;span class=&quot;trxml-565&quot;&gt;GESTIONNAIRE&lt;/span&gt; D’ASSURANCE CONFIRMEE&lt;/span&gt;&lt;/b&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:195px;left:57px;font-size:11pt;white-space:nowrap;&quot;&gt;● 
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:191px;left:76px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;L’étude &lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-46&quot;&gt;&lt;span class=&quot;trxml-71&quot;&gt;et l’analyse de la situation &lt;span class=&quot;trxml-567&quot;&gt;juridique&lt;/span&gt; et fiscale du &lt;span class=&quot;trxml-568&quot;&gt;particulier&lt;/span&gt; avec pour objectif de constituer&lt;/span&gt;&lt;/span&gt;,
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-6&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:209px;left:76px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;valoriser, optimiser ou transmettre un patrimoine, dans le cadre de mes précédentes fonctions, m’ont
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-6&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:227px;left:76px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;conduit vers un poste de référent de 5 personnes.
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-6&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:249px;left:57px;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;● 
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-6&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:245px;left:76px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;La &lt;span class=&quot;trxml-569&quot;&gt;coordination&lt;/span&gt; et le travail d’équipe permettent de respecter les engagements dans les délais impartis.
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-6&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:267px;left:57px;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;● 
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-6&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:263px;left:76px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;Polyvalente, bon relationnel, orientée &lt;span class=&quot;trxml-571&quot;&gt;satisfaction client&lt;/span&gt;.&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-6&quot;&gt;
+
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:322px;left:287px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:12pt;color:#ffffff;background-color:#000000;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-6&quot;&gt;EXPERIENCES PROFESSIONNELLES&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-6&quot;&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-6&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:379px;left:48px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:12pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-19&quot;&gt;2014-2017&lt;/span&gt; : &lt;span class=&quot;trxml-21&quot;&gt;CHEF D’EQUIPE DE 5 PERSONNES&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:398px;left:51px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-22&quot;&gt;BNP Cardif&lt;/span&gt; : Successions &lt;span class=&quot;trxml-572&quot;&gt;Particuliers&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:416px;left:72px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;-  
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:416px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;Soutien aux différentes &lt;span class=&quot;trxml-573&quot;&gt;directions régionales&lt;/span&gt; des &lt;span class=&quot;trxml-574&quot;&gt;services&lt;/span&gt; successions
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:434px;left:72px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;-  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:434px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;&lt;span class=&quot;trxml-575&quot;&gt;Coordination&lt;/span&gt; et &lt;span class=&quot;trxml-67&quot;&gt;Interface&lt;/span&gt; entre mes collaborateurs et les &lt;span class=&quot;trxml-576&quot;&gt;responsables&lt;/span&gt; des différentes &lt;span class=&quot;trxml-577&quot;&gt;équipes&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:455px;left:72px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;-  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:455px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;Appui &lt;span class=&quot;trxml-578&quot;&gt;technique&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:475px;left:72px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;-   
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:475px;left:99px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;Contrôle et validation des dossiers collaborateurs à hauteur de 50 000 €
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:496px;left:72px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;-  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:496px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;Ouverture et &lt;span class=&quot;trxml-579&quot;&gt;constitution des dossiers&lt;/span&gt; successions
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:517px;left:72px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;-  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:517px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;Analyse du dossier, affectation des bénéficiaires, &lt;span class=&quot;trxml-580&quot;&gt;demandes de pièces&lt;/span&gt;, règlements des bénéficiaires,
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:537px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;&lt;span class=&quot;trxml-581&quot;&gt;rédaction de courriers&lt;/span&gt;, mails aux différents intervenants internes et externes
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:558px;left:72px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;-  Dans la cadre de la &lt;span class=&quot;trxml-582&quot;&gt;mise en place&lt;/span&gt; de la loi Eckert, prise en charge d’une task force pour l’instruction des
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:578px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;&lt;span class=&quot;trxml-583&quot;&gt;contrats&lt;/span&gt; d’assurance vie suite au décès de l’assuré pour les capitaux non réclamés (14 personnes)
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:599px;left:72px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;-  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:599px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;&lt;span class=&quot;trxml-584&quot;&gt;Organisation&lt;/span&gt; des compétences professionnelles de l’équipe, remontées des anomalies, des &lt;span class=&quot;trxml-586&quot;&gt;statistiques&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:620px;left:72px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;-  &lt;span class=&quot;trxml-587&quot;&gt;Réalisation&lt;/span&gt; des &lt;span class=&quot;trxml-588&quot;&gt;recherches&lt;/span&gt; (&lt;span class=&quot;trxml-589&quot;&gt;recherches&lt;/span&gt; multipistes actives et &lt;span class=&quot;trxml-590&quot;&gt;instruction des dossiers&lt;/span&gt; par l’envoi &lt;span class=&quot;trxml-591&quot;&gt;de courriers&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:640px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;de mails et &lt;span class=&quot;trxml-592&quot;&gt;appels sortants&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:661px;left:72px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;-  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:661px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;Analyse et préconisations de &lt;span class=&quot;trxml-593&quot;&gt;recherches&lt;/span&gt; complémentaires sur les bénéficiaires
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:681px;left:72px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;-  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:681px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;Contrôle et identifier les règlements différés afin que les fonds ne soient pas déposés à la &lt;span class=&quot;trxml-594&quot;&gt;caisse&lt;/span&gt; des dépôts
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:702px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;et consignation
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:723px;left:72px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;-  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:723px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;Contrôler, instruire, clôturer les dossiers en anomalie
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:743px;left:72px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;-  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:743px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;&lt;span class=&quot;trxml-595&quot;&gt;Réception des pièces&lt;/span&gt; complémentaires, analyse, &lt;span class=&quot;trxml-596&quot;&gt;traitement&lt;/span&gt;, règlement de la succession aux ayants droit
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:764px;left:72px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;-  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:764px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;&lt;span class=&quot;trxml-597&quot;&gt;Prise en charge des appels entrants&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:785px;left:72px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;-  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:785px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;Report et uniformisation des informations dans différents fichiers avant règlement définitif à la &lt;span class=&quot;trxml-598&quot;&gt;Caisse&lt;/span&gt; des
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:805px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;dépôts et consignation (soldes &lt;span class=&quot;trxml-599&quot;&gt;comptables&lt;/span&gt;, clauses bénéficiaires&lt;/span&gt;&lt;/span&gt;)
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-6&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:867px;left:51px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:12pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-24&quot;&gt;2012 - 2014&lt;/span&gt; : &lt;span class=&quot;trxml-26&quot;&gt;&lt;span class=&quot;trxml-600&quot;&gt;GESTIONNAIRE&lt;/span&gt; D’ASSURANCE VIE&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:886px;left:48px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-27&quot;&gt;BNP Cardif&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:904px;left:72px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;-  
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:904px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;Prise en charge, contrôle et &lt;span class=&quot;trxml-602&quot;&gt;traitement&lt;/span&gt; des clauses bénéficiaires
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:922px;left:48px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;&lt;span class=&quot;trxml-603&quot;&gt;Banque Privée&lt;/span&gt; 1818
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:940px;left:72px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;-  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:940px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;Garantir le &lt;span class=&quot;trxml-604&quot;&gt;traitement&lt;/span&gt; des opérations sur l’assurance &lt;span class=&quot;trxml-605&quot;&gt;vie&lt;/span&gt; et apporter la &lt;span class=&quot;trxml-606&quot;&gt;qualité de service&lt;/span&gt; inhérente aux
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:961px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;&lt;span class=&quot;trxml-607&quot;&gt;réseaux&lt;/span&gt; et &lt;span class=&quot;trxml-608&quot;&gt;banques&lt;/span&gt; privés
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:981px;left:72px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;-  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:981px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;&lt;span class=&quot;trxml-609&quot;&gt;Gestion des contrats&lt;/span&gt; : réceptionner les demandes, réaliser les contrôles de 1
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:980px;left:589px;font-family:&amp;apos;Calibri&amp;apos;;font-size:7pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;er
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:981px;left:603px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;niveau (complétude et
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1002px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;conformité)
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1022px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;Traiter et suivre les dossiers inhérents à tous les actes d’assurance vie (adhésion, versement
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1040px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;complémentaire, avance, rachat, arbitrage, changement de clause bénéficiaire, &lt;span class=&quot;trxml-611&quot;&gt;gestion administrative&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1058px;left:72px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;-  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1058px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;Assurer l’interface entre les partenaires, les Banquiers Privés et les compagnies d’assurance 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1121px;left:12px;white-space:nowrap;&quot;&gt;&lt;hr&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/hr&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1208px;left:48px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;&lt;span class=&quot;trxml-29&quot;&gt;CNP &lt;span class=&quot;trxml-613&quot;&gt;Assurances&lt;/span&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1226px;left:72px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;-  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1226px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;Dans le cadre d&amp;apos;une modification informatique, &lt;span class=&quot;trxml-614&quot;&gt;traitement&lt;/span&gt;, saisie et &lt;span class=&quot;trxml-615&quot;&gt;suivi des dossiers clients&lt;/span&gt;, mise à jour des
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1246px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;rachats
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1267px;left:72px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;-  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1267px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;&lt;span class=&quot;trxml-616&quot;&gt;Mise en place&lt;/span&gt; des nantissements
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1287px;left:72px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;-  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1287px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;Après vérifications de la conformité des demandes &lt;span class=&quot;trxml-617&quot;&gt;clients&lt;/span&gt;, paiement des prestations (rachats partiels,
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1308px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;rachats partiels programmés, rachats totaux, résiliations)
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1329px;left:72px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;-  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1329px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;Après vérification des éléments &lt;span class=&quot;trxml-618&quot;&gt;juridiques&lt;/span&gt; concernant les majeurs protégés &lt;span class=&quot;trxml-619&quot;&gt;mise en place&lt;/span&gt; du blocage des
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1349px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;contrats
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1370px;left:72px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;-  Remontée des informations, &lt;span class=&quot;trxml-68&quot;&gt;&lt;span class=&quot;trxml-620&quot;&gt;contrôle qualité&lt;/span&gt;&lt;/span&gt; des dossiers, travail d’équipe
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1391px;left:51px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;&lt;span class=&quot;trxml-31&quot;&gt;AXA&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1411px;left:72px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;-  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1411px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;Délégation de pouvoir à hauteur de 80 000 €
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1432px;left:72px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;-  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1432px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;&lt;span class=&quot;trxml-622&quot;&gt;Vérification des documents&lt;/span&gt; (identité, origine des fonds, cohérence entre le choix du &lt;span class=&quot;trxml-623&quot;&gt;client&lt;/span&gt; et sa situation
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1452px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;globale &lt;span class=&quot;trxml-624&quot;&gt;financière&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1473px;left:72px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;-  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1473px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;&lt;span class=&quot;trxml-625&quot;&gt;Traitement&lt;/span&gt; des émissions et des &lt;span class=&quot;trxml-626&quot;&gt;actes de gestion&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1493px;left:72px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;-  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1493px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;Souscriptions, versements complémentaires, rachats partiels, rachats totaux
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1514px;left:72px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;-  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1514px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;Arbitrages
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1535px;left:72px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;-  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1535px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;Vérification et saisie des clauses bénéficiaires et clauses démembrées
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1555px;left:72px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;-  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1555px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;Prise en charge des &lt;span class=&quot;trxml-627&quot;&gt;actes administratifs&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1576px;left:72px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;-  Octroi d’avances
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1596px;left:72px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;-  Remontée des informations et travail&lt;/span&gt;&lt;/span&gt; d’équipe&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-6&quot;&gt;
+
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1638px;left:48px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:12pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-52&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-33&quot;&gt;1995-2012&lt;/span&gt; : &lt;span class=&quot;trxml-35&quot;&gt;CHARGEE DE &lt;span class=&quot;trxml-629&quot;&gt;CLIENTELE&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-52&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-52&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1657px;left:48px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-52&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-36&quot;&gt;ALLIANZ&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-52&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1675px;left:72px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-52&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;-  &lt;span class=&quot;trxml-630&quot;&gt;Gestion&lt;/span&gt; et &lt;span class=&quot;trxml-631&quot;&gt;développement d’un portefeuille&lt;/span&gt; principalement de &lt;span class=&quot;trxml-632&quot;&gt;particuliers&lt;/span&gt; en &lt;span class=&quot;trxml-633&quot;&gt;assurances&lt;/span&gt; IARD et vie
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-52&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1693px;left:48px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-52&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-38&quot;&gt;LA BANQUE POSTALE&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-52&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1711px;left:72px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-52&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;-  &lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-634&quot;&gt;Gestion&lt;/span&gt; et &lt;span class=&quot;trxml-635&quot;&gt;développement d’un portefeuille clients&lt;/span&gt; moyen haut de gamme par la &lt;span class=&quot;trxml-636&quot;&gt;mise en place&lt;/span&gt; de stratégies
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-52&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1729px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-52&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-637&quot;&gt;financières&lt;/span&gt; pour constituer, optimiser, valoriser, transmettre le patrimoine
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-52&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1746px;left:51px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-52&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-40&quot;&gt;AXA&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-52&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1764px;left:72px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-52&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;-  Prospection, création, &lt;span class=&quot;trxml-638&quot;&gt;fidélisation&lt;/span&gt; et &lt;span class=&quot;trxml-639&quot;&gt;développement d’un portefeuille clients&lt;/span&gt; en &lt;span class=&quot;trxml-640&quot;&gt;assurance&lt;/span&gt; IARD et
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-52&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1782px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-52&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-641&quot;&gt;assurance vie&lt;/span&gt; + crédits adossés
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-52&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1800px;left:48px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-52&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-42&quot;&gt;MAAF &lt;span class=&quot;trxml-642&quot;&gt;ASSURANCE&lt;/span&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-52&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1818px;left:72px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-52&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;-  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-52&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1818px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-52&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-643&quot;&gt;Développement&lt;/span&gt;, &lt;span class=&quot;trxml-644&quot;&gt;gestion&lt;/span&gt;, &lt;span class=&quot;trxml-645&quot;&gt;fidélisation d’un portefeuille clients&lt;/span&gt; en &lt;span class=&quot;trxml-646&quot;&gt;assurance&lt;/span&gt; IARD et vie
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-52&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1836px;left:72px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-52&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;-  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-52&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1836px;left:96px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-52&quot;&gt;&lt;span class=&quot;trxml-6&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;Création et &lt;span class=&quot;trxml-647&quot;&gt;mise en place&lt;/span&gt; du plateau &lt;span class=&quot;trxml-648&quot;&gt;téléphonique&lt;/span&gt;. (&lt;span class=&quot;trxml-649&quot;&gt;Vente par téléphone&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;)&lt;/div&gt;
+
+
+&lt;div style=&quot;position:absolute;top:1890px;left:331px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:12pt;color:#ffffff;background-color:#000000;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-8&quot;&gt;&lt;span class=&quot;trxml-650&quot;&gt;FORMATION&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1947px;left:48px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-8&quot;&gt;&lt;span class=&quot;trxml-44&quot;&gt;&lt;span class=&quot;trxml-14&quot;&gt;2011&lt;/span&gt; &lt;span class=&quot;trxml-15&quot;&gt;Licence professionnelle conseillère &lt;span class=&quot;trxml-651&quot;&gt;gestionnaire&lt;/span&gt; de &lt;span class=&quot;trxml-652&quot;&gt;clientèle&lt;/span&gt; (&lt;span class=&quot;trxml-653&quot;&gt;Banque&lt;/span&gt;, &lt;span class=&quot;trxml-654&quot;&gt;assurance&lt;/span&gt;, &lt;span class=&quot;trxml-655&quot;&gt;finance&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;)&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1965px;left:48px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-45&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;&lt;span class=&quot;trxml-16&quot;&gt;1998&lt;/span&gt; &lt;span class=&quot;trxml-17&quot;&gt;Brevet Professionnel&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; d’Assurance&lt;/b&gt;&lt;/div&gt;
+
+
+&lt;div style=&quot;position:absolute;top:2019px;left:308px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:12pt;color:#ffffff;background-color:#000000;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-10&quot;&gt;CENTRES D’INTERET&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-10&quot;&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-10&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:2058px;left:48px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-10&quot;&gt;Diplômée de &lt;span class=&quot;trxml-60&quot;&gt;sophrologie&lt;/span&gt; (Ecole EDHES), &lt;span class=&quot;trxml-61&quot;&gt;sciences humaines&lt;/span&gt;, &lt;span class=&quot;trxml-62&quot;&gt;danse&lt;/span&gt;&lt;/span&gt; &lt;/b&gt;&lt;/div&gt;
+
+ &lt;/div&gt;&lt;/div&gt;
+</DocumentHtml>
+</Profile>
+

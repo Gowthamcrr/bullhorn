@@ -1,0 +1,1091 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Profile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" lang="french" file="0030N000023i5OBQAY.docx">
+
+<ProfileSummary>
+    <CurrentJob>Stage Dessinatrice en Batiment</CurrentJob>
+    <CurrentEmployer>Cabinet d&apos;architecte ATA</CurrentEmployer>
+    <CurrentEmployerLocation>Toulouse</CurrentEmployerLocation>
+    <TotalExperienceYears>1</TotalExperienceYears>
+    <HighestEducationLevel code="5"
+        description="Master"
+       
+        description.cz="Magistr"
+        description.de="Master"
+        description.dk="Master"
+        description.el="Μεταπτυχιακό"
+        description.en="Master"
+        description.es="Master"
+        description.fr="Master"
+        description.it="Master"
+        description.nl="Master"
+        description.pl="Magister"
+        description.pt="Mestre"
+        description.ro="Master"
+       
+        description.se="Master"
+        description.sk="Master">Master</HighestEducationLevel>
+    <ESHighestEducationLevel
+       
+       ></ESHighestEducationLevel>
+        <SummaryAmbitionSection>Après avoir commencé ma carrière dans le commerce, puis dans le social, j&apos;ai repris mes études ;
+j&apos;ai ainsi passée mon diplôme de métreur et dessinatrice en bureau d&apos;étude du batiment. J&apos;y ai
+acquis diverses compétences et la capacité d&apos;adaptations.
+Compétences
+
+    *      Rassemblement des données techniques pour la réalisation de plans
+    *      Etude de projets (maisons individuelles, lotissements, fibre optique...)
+    *      Réalisation et modification de plans 2D et 3D, AutoCAD, Revit, ArchiCAD(notion), Qgis (APS,
+      Fiabilisation...)
+    *      Réponse aux appels d&apos;offres, devis, planning de réalisation, suivi des clients
+    *      Relevé de façades, cages d&apos;escalier, acrotères au laser
+    *      Concevoir les nomenclatures des schémas et plans
+    *      Métré quantitatif : sélection des produits et matériaux en respectant le cahier des charges</SummaryAmbitionSection>
+    <CVTitle></CVTitle>
+
+<ProfilePicture>
+        <Base64Content></Base64Content>
+    <Filename></Filename>
+    <ContentType></ContentType>
+</ProfilePicture>
+<ExternalID></ExternalID>
+</ProfileSummary>
+
+<Personal>
+    <FirstName>Clarisse</FirstName>
+    <MiddleName></MiddleName>
+    <LastName>Peraste</LastName>
+    <LastNamePrefix></LastNamePrefix>
+    <LastNameWithoutPrefix>Peraste</LastNameWithoutPrefix>
+    <FullName>CLARISSE PERASTE</FullName>
+    <Initials>C.</Initials>
+    <Nationality
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       ></Nationality>
+    <Gender code="2"
+        description="Female"
+       
+       
+        description.de="Frau"
+        description.dk="Kvinde"
+        description.el="Θήλυ"
+        description.en="Female"
+        description.es="Mujer"
+        description.fr="Femme"
+        description.it="Donna"
+        description.nl="Vrouw"
+       
+       
+       
+       
+       
+       >Female</Gender>
+    <MaritalStatus
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   ></MaritalStatus>
+    <DateOfBirth></DateOfBirth>
+        <DriversLicense></DriversLicense>
+        <DriversLicenseEUNorm></DriversLicenseEUNorm>
+
+<Address>
+        <StreetName>RUE RICHARD WAGNER</StreetName>
+        <StreetNumberBase>18</StreetNumberBase>
+        <ZipCode>31600</ZipCode>
+        <City>MURET</City>
+        <Region code="FR-31"
+       
+       
+        description.de="FR Département Haute-Garonne"
+       
+       
+        description.en="FR Haute-Garonne"
+       
+        description.fr="FR Haute-Garonne"
+       
+        description.nl="FR Haute-Garonne"
+       
+       
+       
+       
+       
+       >FR Haute-Garonne</Region>
+        <Country code="FR"
+       
+        description.cz="Francie"
+        description.de="Frankreich"
+        description.dk="Frankrig"
+       
+        description.en="France"
+        description.es="Francia"
+        description.fr="France"
+        description.it="Francia"
+        description.nl="Frankrijk"
+        description.pl="Francja"
+        description.pt="França"
+        description.ro="Franța"
+       
+        description.se="Frankrike"
+        description.sk="Francúzsko">France</Country>
+</Address>
+<HomePhones>
+        <HomePhone></HomePhone>
+</HomePhones>
+<MobilePhones>
+        <MobilePhone>+33667214237</MobilePhone>
+</MobilePhones>
+<Emails>
+        <Email>p.cla1979@outlook.fr</Email>
+</Emails>
+<ExtraInfo>
+        <TrxmlID>134231327</TrxmlID>
+    <ExternalID></ExternalID>
+    <Source></Source>
+    <ExtraInfo1></ExtraInfo1>
+    <ExtraInfo2></ExtraInfo2>
+    <ExtraInfo3></ExtraInfo3>
+    
+</ExtraInfo>
+</Personal>
+
+<EducationHistory>
+    <EducationItem>
+        <EducationLevel code="5"
+            description="Master"
+           
+            description.cz="Magistr"
+            description.de="Master"
+            description.dk="Master"
+            description.el="Μεταπτυχιακό"
+            description.en="Master"
+            description.es="Master"
+            description.fr="Master"
+            description.it="Master"
+            description.nl="Master"
+            description.pl="Magister"
+            description.pt="Mestre"
+            description.ro="Master"
+           
+            description.se="Master"
+            description.sk="Master">Master</EducationLevel>
+        <InstituteName>AP FORMATION</InstituteName>
+        <InstituteLocation>TOULOUSE</InstituteLocation>
+        <Major>DESSINATRICE EN BUREAU D&apos;ETUDE BTP; Logiciel AutoCAD, Revit, ArchiCAD</Major>
+        <GPA></GPA>
+        <StartDate></StartDate>
+        <EndDate>2017-12-31</EndDate>
+        <ESEducationLevel
+           
+           ></ESEducationLevel>
+
+    </EducationItem>
+    <EducationItem>
+        <EducationLevel code="5"
+            description="Master"
+           
+            description.cz="Magistr"
+            description.de="Master"
+            description.dk="Master"
+            description.el="Μεταπτυχιακό"
+            description.en="Master"
+            description.es="Master"
+            description.fr="Master"
+            description.it="Master"
+            description.nl="Master"
+            description.pl="Magister"
+            description.pt="Mestre"
+            description.ro="Master"
+           
+            description.se="Master"
+            description.sk="Master">Master</EducationLevel>
+        <InstituteName>AFPA TOULOUSE</InstituteName>
+        <InstituteLocation>TOULOUSE</InstituteLocation>
+        <Major>TECHNICIEN DE MAINTENANCE; CCP obtenus : CP-001657, CP-001655 et habilitation électrique BR</Major>
+        <GPA></GPA>
+        <StartDate>2014-12-01</StartDate>
+        <EndDate>2015-11-30</EndDate>
+        <ESEducationLevel
+           
+           ></ESEducationLevel>
+
+    </EducationItem>
+    <EducationItem>
+        <EducationLevel code="1"
+            description="Secondary Education"
+           
+            description.cz="Středoškolské vzdělání"
+            description.de="Schulabschluß"
+            description.dk="Gymnasiel ungdomsuddannelse"
+            description.el="Δευτεροβάθμια εκπαίδευση"
+            description.en="Secondary Education"
+            description.es="Educación secundaria"
+            description.fr="Éducation Secondaire"
+            description.it="Istruzione secondaria"
+            description.nl="Voortgezet Onderwijs"
+            description.pl="Wykształcenie średnie"
+            description.pt="Educação secundária"
+            description.ro="Şcoală secundară"
+           
+            description.se="Gymnasieskola"
+            description.sk="Stredná škola">Secondary Education</EducationLevel>
+        <InstituteName>CENTRE PROFESSIONNEL DE SILLERY- EPINAY SUR ORGE 91360</InstituteName>
+        <InstituteLocation></InstituteLocation>
+        <Major>METREUR TCE; Spécialisation gros œuvres (BAC)</Major>
+        <GPA></GPA>
+        <StartDate>2009-09-01</StartDate>
+        <EndDate>2011-11-30</EndDate>
+        <ESEducationLevel
+           
+           ></ESEducationLevel>
+
+    </EducationItem>
+
+</EducationHistory>
+
+<EmploymentHistory>
+    <EmploymentItem>
+        <JobTitle></JobTitle>
+        <ExperienceONET></ExperienceONET>
+        <EmployerName>TECHNICIENS EN BUREAU D&apos;éTUDES / AXIANS</EmployerName>
+        <EmployerLocation></EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>0</YearsExperience>
+        <JobCode></JobCode>
+        <JobGroup></JobGroup>
+        <JobClass></JobClass>
+        <JobDescription>* Etude de projets, APS (fibre optique sur la région de L&apos;Aveyron)</JobDescription>
+        <StartDate>2018-09-01</StartDate>
+        <EndDate>2018-12-31</EndDate>
+    </EmploymentItem>
+    <EmploymentItem>
+        <JobTitle>Stage Dessinatrice en Batiment</JobTitle>
+        <ExperienceONET id="17_3011_01">Architectural Drafters</ExperienceONET>
+        <EmployerName>Cabinet d&apos;architecte ATA</EmployerName>
+        <EmployerLocation>Toulouse</EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>0</YearsExperience>
+        <JobCode code="1933"></JobCode>
+        <JobGroup code="251"></JobGroup>
+        <JobClass code="5"></JobClass>
+        <JobDescription>* Réalisation et modification de plans 2D et 3D sous ArchiCAD * Proposition d&apos;installations, aménagements, agencement des pièces * Etude de projets avec l&apos;architecte (maisons individuelles, lotissements : potentiel du terrain, diminution des surfaces non-constructibles, nouveau quartier, bureaux, logements, espaces détente). * Suivi du chantier, respect des délais et des coûts, (réunions de chantier avec le client, l&apos;architecte, le menuisier, les ouvriers).</JobDescription>
+        <StartDate>2017-10-01</StartDate>
+        <EndDate>2017-11-30</EndDate>
+    </EmploymentItem>
+    <EmploymentItem>
+        <JobTitle>Métreur</JobTitle>
+        <ExperienceONET id="13_1051_00">Cost Estimators</ExperienceONET>
+        <EmployerName>Société Déco 2r, entreprise de finition spécialisée dans la façade, peinture et isolation, Champigny sur</EmployerName>
+        <EmployerLocation>Marne 94500</EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>0</YearsExperience>
+        <JobCode code="1627"></JobCode>
+        <JobGroup code="24"></JobGroup>
+        <JobClass code="3"></JobClass>
+        <JobDescription>* Métré quantitatif : sélection des produits et matériaux en respectant le cahier des charges, * Détermination des quantités de matériaux, Suivi du chantier, respect des délais et des coûts * Réunions de chantier avec le client, l&apos;architecte, le menuisier, les ouvriers</JobDescription>
+        <StartDate>2011-05-01</StartDate>
+        <EndDate>2011-08-31</EndDate>
+    </EmploymentItem>
+    <EmploymentItem>
+        <JobTitle>Stagiaires métreur</JobTitle>
+        <ExperienceONET></ExperienceONET>
+        <EmployerName>Société Ergo</EmployerName>
+        <EmployerLocation></EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>0</YearsExperience>
+        <JobCode></JobCode>
+        <JobGroup></JobGroup>
+        <JobClass></JobClass>
+        <JobDescription>* Accompagnement sur un chantier, observation d&apos;une réunion de chantier (maison particulier). * Etude quantitatif sur plan, Métrés sur projet de construction d&apos;un lotissement de villas.</JobDescription>
+        <StartDate>2011-03-01</StartDate>
+        <EndDate>2011-04-30</EndDate>
+    </EmploymentItem>
+
+</EmploymentHistory>
+
+<RecentEmploymentHistory>
+    <RecentEmploymentItem>
+        <JobTitle>Stage Dessinatrice en Batiment</JobTitle>
+        <ExperienceONET></ExperienceONET>
+        <EmployerName>Cabinet d&apos;architecte ATA</EmployerName>
+        <EmployerLocation>Toulouse</EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>0</YearsExperience>
+        <JobCode code="1933"></JobCode>
+        <JobGroup code="251"></JobGroup>
+        <JobClass code="5"></JobClass>
+        <JobDescription>* Réalisation et modification de plans 2D et 3D sous ArchiCAD * Proposition d&apos;installations, aménagements, agencement des pièces * Etude de projets avec l&apos;architecte (maisons individuelles, lotissements : potentiel du terrain, diminution des surfaces non-constructibles, nouveau quartier, bureaux, logements, espaces détente). * Suivi du chantier, respect des délais et des coûts, (réunions de chantier avec le client, l&apos;architecte, le menuisier, les ouvriers).</JobDescription>
+        <StartDate>2017-10-01</StartDate>
+        <EndDate>2017-11-30</EndDate>
+    </RecentEmploymentItem>
+
+</RecentEmploymentHistory>
+
+<Skills>
+    <LanguageSkills>
+            <LanguageSkill>
+        <LanguageSkill></LanguageSkill>
+        <LanguageProficiency
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           ></LanguageProficiency>
+        <LanguageSkillDuration></LanguageSkillDuration>
+        <LanguageSkillFirstUsed></LanguageSkillFirstUsed>
+        <LanguageSkillLastUsed></LanguageSkillLastUsed>
+    </LanguageSkill>
+
+    </LanguageSkills>
+    <ComputerSkills>
+            <ComputerSkill>
+        <ComputerSkill>AutoCAD</ComputerSkill>
+        <ComputerSkillDuration></ComputerSkillDuration>
+        <ComputerSkillFirstUsed></ComputerSkillFirstUsed>
+        <ComputerSkillLastUsed></ComputerSkillLastUsed>
+    </ComputerSkill>
+    <ComputerSkill>
+        <ComputerSkill>Revit</ComputerSkill>
+        <ComputerSkillDuration></ComputerSkillDuration>
+        <ComputerSkillFirstUsed></ComputerSkillFirstUsed>
+        <ComputerSkillLastUsed></ComputerSkillLastUsed>
+    </ComputerSkill>
+    <ComputerSkill>
+        <ComputerSkill>ArchiCAD</ComputerSkill>
+        <ComputerSkillDuration>0</ComputerSkillDuration>
+        <ComputerSkillFirstUsed>2017-10-01</ComputerSkillFirstUsed>
+        <ComputerSkillLastUsed>2017-11-30</ComputerSkillLastUsed>
+    </ComputerSkill>
+    <ComputerSkill>
+        <ComputerSkill>ATA</ComputerSkill>
+        <ComputerSkillDuration>0</ComputerSkillDuration>
+        <ComputerSkillFirstUsed>2017-10-01</ComputerSkillFirstUsed>
+        <ComputerSkillLastUsed>2017-11-30</ComputerSkillLastUsed>
+    </ComputerSkill>
+
+    </ComputerSkills>
+    <ProfessionalSkills>
+            <ProfessionalSkill>
+        <ProfessionalSkill></ProfessionalSkill>
+        <ProfessionalSkillDuration></ProfessionalSkillDuration>
+        <ProfessionalSkillFirstUsed></ProfessionalSkillFirstUsed>
+        <ProfessionalSkillLastUsed></ProfessionalSkillLastUsed>
+    </ProfessionalSkill>
+    </ProfessionalSkills>
+    <SoftSkills>
+            <SoftSkill>
+        <SoftSkill></SoftSkill>
+        <SoftSkillDuration></SoftSkillDuration>
+        <SoftSkillFirstUsed></SoftSkillFirstUsed>
+        <SoftSkillLastUsed></SoftSkillLastUsed>
+    </SoftSkill>
+
+    </SoftSkills>
+</Skills>
+
+<SkillsObject>
+    <Skill>
+        <ExtractedSkill>AutoCAD</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>International</MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode>ITSKILLKSHAD5</MasterSkillCode>
+        <SkillType>IT_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Revit</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>International</MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode>ITSKILLKSB97N</MasterSkillCode>
+        <SkillType>IT_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>ArchiCAD</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>International</MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode>ITSKILLKSOBPI</MasterSkillCode>
+        <SkillType>IT_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears>0</DurationYears>
+        <DurationMonths>2</DurationMonths>
+        <StartDate>2017-10-01</StartDate>
+        <EndDate>2017-11-30</EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>ATA</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>International</MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode>ITSKILLKSU6O7</MasterSkillCode>
+        <SkillType>IT_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears>0</DurationYears>
+        <DurationMonths>2</DurationMonths>
+        <StartDate>2017-10-01</StartDate>
+        <EndDate>2017-11-30</EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>dans le commerce</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Vente Directe</MasterSkillName>
+        <MasterSkillCode>PROFSKILL40711</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>bureau d&apos;étude</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Dessins et Plans Techniques</MasterSkillName>
+        <MasterSkillCode>PROFSKILL2179</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>techniques</ExtractedSkill>
+        <Normalized>N</Normalized>
+        <MasterSetID></MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode></MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>réalisation de plans</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Dessins et Plans Techniques</MasterSkillName>
+        <MasterSkillCode>PROFSKILL2179</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>fibre optique</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Câblage</MasterSkillName>
+        <MasterSkillCode>PROFSKILL2182</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>modification de plans</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Dessins et Plans Techniques</MasterSkillName>
+        <MasterSkillCode>PROFSKILL2179</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Réponse aux appels d&apos;offres</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Gestion d&apos;appels d&apos;offres</MasterSkillName>
+        <MasterSkillCode>PROFSKILL70007</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>devis</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Etablissement de Devis</MasterSkillName>
+        <MasterSkillCode>PROFSKILL5504</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>planning</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Gestion de Planning</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1268</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>suivi des clients</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Suivi et facturation des clients</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1240</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>cahier des charges</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Facility Management</MasterSkillName>
+        <MasterSkillCode>PROFSKILL50800</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>DEC</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Comptabilité et gestion de la trésorerie</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1248</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Suivi du chantier</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Conduite de Travaux et Gestion de Chantier</MasterSkillName>
+        <MasterSkillCode>PROFSKILL30024</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>réunions de chantier</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Management et Conduite de Projet</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1263</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>réunion de chantier</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Management et Conduite de Projet</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1263</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>BTP</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Travail en TP et Génie Civil</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1500</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>MAINTENANCE</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Maintenance et dépannage multi-technique</MasterSkillName>
+        <MasterSkillCode>PROFSKILL30020</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>électrique</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Travail Sur Installation Électrique</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1351</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>quantités de matériaux</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Manutention et Port de Charges</MasterSkillName>
+        <MasterSkillCode>PROFSKILL20359</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>respect des délais</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Travail en Messagerie, Courses et Livraisons</MasterSkillName>
+        <MasterSkillCode>PROFSKILL90172</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>DESSINATRICE EN BUREAU D&apos;ETUDE BTP; Logiciel AutoCAD, Revit, ArchiCAD</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Dessins et Plans Techniques</MasterSkillName>
+        <MasterSkillCode>PROFSKILL2179</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>TECHNICIEN DE MAINTENANCE; CCP obtenus : CP-001657, CP-001655 et habilitation électrique BR</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Travail Sur Installation Électrique</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1351</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+
+</SkillsObject>
+
+<Other>
+    <FullTextKeywords>
+        Suivi du chantierconstructioncoûtsfaçadefibre optiqueisolationquantités de matériauxrespect des délaisDESSINATRICE EN BUREAU D&apos;ETUDE BTP; Logiciel AutoCAD, Revit, ArchiCADTECHNICIEN DE MAINTENANCE; CCP obtenus : CP-001657, CP-001655 et habilitation électrique BRMETREUR TCE; Spécialisation gros œuvres (BAC)
+    </FullTextKeywords>
+</Other>
+
+<UserArea>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+</UserArea>
+
+<DocumentText>
+CLARISSE PERASTE
+
+
+Metreur/euse
+Dessinateur/trice
+18 RUE RICHARD WAGNER, 31600 MURET
+0667214237
+p.cla1979@outlook.fr
+www.linkedin.com/in/peraste-clarisse
+
+
+
+Après avoir commencé ma carrière dans le commerce, puis dans le social, j&apos;ai repris mes études ;
+j&apos;ai ainsi passée mon diplôme de métreur et dessinatrice en bureau d&apos;étude du batiment. J&apos;y ai
+acquis diverses compétences et la capacité d&apos;adaptations.
+Compétences
+
+    *      Rassemblement des données techniques pour la réalisation de plans
+    *      Etude de projets (maisons individuelles, lotissements, fibre optique...)
+    *      Réalisation et modification de plans 2D et 3D, AutoCAD, Revit, ArchiCAD(notion), Qgis (APS,
+      Fiabilisation...)
+    *      Réponse aux appels d&apos;offres, devis, planning de réalisation, suivi des clients
+    *      Relevé de façades, cages d&apos;escalier, acrotères au laser
+    *      Concevoir les nomenclatures des schémas et plans
+    *      Métré quantitatif : sélection des produits et matériaux en respectant le cahier des charges
+
+
+Expérience
+SEPT2018 - DEC 2018
+TECHNICIENS EN BUREAU D&apos;éTUDES / AXIANS
+    *      Etude de projets, APS (fibre optique sur la région de L&apos;Aveyron)
+OCT2017 - NOV 2017
+Stage Dessinatrice en Batiment / Cabinet d&apos;architecte ATA, Toulouse
+    *      Réalisation et modification de plans 2D et 3D sous ArchiCAD
+    *      Proposition d&apos;installations, aménagements, agencement des pièces
+    *      Etude de projets avec l&apos;architecte (maisons individuelles, lotissements : potentiel du
+      terrain,
+      diminution des surfaces non-constructibles, nouveau quartier, bureaux, logements, espaces
+      détente).
+    *      Suivi du chantier, respect des délais et des coûts, (réunions de chantier avec le client,
+      l&apos;architecte, le menuisier, les ouvriers).
+MAI 2011 - AOUT 2011
+Métreur / Société Déco 2r, entreprise de finition spécialisée dans la façade, peinture et isolation,
+Champigny sur Marne 94500
+   *      Métré quantitatif : sélection des produits et matériaux en respectant le cahier des charges,
+   *      Détermination des quantités de matériaux, Suivi du chantier, respect des délais et des coûts
+   *      Réunions de chantier avec le client, l&apos;architecte, le menuisier, les ouvriers
+MARS 2011- AVRIL2011
+Stagiaires métreur / Société Ergo, Economiste de la construction, Léguevin 31490
+    *      Accompagnement sur un chantier, observation d&apos;une réunion de chantier (maison particulier).
+    *      Etude quantitatif sur plan, Métrés sur projet de construction d&apos;un lotissement de villas.
+
+
+Formation
+
+
+Déc. 2017       DESSINATRICE EN BUREAU D&apos;ETUDE BTP / AP FORMATION, TOULOUSE
+    *      Logiciel AutoCAD, Revit, ArchiCAD
+
+DEC 2014/NOV2015      TECHNICIEN DE MAINTENANCE / AFPA TOULOUSE
+    *      CCP obtenus : CP-001657, CP-001655 et habilitation électrique BR.
+
+SEPT 2009/NOV2011      METREUR TCE / CENTRE PROFESSIONNEL DE SILLERY- EPINAY SUR ORGE 91360
+    *      Spécialisation gros œuvres (BAC)
+
+Activités
+
+Sports : Natations, fitness, full contact            Loisirs : Cinéma, écritures, théâtre, expositions
+1
+</DocumentText>
+<DocumentHtml>
+&lt;div&gt;&lt;div style=&quot;position: relative;&quot;&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;
+&lt;span style=&quot;font-family:&amp;apos;Century&amp;apos;;font-size:10pt;&quot;&gt;&lt;b&gt;	 &lt;/b&gt;	 	 	 	 	 	 	 	        &lt;b&gt;&lt;span class=&quot;trxml-12&quot;&gt;&lt;span class=&quot;trxml-375&quot;&gt;CLARISSE PERASTE&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+&lt;/span&gt;&lt;tk_metadata name=&quot;last_modified&quot; value=&quot;14/01/2019, 14:17&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt; &lt;/span&gt;&lt;/tk_metadata&gt;&lt;tk_metadata name=&quot;author&quot; value=&quot;Pcla1&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt; &lt;/span&gt;&lt;/tk_metadata&gt;&lt;p&gt;&lt;span class=&quot;trxml-12&quot;&gt; &lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:justify;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;&quot;&gt;&lt;i&gt;&lt;span class=&quot;trxml-12&quot;&gt; &lt;/span&gt;&lt;/i&gt;&lt;/span&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;/p&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+&lt;/span&gt;&lt;table cellspacing=&quot;1&quot; width=&quot;941&quot;&gt;&lt;tr valign=&quot;top&quot;&gt;&lt;td width=&quot;343&quot;&gt;&lt;p style=&quot;text-align:justify;margin-top:0.00in;margin-bottom:0.00in;color:#262626;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Century&amp;apos;;font-size:22pt;color:#262626;&quot;&gt;&lt;i&gt;&lt;b&gt;&lt;span class=&quot;trxml-12&quot;&gt;Metreur/euse&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;trxml-12&quot;&gt; &lt;/span&gt;&lt;/br&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+Dessinateur/trice&lt;/span&gt;&lt;/b&gt;&lt;/i&gt;&lt;/span&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+ &lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+&lt;/span&gt;&lt;td width=&quot;298&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;table cellspacing=&quot;1&quot; width=&quot;298&quot;&gt;&lt;tr valign=&quot;top&quot;&gt;&lt;td width=&quot;270&quot;&gt;&lt;p style=&quot;text-align:right;margin-top:0.03in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:10pt;color:#000000;&quot;&gt;&lt;i&gt;&lt;span class=&quot;trxml-12&quot;&gt;&lt;span class=&quot;trxml-93&quot;&gt;18 RUE RICHARD WAGNER, 31600 MURET&lt;/span&gt;&lt;/span&gt;&lt;/i&gt;&lt;/span&gt;&lt;/p&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+&lt;/span&gt;&lt;/td&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+&lt;/span&gt;&lt;td width=&quot;28&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt; &lt;/span&gt;&lt;/td&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+&lt;/span&gt;&lt;/tr&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+&lt;/span&gt;&lt;tr valign=&quot;top&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+&lt;/span&gt;&lt;td width=&quot;270&quot;&gt;&lt;p style=&quot;text-align:right;margin-top:0.03in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:10pt;color:#000000;&quot;&gt;&lt;i&gt;&lt;span class=&quot;trxml-12&quot;&gt;&lt;span class=&quot;trxml-274&quot;&gt;0667214237&lt;/span&gt;&lt;/span&gt;&lt;/i&gt;&lt;/span&gt;&lt;/p&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+&lt;/span&gt;&lt;/td&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+&lt;/span&gt;&lt;td width=&quot;28&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt; &lt;/span&gt;&lt;/td&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+&lt;/span&gt;&lt;/tr&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+&lt;/span&gt;&lt;tr valign=&quot;top&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+&lt;/span&gt;&lt;td width=&quot;270&quot;&gt;&lt;p style=&quot;text-align:right;margin-top:0.03in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:10pt;color:#000000;&quot;&gt;&lt;i&gt;&lt;span class=&quot;trxml-12&quot;&gt;&lt;span class=&quot;trxml-478&quot;&gt;p.cla1979@outlook.fr&lt;/span&gt;&lt;/span&gt;&lt;/i&gt;&lt;/span&gt;&lt;/p&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+&lt;/span&gt;&lt;/td&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+&lt;/span&gt;&lt;td width=&quot;28&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt; &lt;/span&gt;&lt;/td&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+&lt;/span&gt;&lt;/tr&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+&lt;/span&gt;&lt;tr valign=&quot;top&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+&lt;/span&gt;&lt;td width=&quot;270&quot;&gt;&lt;p style=&quot;text-align:right;margin-top:0.03in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+&lt;/span&gt;&lt;a href=&quot;www.linkedin.com/in/peraste-clarisse&quot;&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:10pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;www.linkedin.com/in/peraste-clarisse&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width=&quot;28&quot;&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;color:#595959;&quot;&gt;
+&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:11pt;color:#595959;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+ &lt;/td&gt;
+&lt;td width=&quot;298&quot;&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p style=&quot;text-align:justify;margin-top:0.00in;margin-bottom:0.00in;color:#0070C0;&quot;&gt;
+&lt;span style=&quot;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;color:#0070c0;&quot;&gt;&lt;i&gt;&lt;span class=&quot;trxml-13&quot;&gt;Après avoir commencé ma carrière &lt;span class=&quot;trxml-520&quot;&gt;dans le commerce&lt;/span&gt;, puis dans le social, j&amp;apos;ai repris mes études ; j&amp;apos;ai ainsi passée mon diplôme de métreur et dessinatrice en &lt;span class=&quot;trxml-521&quot;&gt;bureau d&amp;apos;étude&lt;/span&gt; du &lt;span class=&quot;trxml-522&quot;&gt;batiment&lt;/span&gt;. J’y ai acquis diverses compétences et la capacité d’adaptations.&lt;/span&gt;&lt;/i&gt;&lt;/span&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;color:#262626;border-top-color:#A6A6A6;border-top-width:1pt;border-top-style:solid;&quot;&gt;&lt;span style=&quot;font-family:&amp;apos;Century&amp;apos;;font-size:10pt;color:#262626;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-13&quot;&gt;Compétences&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+
+&lt;/span&gt;&lt;/p&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;table cellspacing=&quot;1&quot; width=&quot;685&quot;&gt;&lt;tr valign=&quot;top&quot;&gt;&lt;td width=&quot;341&quot;&gt;&lt;p style=&quot;margin-left:0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;color:#595959;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:10pt;color:#595959;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-left:0.50in;text-indent:-0.25in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;color:#0070C0;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-size:10pt;color:#0070c0;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;●&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Arial&amp;apos;;font-size:10pt;color:#0070c0;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;	 &lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:10pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;Rassemblement des données &lt;span class=&quot;trxml-523&quot;&gt;techniques&lt;/span&gt; pour la &lt;span class=&quot;trxml-524&quot;&gt;réalisation de plans&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-left:0.50in;text-indent:-0.25in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;color:#0070C0;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-size:10pt;color:#0070c0;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;●&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Arial&amp;apos;;font-size:10pt;color:#0070c0;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;	 &lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:10pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;Etude de projets (maisons individuelles, lotissements, &lt;span class=&quot;trxml-525&quot;&gt;fibre&lt;/span&gt; optique…) &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-left:0.50in;text-indent:-0.25in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;color:#0070C0;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-size:10pt;color:#0070c0;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;●&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Arial&amp;apos;;font-size:10pt;color:#0070c0;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;	 &lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:10pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;&lt;span class=&quot;trxml-526&quot;&gt;Réalisation&lt;/span&gt; et &lt;span class=&quot;trxml-527&quot;&gt;modification de plans&lt;/span&gt; 2D et 3D, &lt;span class=&quot;trxml-67&quot;&gt;AutoCAD&lt;/span&gt;, &lt;span class=&quot;trxml-68&quot;&gt;Revit&lt;/span&gt;, &lt;span class=&quot;trxml-69&quot;&gt;ArchiCAD&lt;/span&gt;(notion), Qgis (APS, Fiabilisation…)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;/td&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;td width=&quot;343&quot;&gt;&lt;p style=&quot;margin-left:0.50in;text-indent:-0.25in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;color:#0070C0;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-size:10pt;color:#0070c0;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;●&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Arial&amp;apos;;font-size:10pt;color:#0070c0;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;	 &lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:10pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;&lt;span class=&quot;trxml-528&quot;&gt;Réponse aux appels&lt;/span&gt; d’offres, &lt;span class=&quot;trxml-529&quot;&gt;devis&lt;/span&gt;, &lt;span class=&quot;trxml-530&quot;&gt;planning&lt;/span&gt; de &lt;span class=&quot;trxml-531&quot;&gt;réalisation&lt;/span&gt;, &lt;span class=&quot;trxml-532&quot;&gt;suivi des clients&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-left:0.50in;text-indent:-0.25in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;color:#0070C0;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-size:10pt;color:#0070c0;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;●&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Arial&amp;apos;;font-size:10pt;color:#0070c0;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;	 &lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:10pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;Relevé de façades, cages d’escalier, acrotères au laser&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-left:0.50in;text-indent:-0.25in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;color:#0070C0;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-size:10pt;color:#0070c0;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;●&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Arial&amp;apos;;font-size:10pt;color:#0070c0;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;	 &lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:10pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;Concevoir les nomenclatures des schémas et plans&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-left:0.50in;text-indent:-0.25in;text-align:left;margin-top:0.00in;margin-bottom:0.18in;color:#0070C0;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-size:10pt;color:#0070c0;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;●&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Arial&amp;apos;;font-size:10pt;color:#0070c0;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;	 &lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:10pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;Métré quantitatif : &lt;span class=&quot;trxml-533&quot;&gt;sélection&lt;/span&gt; des produits et matériaux en respectant le &lt;span class=&quot;trxml-534&quot;&gt;cahier des charges&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;/p&gt;
+ &lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+ &lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;color:#262626;border-top-color:#A6A6A6;border-top-width:1pt;border-top-style:solid;&quot;&gt;&lt;span style=&quot;font-family:&amp;apos;Century&amp;apos;;font-size:10pt;color:#262626;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-7&quot;&gt;Expérience&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;color:#595959;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:9pt;color:#595959;&quot;&gt;&lt;span class=&quot;trxml-34&quot;&gt;&lt;span class=&quot;trxml-60&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;SEPT2018 – &lt;span class=&quot;trxml-535&quot;&gt;DEC&lt;/span&gt; 2018&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;span class=&quot;trxml-60&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;color:#0070C0;&quot;&gt;&lt;span class=&quot;trxml-60&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Calibri&amp;apos;;font-size:9pt;color:#0070c0;&quot;&gt;&lt;b&gt;&lt;u&gt;&lt;span class=&quot;trxml-35&quot;&gt;&lt;span class=&quot;trxml-60&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;TECHNICIENS EN BUREAU D&amp;apos;éTUDES&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/u&gt;&lt;/b&gt;&lt;span class=&quot;trxml-35&quot;&gt;&lt;span class=&quot;trxml-60&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Calibri&amp;apos;;font-size:9pt;color:#007fab;&quot;&gt;&lt;span class=&quot;trxml-35&quot;&gt;&lt;span class=&quot;trxml-60&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;/ &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Calibri&amp;apos;;font-size:9pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-35&quot;&gt;&lt;span class=&quot;trxml-60&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;AXIANS&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;span class=&quot;trxml-60&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;p style=&quot;margin-left:0.50in;text-indent:-0.25in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;color:#0070C0;&quot;&gt;&lt;span class=&quot;trxml-60&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:9pt;color:#0070c0;&quot;&gt;&lt;span class=&quot;trxml-60&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;●&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Arial&amp;apos;;font-size:9pt;color:#0070c0;&quot;&gt;&lt;span class=&quot;trxml-60&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;	 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Calibri&amp;apos;;font-size:9pt;color:#595959;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-60&quot;&gt;&lt;span class=&quot;trxml-94&quot;&gt;Etude de projets, APS (&lt;span class=&quot;trxml-536&quot;&gt;fibre optique&lt;/span&gt; sur la région de&lt;/span&gt;&lt;/span&gt; L’Aveyron)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;color:#595959;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:9pt;color:#595959;&quot;&gt;&lt;span class=&quot;trxml-37&quot;&gt;&lt;span class=&quot;trxml-61&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;OCT2017 – NOV 2017&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-61&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;color:#0070C0;&quot;&gt;&lt;span class=&quot;trxml-61&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:9pt;color:#0070c0;&quot;&gt;&lt;b&gt;&lt;u&gt;&lt;span class=&quot;trxml-38&quot;&gt;&lt;span class=&quot;trxml-61&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;Stage Dessinatrice en &lt;span class=&quot;trxml-537&quot;&gt;Batiment&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/u&gt;&lt;span class=&quot;trxml-61&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-61&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;/ &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:9pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-61&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-40&quot;&gt;Cabinet d’architecte &lt;span class=&quot;trxml-90&quot;&gt;ATA&lt;/span&gt;, Toulouse&lt;/span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-61&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-left:0.50in;text-indent:-0.25in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;color:#0070C0;&quot;&gt;&lt;span class=&quot;trxml-61&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:9pt;color:#0070c0;&quot;&gt;&lt;span class=&quot;trxml-61&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;●&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Arial&amp;apos;;font-size:9pt;color:#0070c0;&quot;&gt;&lt;span class=&quot;trxml-61&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;	 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Calibri&amp;apos;;font-size:9pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-61&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-95&quot;&gt;&lt;span class=&quot;trxml-538&quot;&gt;Réalisation&lt;/span&gt; et &lt;span class=&quot;trxml-539&quot;&gt;modification de plans&lt;/span&gt; 2D et 3D sous &lt;span class=&quot;trxml-91&quot;&gt;ArchiCAD&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-61&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-95&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-left:0.50in;text-indent:-0.25in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;color:#0070C0;&quot;&gt;&lt;span class=&quot;trxml-61&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-95&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:9pt;color:#0070c0;&quot;&gt;&lt;span class=&quot;trxml-61&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-95&quot;&gt;●&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Arial&amp;apos;;font-size:9pt;color:#0070c0;&quot;&gt;&lt;span class=&quot;trxml-61&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-95&quot;&gt;	 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Calibri&amp;apos;;font-size:9pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-61&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-95&quot;&gt;Proposition d&amp;apos;installations, aménagements, agencement des pièces &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-61&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-95&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-left:0.50in;text-indent:-0.25in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;color:#0070C0;&quot;&gt;&lt;span class=&quot;trxml-61&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-95&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:9pt;color:#0070c0;&quot;&gt;&lt;span class=&quot;trxml-61&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-95&quot;&gt;●&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Arial&amp;apos;;font-size:9pt;color:#0070c0;&quot;&gt;&lt;span class=&quot;trxml-61&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-95&quot;&gt;	 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Calibri&amp;apos;;font-size:9pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-61&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-95&quot;&gt;Etude de projets avec l’architecte (maisons individuelles, lotissements : potentiel du terrain, &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-61&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-95&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-left:0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-61&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-95&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Calibri&amp;apos;;font-size:9pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-61&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-95&quot;&gt;diminution des surfaces non-constructibles, nouveau quartier, bureaux, logements, espaces détente).&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-61&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-95&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-left:0.50in;text-indent:-0.25in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;color:#0070C0;&quot;&gt;&lt;span class=&quot;trxml-61&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-95&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:9pt;color:#0070c0;&quot;&gt;&lt;span class=&quot;trxml-61&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-95&quot;&gt;●&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Arial&amp;apos;;font-size:9pt;color:#0070c0;&quot;&gt;&lt;span class=&quot;trxml-61&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-95&quot;&gt;	 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Calibri&amp;apos;;font-size:9pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-61&quot;&gt;&lt;span class=&quot;trxml-95&quot;&gt;&lt;span class=&quot;trxml-540&quot;&gt;Suivi du chantier&lt;/span&gt;, respect des délais et des coûts, (&lt;span class=&quot;trxml-541&quot;&gt;réunions de chantier&lt;/span&gt; avec le &lt;span class=&quot;trxml-542&quot;&gt;client&lt;/span&gt;, l’architecte, le menuisier, les ouvriers&lt;/span&gt;&lt;/span&gt;).&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;color:#595959;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:9pt;color:#595959;&quot;&gt;&lt;span class=&quot;trxml-42&quot;&gt;&lt;span class=&quot;trxml-62&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;MAI 2011 – AOUT 2011&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-62&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;color:#0070C0;&quot;&gt;&lt;span class=&quot;trxml-62&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:9pt;color:#0070c0;&quot;&gt;&lt;b&gt;&lt;u&gt;&lt;span class=&quot;trxml-43&quot;&gt;&lt;span class=&quot;trxml-62&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;Métreur&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/u&gt;&lt;span class=&quot;trxml-62&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-62&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;/ &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:9pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-45&quot;&gt;&lt;span class=&quot;trxml-62&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;Société Déco 2r, entreprise de finition spécialisée dans la façade, peinture et isolation, Champigny sur Marne 94500&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-62&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-left:0.45in;text-indent:-0.25in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;color:#0070C0;&quot;&gt;&lt;span class=&quot;trxml-62&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:9pt;color:#0070c0;&quot;&gt;&lt;span class=&quot;trxml-62&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;●&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Arial&amp;apos;;font-size:9pt;color:#0070c0;&quot;&gt;&lt;span class=&quot;trxml-62&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;	 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:9pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-62&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-96&quot;&gt;Métré quantitatif : &lt;span class=&quot;trxml-543&quot;&gt;sélection&lt;/span&gt; des produits et matériaux en respectant le &lt;span class=&quot;trxml-544&quot;&gt;cahier des charges&lt;/span&gt;, &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-62&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-96&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-left:0.45in;text-indent:-0.25in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;color:#0070C0;&quot;&gt;&lt;span class=&quot;trxml-62&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-96&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:9pt;color:#0070c0;&quot;&gt;&lt;span class=&quot;trxml-62&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-96&quot;&gt;●&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Arial&amp;apos;;font-size:9pt;color:#0070c0;&quot;&gt;&lt;span class=&quot;trxml-62&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-96&quot;&gt;	 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:9pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-62&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-96&quot;&gt;Détermination des quantités de matériaux, &lt;span class=&quot;trxml-545&quot;&gt;Suivi du chantier&lt;/span&gt;, respect des délais et des coûts &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-62&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-96&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-left:0.45in;text-indent:-0.25in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;color:#0070C0;&quot;&gt;&lt;span class=&quot;trxml-62&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-96&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:9pt;color:#0070c0;&quot;&gt;&lt;span class=&quot;trxml-62&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-96&quot;&gt;●&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Arial&amp;apos;;font-size:9pt;color:#0070c0;&quot;&gt;&lt;span class=&quot;trxml-62&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-96&quot;&gt;	 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:9pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-62&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-96&quot;&gt;&lt;span class=&quot;trxml-546&quot;&gt;Réunions de chantier&lt;/span&gt; avec le &lt;span class=&quot;trxml-547&quot;&gt;client&lt;/span&gt;, l’architecte, le&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Calibri&amp;apos;;font-size:9pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-62&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-96&quot;&gt; menuisier, les ouvriers&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;color:#595959;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:9pt;color:#595959;&quot;&gt;&lt;span class=&quot;trxml-47&quot;&gt;&lt;span class=&quot;trxml-63&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;MARS 2011– AVRIL2011&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;span class=&quot;trxml-63&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.03in;color:#0070C0;&quot;&gt;&lt;span class=&quot;trxml-63&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:9pt;color:#0070c0;&quot;&gt;&lt;b&gt;&lt;u&gt;&lt;span class=&quot;trxml-48&quot;&gt;&lt;span class=&quot;trxml-63&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;Stagiaires métreur&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/u&gt;&lt;span class=&quot;trxml-63&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt; /&lt;/span&gt;&lt;/span&gt;&lt;i&gt;&lt;span class=&quot;trxml-63&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:9pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-63&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;Société Ergo&lt;/span&gt;, Economiste de la &lt;span class=&quot;trxml-548&quot;&gt;construction&lt;/span&gt;, &lt;span class=&quot;trxml-52&quot;&gt;Léguevin 31490&lt;/span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-63&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-left:0.50in;text-indent:-0.25in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;color:#0070C0;&quot;&gt;&lt;span class=&quot;trxml-63&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:9pt;color:#0070c0;&quot;&gt;&lt;span class=&quot;trxml-63&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;●&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Arial&amp;apos;;font-size:9pt;color:#0070c0;&quot;&gt;&lt;span class=&quot;trxml-63&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;	 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:9pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-63&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-97&quot;&gt;&lt;span class=&quot;trxml-549&quot;&gt;Accompagnement&lt;/span&gt; sur un &lt;span class=&quot;trxml-550&quot;&gt;chantier&lt;/span&gt;, observation d’une &lt;span class=&quot;trxml-551&quot;&gt;réunion de chantier&lt;/span&gt; (maison &lt;span class=&quot;trxml-552&quot;&gt;particulier&lt;/span&gt;).&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-63&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-97&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-left:0.50in;text-indent:-0.25in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;color:#0070C0;&quot;&gt;&lt;span class=&quot;trxml-63&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-97&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:9pt;color:#0070c0;&quot;&gt;&lt;span class=&quot;trxml-63&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-97&quot;&gt;●&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Arial&amp;apos;;font-size:9pt;color:#0070c0;&quot;&gt;&lt;span class=&quot;trxml-63&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-97&quot;&gt;	 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:9pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-63&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-97&quot;&gt;Etude quantitatif sur plan, Métrés sur projet de &lt;span class=&quot;trxml-553&quot;&gt;construction&lt;/span&gt; d’un lotissement de villas&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+ &lt;p style=&quot;text-align:left;margin-top:0.33in;margin-bottom:0.08in;color:#262626;border-top-color:#A6A6A6;border-top-width:1pt;border-top-style:solid;&quot;&gt;&lt;span style=&quot;font-family:&amp;apos;Century&amp;apos;;font-size:10pt;color:#262626;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-9&quot;&gt;&lt;span class=&quot;trxml-554&quot;&gt;Formation&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+ &lt;/span&gt;&lt;p style=&quot;text-align:left;margin-top:0.33in;margin-bottom:0.08in;color:#262626;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:9pt;color:#262626;&quot;&gt;&lt;span class=&quot;trxml-54&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt;Déc. 2017&lt;/span&gt;	 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;span class=&quot;trxml-54&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-54&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:9pt;color:#0070c0;&quot;&gt;&lt;b&gt;&lt;u&gt;&lt;span class=&quot;trxml-16&quot;&gt;&lt;span class=&quot;trxml-54&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;DESSINATRICE EN BUREAU D’ETUDE &lt;span class=&quot;trxml-555&quot;&gt;BTP&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/u&gt;&lt;span class=&quot;trxml-54&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:9pt;color:#262626;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-54&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;/ &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:9pt;color:#000000;&quot;&gt;&lt;i&gt;&lt;span class=&quot;trxml-18&quot;&gt;&lt;span class=&quot;trxml-54&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;AP &lt;span class=&quot;trxml-556&quot;&gt;FORMATION&lt;/span&gt;, &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/i&gt;&lt;span class=&quot;trxml-18&quot;&gt;&lt;span class=&quot;trxml-54&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;TOULOUSE&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-54&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-left:0.50in;text-indent:-0.25in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;color:#0070C0;&quot;&gt;&lt;span class=&quot;trxml-54&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:9pt;color:#0070c0;&quot;&gt;&lt;span class=&quot;trxml-54&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;●&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Arial&amp;apos;;font-size:9pt;color:#0070c0;&quot;&gt;&lt;span class=&quot;trxml-54&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;	 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:9pt;color:#383838;&quot;&gt;&lt;span class=&quot;trxml-20&quot;&gt;&lt;span class=&quot;trxml-54&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;Logiciel AutoCAD, Revit, ArchiCAD&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;color:#595959;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+ &lt;/span&gt;&lt;/p&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;color:#595959;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:9pt;color:#595959;&quot;&gt;&lt;span class=&quot;trxml-56&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;&lt;span class=&quot;trxml-21&quot;&gt;&lt;span class=&quot;trxml-557&quot;&gt;DEC&lt;/span&gt; 2014/NOV2015&lt;/span&gt;	 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:9pt;color:#0070c0;&quot;&gt;&lt;b&gt;&lt;u&gt;&lt;span class=&quot;trxml-56&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;&lt;span class=&quot;trxml-22&quot;&gt;TECHNICIEN DE &lt;span class=&quot;trxml-558&quot;&gt;MAINTENANCE&lt;/span&gt;&lt;/span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/u&gt;&lt;/b&gt;&lt;u&gt;&lt;span class=&quot;trxml-56&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;/&lt;/span&gt;&lt;/span&gt;&lt;/u&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:9pt;color:#595959;&quot;&gt;&lt;span class=&quot;trxml-56&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:9pt;color:#000000;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;span class=&quot;trxml-24&quot;&gt;&lt;span class=&quot;trxml-56&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;AFPA &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/i&gt;&lt;/b&gt;&lt;span class=&quot;trxml-56&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;&lt;span class=&quot;trxml-24&quot;&gt;TOULOUSE&lt;/span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;span class=&quot;trxml-56&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;p style=&quot;margin-left:0.53in;text-indent:-0.25in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;color:#0070C0;&quot;&gt;&lt;span class=&quot;trxml-56&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:9pt;color:#0070c0;&quot;&gt;&lt;span class=&quot;trxml-56&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;●&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Arial&amp;apos;;font-size:9pt;color:#0070c0;&quot;&gt;&lt;span class=&quot;trxml-56&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;	 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:9pt;color:#383838;&quot;&gt;&lt;span class=&quot;trxml-26&quot;&gt;&lt;span class=&quot;trxml-56&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;CCP obtenus : CP-001657, CP-001655 et habilitation &lt;span class=&quot;trxml-559&quot;&gt;électrique&lt;/span&gt; BR.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;color:#595959;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+ &lt;/span&gt;&lt;/p&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;color:#595959;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:9pt;color:#595959;&quot;&gt;&lt;span class=&quot;trxml-58&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;&lt;span class=&quot;trxml-27&quot;&gt;SEPT 2009/NOV2011&lt;/span&gt;	 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:9pt;color:#0070c0;&quot;&gt;&lt;b&gt;&lt;u&gt;&lt;span class=&quot;trxml-28&quot;&gt;&lt;span class=&quot;trxml-58&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;METREUR TCE&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/u&gt;&lt;/b&gt;&lt;u&gt;&lt;span class=&quot;trxml-58&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt; /&lt;/span&gt;&lt;/span&gt;&lt;/u&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:9pt;color:#595959;&quot;&gt;&lt;span class=&quot;trxml-58&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:9pt;color:#000000;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;span class=&quot;trxml-30&quot;&gt;&lt;span class=&quot;trxml-58&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;CENTRE&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:9pt;color:#383838;&quot;&gt;&lt;span class=&quot;trxml-30&quot;&gt;&lt;span class=&quot;trxml-58&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt; PROFESSIONNEL DE SILLERY- EPINAY SUR ORGE  91360&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-58&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-left:0.53in;text-indent:-0.25in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;color:#0070C0;&quot;&gt;&lt;span class=&quot;trxml-58&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:9pt;color:#0070c0;&quot;&gt;&lt;span class=&quot;trxml-58&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;●&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Arial&amp;apos;;font-size:9pt;color:#0070c0;&quot;&gt;&lt;span class=&quot;trxml-58&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;	 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:9pt;color:#383838;&quot;&gt;&lt;span class=&quot;trxml-32&quot;&gt;&lt;span class=&quot;trxml-58&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;Spécialisation &lt;span class=&quot;trxml-560&quot;&gt;gros œuvres&lt;/span&gt; (BAC&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;)&lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.18in;color:#595959;&quot;&gt;
+ &lt;/p&gt;
+ &lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;color:#262626;border-top-color:#A6A6A6;border-top-width:1pt;border-top-style:solid;&quot;&gt;&lt;span style=&quot;font-family:&amp;apos;Century&amp;apos;;font-size:10pt;color:#262626;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-11&quot;&gt;Activités&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;color:#EC974C;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+ 
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;color:#EC974C;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:9pt;color:#ec974c;&quot;&gt;&lt;b&gt;&lt;u&gt;&lt;span class=&quot;trxml-11&quot;&gt;Sports :&lt;/span&gt;&lt;/u&gt;&lt;span class=&quot;trxml-11&quot;&gt;  &lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:9pt;color:#383838;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;&lt;span class=&quot;trxml-76&quot;&gt;Natations&lt;/span&gt;, &lt;span class=&quot;trxml-77&quot;&gt;fitness&lt;/span&gt;, &lt;span class=&quot;trxml-78&quot;&gt;full contact&lt;/span&gt;	 	 &lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:9pt;color:#ec974c;&quot;&gt;&lt;b&gt;&lt;u&gt;&lt;span class=&quot;trxml-11&quot;&gt;Loisirs :&lt;/span&gt;&lt;/u&gt;&lt;span class=&quot;trxml-11&quot;&gt;  &lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Corbel&amp;apos;;font-size:9pt;color:#383838;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;&lt;span class=&quot;trxml-79&quot;&gt;Cinéma&lt;/span&gt;, &lt;span class=&quot;trxml-80&quot;&gt;écritures&lt;/span&gt;, &lt;span class=&quot;trxml-81&quot;&gt;théâtre&lt;/span&gt;, &lt;span class=&quot;trxml-82&quot;&gt;expositions&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+ &lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;
+&lt;span style=&quot;font-family:&amp;apos;Century&amp;apos;;font-size:12pt;color:#000000;&quot;&gt;1&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;
+</DocumentHtml>
+</Profile>
+

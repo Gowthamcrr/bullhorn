@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Profile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" lang="chinese" file="0030N000023i5kgQAA.pdf">
+
+<ProfileSummary>
+    <CurrentJob></CurrentJob>
+    <CurrentEmployer></CurrentEmployer>
+    <CurrentEmployerLocation></CurrentEmployerLocation>
+    <TotalExperienceYears></TotalExperienceYears>
+    <HighestEducationLevel
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       ></HighestEducationLevel>
+    <ESHighestEducationLevel
+       
+       ></ESHighestEducationLevel>
+        <SummaryAmbitionSection></SummaryAmbitionSection>
+
+
+<ProfilePicture>
+        <Base64Content></Base64Content>
+    <Filename></Filename>
+    <ContentType></ContentType>
+</ProfilePicture>
+<ExternalID></ExternalID>
+</ProfileSummary>
+
+<Personal>
+    <FirstName>Astou</FirstName>
+    <MiddleName></MiddleName>
+    <LastName>Lebre</LastName>
+    <LastNamePrefix></LastNamePrefix>
+    <LastNameWithoutPrefix>LEBRE</LastNameWithoutPrefix>
+    <FullName>ASTOU.LEBRE@</FullName>
+    <Initials>A.</Initials>
+    <Nationality
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       ></Nationality>
+    <Gender code="0"
+        description="Not known"
+       
+       
+        description.de="Nicht bekannt"
+        description.dk="Ikke kendt"
+        description.el="Άγνωστο"
+        description.en="Not known"
+        description.es="No conocido"
+        description.fr="Ignore"
+        description.it="Non nota"
+        description.nl="Onbekend"
+       
+       
+       
+       
+       
+       >Not known</Gender>
+    <MaritalStatus
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   ></MaritalStatus>
+    <DateOfBirth></DateOfBirth>
+        <DriversLicense></DriversLicense>
+        <DriversLicenseEUNorm></DriversLicenseEUNorm>
+
+<Address>
+        <StreetName></StreetName>
+        <StreetNumberBase></StreetNumberBase>
+        <ZipCode></ZipCode>
+        <City></City>
+        <Region
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       ></Region>
+        <Country code="CN"
+       
+        description.cz="Čína"
+        description.de="China"
+        description.dk="Kina"
+       
+        description.en="China"
+        description.es="China"
+        description.fr="Chine"
+        description.it="Cina"
+        description.nl="China"
+        description.pl="Chiny"
+        description.pt="China"
+        description.ro="China"
+       
+        description.se="Kina"
+        description.sk="Čína">China</Country>
+</Address>
+<HomePhones>
+        <HomePhone></HomePhone>
+</HomePhones>
+<MobilePhones>
+        <MobilePhone></MobilePhone>
+</MobilePhones>
+<Emails>
+        <Email></Email>
+</Emails>
+<ExtraInfo>
+        <TrxmlID>134209643</TrxmlID>
+    <ExternalID></ExternalID>
+    <Source></Source>
+    <ExtraInfo1></ExtraInfo1>
+    <ExtraInfo2></ExtraInfo2>
+    <ExtraInfo3></ExtraInfo3>
+    
+</ExtraInfo>
+</Personal>
+
+<EducationHistory>
+    <EducationItem>
+        <EducationLevel
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           ></EducationLevel>
+        <InstituteName></InstituteName>
+        <InstituteLocation></InstituteLocation>
+        <Major></Major>
+        <GPA></GPA>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+        <ESEducationLevel
+           
+           ></ESEducationLevel>
+
+    </EducationItem>
+
+</EducationHistory>
+
+<EmploymentHistory>
+    <EmploymentItem>
+        <JobTitle></JobTitle>
+        <ExperienceONET></ExperienceONET>
+        <EmployerName></EmployerName>
+        <EmployerLocation></EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience></YearsExperience>
+        <JobCode></JobCode>
+        <JobGroup></JobGroup>
+        <JobClass></JobClass>
+        <JobDescription></JobDescription>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </EmploymentItem>
+
+</EmploymentHistory>
+
+<RecentEmploymentHistory>
+
+</RecentEmploymentHistory>
+
+<Skills>
+    <LanguageSkills>
+            <LanguageSkill>
+        <LanguageSkill></LanguageSkill>
+        <LanguageProficiency
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           ></LanguageProficiency>
+        <LanguageSkillDuration></LanguageSkillDuration>
+        <LanguageSkillFirstUsed></LanguageSkillFirstUsed>
+        <LanguageSkillLastUsed></LanguageSkillLastUsed>
+    </LanguageSkill>
+    <LanguageSkill>
+        <LanguageSkill code="ES">Spanish</LanguageSkill>
+        <LanguageProficiency code="6"
+            description.cn="母语"
+           
+            description.de="Muttersprachler"
+            description.dk="Modersmål"
+            description.el="Μητρική"
+            description.en="Native"
+            description.es="Hablante nativo"
+            description.fr="Langue maternelle"
+            description.it="Madrelingua"
+            description.nl="Moedertaalniveau"
+            description.pl="jak język ojczysty"
+            description.pt="Fluente"
+           
+           
+            description.se="Modersmål"
+           >Native</LanguageProficiency>
+        <LanguageSkillDuration></LanguageSkillDuration>
+        <LanguageSkillFirstUsed></LanguageSkillFirstUsed>
+        <LanguageSkillLastUsed></LanguageSkillLastUsed>
+    </LanguageSkill>
+
+    </LanguageSkills>
+    <ComputerSkills>
+            <ComputerSkill>
+        <ComputerSkill>WSET - LEVEL 2</ComputerSkill>
+        <ComputerSkillDuration></ComputerSkillDuration>
+        <ComputerSkillFirstUsed></ComputerSkillFirstUsed>
+        <ComputerSkillLastUsed></ComputerSkillLastUsed>
+    </ComputerSkill>
+    <ComputerSkill>
+        <ComputerSkill>PACK OFFICE</ComputerSkill>
+        <ComputerSkillDuration></ComputerSkillDuration>
+        <ComputerSkillFirstUsed></ComputerSkillFirstUsed>
+        <ComputerSkillLastUsed></ComputerSkillLastUsed>
+    </ComputerSkill>
+    <ComputerSkill>
+        <ComputerSkill>QLIKVIEW</ComputerSkill>
+        <ComputerSkillDuration></ComputerSkillDuration>
+        <ComputerSkillFirstUsed></ComputerSkillFirstUsed>
+        <ComputerSkillLastUsed></ComputerSkillLastUsed>
+    </ComputerSkill>
+    <ComputerSkill>
+        <ComputerSkill>COURANT</ComputerSkill>
+        <ComputerSkillDuration></ComputerSkillDuration>
+        <ComputerSkillFirstUsed></ComputerSkillFirstUsed>
+        <ComputerSkillLastUsed></ComputerSkillLastUsed>
+    </ComputerSkill>
+
+    </ComputerSkills>
+    <ProfessionalSkills>
+            <ProfessionalSkill>
+        <ProfessionalSkill></ProfessionalSkill>
+        <ProfessionalSkillDuration></ProfessionalSkillDuration>
+        <ProfessionalSkillFirstUsed></ProfessionalSkillFirstUsed>
+        <ProfessionalSkillLastUsed></ProfessionalSkillLastUsed>
+    </ProfessionalSkill>
+    </ProfessionalSkills>
+    <SoftSkills>
+            <SoftSkill>
+        <SoftSkill></SoftSkill>
+        <SoftSkillDuration></SoftSkillDuration>
+        <SoftSkillFirstUsed></SoftSkillFirstUsed>
+        <SoftSkillLastUsed></SoftSkillLastUsed>
+    </SoftSkill>
+
+    </SoftSkills>
+</Skills>
+
+<SkillsObject>
+    <Skill>
+        <ExtractedSkill>WSET - LEVEL 2</ExtractedSkill>
+        <Normalized>N</Normalized>
+        <MasterSetID></MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode></MasterSkillCode>
+        <SkillType>IT_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>PACK OFFICE</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>International</MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode>ITSKILLKSEL8W</MasterSkillCode>
+        <SkillType>IT_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>QLIKVIEW</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>International</MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode>ITSKILLKS5IKH</MasterSkillCode>
+        <SkillType>IT_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>COURANT</ExtractedSkill>
+        <Normalized>N</Normalized>
+        <MasterSetID></MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode></MasterSkillCode>
+        <SkillType>IT_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>LANGUES</ExtractedSkill>
+        <Normalized>N</Normalized>
+        <MasterSetID></MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode></MasterSkillCode>
+        <SkillType>Language_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>ESPAGNOL</ExtractedSkill>
+        <Normalized>N</Normalized>
+        <MasterSetID></MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode></MasterSkillCode>
+        <SkillType>Language_skill</SkillType>
+        <Level>BILINGUE</Level>
+        <NormalizedLevel>6</NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+
+</SkillsObject>
+
+<Other>
+    <FullTextKeywords>
+        
+    </FullTextKeywords>
+</Other>
+
+<UserArea>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+</UserArea>
+
+<DocumentText>
+ASTOU LEBRE
+
+
+
+         PRODUIT
+      MÉTHODE AGILE
+    CONDUITE DE PROJET
+   CONNAISSANCE CLIENT
+    MARKETING INSIGHT
+        INNOVATION
+
+
+
+
+   CONTACT
+
+ASTOU.LEBRE@GMAIL  .COM
+
+06 31 49 14 59
+
+BASÉE À PARIS
+
+24 ANS
+
+                    EXPERIENCES PROFESSIONNELLES
+
+CHEF DE PRODUIT MARKETING DÉVELOPPEMENT JUNIOR |     Sept 2016 - Oct 2017
+Allianz, Paris
+Conception, gestion et développement d&apos;offres et innovations
+- Lancement et évolution de produit : pilotage du développement à la commercialisation
+- UX : optimisation du parcours et de la promesse client, évolution des process internes
+- Retail : création d&apos;outils d&apos;aide à la vente et de formation de notre force commerciale
+- Stratégie et consolidation des KPIs : services, suivi de budget et des risques, transformation
+- Veille : analyse des tendances, startups, concurrence, positionnement prix
+
+ASSISTANTE VISUAL MERCHANDISER - SHOWROOM |     Janv 2017
+Saint Laurent, Paris
+Agencement des podiums et mise en œuvre des consignes du service merchandising
+
+ASSISTANTE CHEF DE PRODUIT MARKETING OPÉRATIONNEL |    Avril - Aout 2016
+Gamm vert, Paris
+- Sélection et définition de l&apos;offre de marques et produits
+- Briefs, négociation des conditions commerciales, et suivi des résultats
+- Mise à jour des books merchandising et suivi des assortiments produit
+- Création des packagings des produits MDD
+
+CHEF DE PROJET JUNIOR | Sept 2015 - Mars 2016
+Less is more, start up en marketing événementiel, Paris
+Conception, pilotage et production d&apos;événements pour : FDJ, GRTgaz, Orange
+
+******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************* - Identification du besoin client, recherche et coordination de prestataires, briefs agences
+
+      CENTRE D&apos;INTÉRÊTS
+
+- STARTUP : MÉMOIRE SUR L&apos;ÉCOSYSTÈME
+  ENTREPRENEURIAL FRANÇAIS
+
+- ART ET MANIFESTATIONS CULTURELLES :
+  OPÉRA, EXPOSITIONS, CINÉMA
+
+- LITTÉRATURE CLASSIQUE ET HISTORIQUE
+
+- JOGGING, DANSE : 8 ANS EN CLUB
+
+
+
+
+          ATOUTS
+
+
+
+
+    IMPLIQUÉE            AUTONOME
+
+
+
+
+    PROACTIVE             FORCE DE
+                        PROPOSITION
+
+ -  Elaboration du rétro-planning, suivi du budget et gestion des relations clients
+ -  Recommandation cahier des charges
+
+
+
+                             FORMATION
+
+ MASTER 2 - Programme Grande Ecole | 2013-2017
+ Marketing, spécialisation luxe et excellence à la française
+ Montpellier Business School
+
+ MASTER 1 - Echange universitaire | 2014-2015
+ Marketing international
+ Tecnológico de Monterrey, Mexique
+
+ CLASSE PREPARATOIRE HEC |  2011-2013
+ Lycée Gaston Berger, Lille
+
+
+
+
+                      COMPETENCES PROFESSIONNELLES
+
+          CERTIFICATION                                    LOGICIELS
+
+WSET - LEVEL 2                                  PACK OFFICE
+
+             LANGUES                            BLOOMBERG
+
+ESPAGNOL - BILINGUE                             QLIKVIEW
+
+ANGLAIS - COURANT                               FOLS
+</DocumentText>
+<DocumentHtml>
+&lt;div&gt;&lt;div style=&quot;position: relative;&quot;&gt;&lt;tk_metadata name=&quot;last_modified&quot; value=&quot;07/03/2018, 12:31&quot;&gt; &lt;/tk_metadata&gt;&lt;tk_metadata name=&quot;author&quot; value=&quot;LEBRE-NDIONGUE Astou&quot;&gt; &lt;/tk_metadata&gt;&lt;p&gt; &lt;/p&gt;
+&lt;div style=&quot;position:absolute;top:656px;left:513px;white-space:nowrap;&quot;&gt;&lt;img alt=&quot;image&quot; height=&quot;39&quot; src=&quot;11.jpg&quot; width=&quot;41&quot;&gt; &lt;/img&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:0px;left:46px;white-space:nowrap;&quot;&gt;&lt;img alt=&quot;image&quot; height=&quot;118&quot; src=&quot;12.jpg&quot; width=&quot;148&quot;&gt; &lt;/img&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:953px;left:520px;white-space:nowrap;&quot;&gt;&lt;img alt=&quot;image&quot; height=&quot;26&quot; src=&quot;13.jpg&quot; width=&quot;25&quot;&gt; &lt;/img&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:601px;left:104px;white-space:nowrap;&quot;&gt;&lt;img alt=&quot;image&quot; height=&quot;32&quot; src=&quot;14.jpg&quot; width=&quot;32&quot;&gt; &lt;/img&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:26px;left:517px;white-space:nowrap;&quot;&gt;&lt;img alt=&quot;image&quot; height=&quot;32&quot; src=&quot;15.jpg&quot; width=&quot;32&quot;&gt; &lt;/img&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:870px;left:105px;white-space:nowrap;&quot;&gt;&lt;img alt=&quot;image&quot; height=&quot;44&quot; src=&quot;16.jpg&quot; width=&quot;33&quot;&gt; &lt;/img&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:341px;left:106px;white-space:nowrap;&quot;&gt;&lt;img alt=&quot;image&quot; height=&quot;35&quot; src=&quot;17.jpg&quot; width=&quot;30&quot;&gt; &lt;/img&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:427px;left:16px;white-space:nowrap;&quot;&gt;&lt;img alt=&quot;image&quot; height=&quot;18&quot; src=&quot;18.jpg&quot; width=&quot;19&quot;&gt; &lt;/img&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:446px;left:16px;white-space:nowrap;&quot;&gt;&lt;img alt=&quot;image&quot; height=&quot;22&quot; src=&quot;19.jpg&quot; width=&quot;18&quot;&gt; &lt;/img&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:469px;left:16px;white-space:nowrap;&quot;&gt;&lt;img alt=&quot;image&quot; height=&quot;22&quot; src=&quot;20.jpg&quot; width=&quot;17&quot;&gt; &lt;/img&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:494px;left:16px;white-space:nowrap;&quot;&gt;&lt;img alt=&quot;image&quot; height=&quot;17&quot; src=&quot;21.jpg&quot; width=&quot;18&quot;&gt; &lt;/img&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:116px;left:70px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:14pt;white-space:nowrap;&quot;&gt;&lt;b&gt;ASTOU LEBRE&lt;/b&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:594px;left:0px;font-size:8pt;white-space:nowrap;&quot;&gt;●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●● 
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:177px;left:100px;font-family:&amp;apos;Calibri&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;PRODUIT
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:194px;left:81px;font-family:&amp;apos;Calibri&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;MÉTHODE AGILE
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:212px;left:69px;font-family:&amp;apos;Calibri&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;CONDUITE DE PROJET
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:229px;left:63px;font-family:&amp;apos;Calibri&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;CONNAISSANCE CLIENT
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:247px;left:68px;font-family:&amp;apos;Calibri&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;MARKETING INSIGHT
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:265px;left:90px;font-family:&amp;apos;Calibri&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;INNOVATION&lt;/div&gt;
+
+
+&lt;div style=&quot;position:absolute;top:932px;left:66px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:12pt;white-space:nowrap;&quot;&gt;&lt;b&gt;ATOUTS&lt;/b&gt;&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:1095px;left:347px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-14&quot;&gt;LANGUES&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-10&quot;&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-10&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1122px;left:259px;font-family:&amp;apos;Calibri&amp;apos;;font-size:8pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-16&quot;&gt;ESPAGNOL&lt;/span&gt; – &lt;span class=&quot;trxml-24&quot;&gt;BILINGUE&lt;/span&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-10&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1147px;left:259px;font-family:&amp;apos;Calibri&amp;apos;;font-size:8pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-10&quot;&gt;ANGLAIS – &lt;span class=&quot;trxml-21&quot;&gt;COURANT&lt;/span&gt;&lt;/span&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:1005px;left:35px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:8pt;white-space:nowrap;&quot;&gt;&lt;b&gt;IMPLIQUÉE&lt;/b&gt;&lt;/div&gt;
+
+
+&lt;div style=&quot;position:absolute;top:74px;left:400px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;b&gt;EXPERIENCES PROFESSIONNELLES&lt;/b&gt;&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:999px;left:407px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;b&gt;COMPETENCES PROFESSIONNELLES&lt;/b&gt;&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:700px;left:449px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;b&gt;FORMATION&lt;/b&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:732px;left:270px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;b&gt;MASTER 2 - Programme Grande Ecole | &lt;/b&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:732px;left:501px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;2013-2017
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:751px;left:270px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;Marketing, spécialisation luxe et excellence à la française
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:770px;left:270px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;Montpellier Business School
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:810px;left:270px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;b&gt;MASTER 1 - Echange universitaire | &lt;/b&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:810px;left:478px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;2014-2015
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:829px;left:270px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;Marketing international
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:848px;left:270px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;Tecnológico de Monterrey, Mexique
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:887px;left:270px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;b&gt;CLASSE PREPARATOIRE HEC | &lt;/b&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:887px;left:443px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;2011-2013
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:907px;left:270px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;Lycée Gaston Berger, Lille&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:1025px;left:648px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-10&quot;&gt;LOGICIELS&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-10&quot;&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-10&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1056px;left:571px;font-family:&amp;apos;Calibri&amp;apos;;font-size:8pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;PACK OFFICE&lt;/span&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-10&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1085px;left:571px;font-family:&amp;apos;Calibri&amp;apos;;font-size:8pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-10&quot;&gt;BLOOMBERG
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-10&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1114px;left:571px;font-family:&amp;apos;Calibri&amp;apos;;font-size:8pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-19&quot;&gt;QLIKVIEW&lt;/span&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-10&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1143px;left:571px;font-family:&amp;apos;Calibri&amp;apos;;font-size:8pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-10&quot;&gt;FOLS&lt;/span&gt;&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:655px;left:43px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:12pt;white-space:nowrap;&quot;&gt;&lt;b&gt;CENTRE D’INTÉRÊTS&lt;/b&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:692px;left:7px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;-  
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:694px;left:25px;font-family:&amp;apos;Calibri&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;STARTUP : MÉMOIRE SUR L’ÉCOSYSTÈME
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:712px;left:25px;font-family:&amp;apos;Calibri&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;ENTREPRENEURIAL FRANÇAIS
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:735px;left:7px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;-  
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:735px;left:25px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;ART ET MANIFESTATIONS CULTURELLES :
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:755px;left:25px;font-family:&amp;apos;Calibri&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;OPÉRA, EXPOSITIONS, CINÉMA
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:778px;left:7px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;-  
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:780px;left:25px;font-family:&amp;apos;Calibri&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;LITTÉRATURE CLASSIQUE ET HISTORIQUE
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:804px;left:7px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;-  
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:806px;left:25px;font-family:&amp;apos;Calibri&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;JOGGING, DANSE : 8 ANS EN CLUB
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:1117px;left:32px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:8pt;white-space:nowrap;&quot;&gt;&lt;b&gt;PROACTIVE&lt;/b&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:1005px;left:152px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:8pt;white-space:nowrap;&quot;&gt;&lt;b&gt;AUTONOME&lt;/b&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:1107px;left:158px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:8pt;white-space:nowrap;&quot;&gt;&lt;b&gt;FORCE DE&lt;/b&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:1123px;left:149px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:8pt;white-space:nowrap;&quot;&gt;&lt;b&gt;PROPOSITION&lt;/b&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:107px;left:270px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;b&gt;CHEF DE PRODUIT MARKETING DÉVELOPPEMENT JUNIOR | &lt;/b&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:107px;left:617px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;Sept 2016 - Oct 2017
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:128px;left:270px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;Allianz, Paris
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:149px;left:270px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;Conception, gestion et développement d’offres et innovations
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:170px;left:270px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;-  
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:170px;left:288px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;Lancement et évolution de produit : pilotage du développement à la commercialisation
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:191px;left:270px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;-  
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:191px;left:288px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;UX : optimisation du parcours et de la promesse client, évolution des process internes
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:212px;left:270px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;-  
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:212px;left:288px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;Retail : création d’outils d’aide à la vente et de formation de notre force commerciale
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:232px;left:270px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;-  
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:232px;left:288px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;Stratégie et consolidation des KPIs : services, suivi de budget et des risques, transformation
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:253px;left:270px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;-  
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:253px;left:288px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;Veille : analyse des tendances, startups, concurrence, positionnement prix
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:295px;left:270px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;b&gt;ASSISTANTE VISUAL MERCHANDISER - SHOWROOM | &lt;/b&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:295px;left:584px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;Janv 2017
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:316px;left:270px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;Saint Laurent, Paris
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:336px;left:270px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;Agencement des podiums et mise en œuvre des consignes du service merchandising
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:378px;left:270px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;b&gt;ASSISTANTE CHEF DE PRODUIT MARKETING OPÉRATIONNEL | &lt;/b&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:378px;left:631px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;Avril - Aout 2016
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:399px;left:270px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;Gamm vert, Paris
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:420px;left:270px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;-  
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:420px;left:288px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;Sélection et définition de l’offre de marques et produits
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:440px;left:270px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;-  
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:440px;left:288px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;Briefs, négociation des conditions commerciales, et suivi des résultats
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:461px;left:270px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;-  
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:461px;left:288px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;Mise à jour des books merchandising et suivi des assortiments produit
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:482px;left:270px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;-  
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:482px;left:288px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;Création des packagings des produits MDD
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:524px;left:270px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;b&gt;CHEF DE PROJET JUNIOR | &lt;/b&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:524px;left:425px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;Sept 2015 - Mars 2016
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:544px;left:270px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;Less is more, start up en marketing événementiel, Paris
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:565px;left:270px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;Conception, pilotage et production d’événements pour : FDJ, GRTgaz, Orange
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:586px;left:270px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;-  
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:586px;left:288px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;Identification du besoin client, recherche et coordination de prestataires, briefs agences
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:607px;left:270px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;-  
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:607px;left:288px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;Elaboration du rétro-planning, suivi du budget et gestion des relations clients
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:628px;left:270px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;-  
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:628px;left:288px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;Recommandation cahier des charges&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:398px;left:66px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:12pt;white-space:nowrap;&quot;&gt;&lt;b&gt;CONTACT&lt;/b&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:432px;left:43px;font-family:&amp;apos;Calibri&amp;apos;;font-size:9pt;color:#003781;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;a href=&quot;mailto:astou.lebre@gmail.com&quot;&gt;ASTOU
+&lt;/a&gt;&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:430px;left:77px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;color:#003781;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;a href=&quot;mailto:astou.lebre@gmail.com&quot;&gt;.
+&lt;/a&gt;&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:432px;left:80px;font-family:&amp;apos;Calibri&amp;apos;;font-size:9pt;color:#003781;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;a href=&quot;mailto:astou.lebre@gmail.com&quot;&gt;LEBRE
+&lt;/a&gt;&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:430px;left:110px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;color:#003781;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;a href=&quot;mailto:astou.lebre@gmail.com&quot;&gt;@
+&lt;/a&gt;&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:432px;left:123px;font-family:&amp;apos;Calibri&amp;apos;;font-size:9pt;color:#003781;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;a href=&quot;mailto:astou.lebre@gmail.com&quot;&gt;&lt;span class=&quot;trxml-26&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;GMAIL
+&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;trxml-26&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:430px;left:155px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;color:#003781;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;a href=&quot;mailto:astou.lebre@gmail.com&quot;&gt;&lt;span class=&quot;trxml-26&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;.
+&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;trxml-26&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:432px;left:158px;font-family:&amp;apos;Calibri&amp;apos;;font-size:9pt;color:#003781;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;a href=&quot;mailto:astou.lebre@gmail.com&quot;&gt;&lt;span class=&quot;trxml-26&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;COM&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;span class=&quot;trxml-26&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-26&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:453px;left:43px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-26&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;06 31 49 14 59
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-26&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:478px;left:43px;font-family:&amp;apos;Calibri&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-26&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;BASÉE À PARIS
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-26&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:501px;left:43px;font-family:&amp;apos;Calibri&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-26&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;24 ANS&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:1029px;left:330px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-10&quot;&gt;CERTIFICATION&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-10&quot;&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-10&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1055px;left:261px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;WSET - LEVEL 2&lt;/span&gt;&lt;/span&gt; &lt;/div&gt;
+ &lt;/div&gt;&lt;/div&gt;
+</DocumentHtml>
+</Profile>
+

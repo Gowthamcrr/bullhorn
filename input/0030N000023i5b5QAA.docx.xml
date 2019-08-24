@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Profile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" lang="french" file="0030N000023i5b5QAA.docx">
+
+<ProfileSummary>
+    <CurrentJob>Responsable d&apos;activité marchés aéronautique / Key Account Manager Grands comptes</CurrentJob>
+    <CurrentEmployer></CurrentEmployer>
+    <CurrentEmployerLocation></CurrentEmployerLocation>
+    <TotalExperienceYears>21</TotalExperienceYears>
+    <HighestEducationLevel code="5"
+        description="Master"
+       
+        description.cz="Magistr"
+        description.de="Master"
+        description.dk="Master"
+        description.el="Μεταπτυχιακό"
+        description.en="Master"
+        description.es="Master"
+        description.fr="Master"
+        description.it="Master"
+        description.nl="Master"
+        description.pl="Magister"
+        description.pt="Mestre"
+        description.ro="Master"
+       
+        description.se="Master"
+        description.sk="Master">Master</HighestEducationLevel>
+    <ESHighestEducationLevel
+       
+       ></ESHighestEducationLevel>
+        <SummaryAmbitionSection>CADRE TECHNICO-COMMERCIAL
+17 ans d&apos;expérience
+
+COMPETENCES
+
+
+* Suivi et fidélisation clients, prospection
+* Formation technique -Techniques de vente et Marketing
+* Rédaction d&apos;appels d&apos;offres
+* Expérience en management terrain
+*Gestion de litiges comptable et qualité
+* Formation à la qualité et HSE
+*Connaissance du secteur et des normes aéronautique (OEM/sous-traitants/MRO)
+Informatique : pack office, logiciels internes
+Langues : anglais maîtrisé (lu, parlé, écrit), espagnol (notions)</SummaryAmbitionSection>
+    <CVTitle></CVTitle>
+
+<ProfilePicture>
+        <Base64Content></Base64Content>
+    <Filename></Filename>
+    <ContentType></ContentType>
+</ProfilePicture>
+<ExternalID></ExternalID>
+</ProfileSummary>
+
+<Personal>
+    <FirstName>Olivier</FirstName>
+    <MiddleName></MiddleName>
+    <LastName>Fonteneau</LastName>
+    <LastNamePrefix></LastNamePrefix>
+    <LastNameWithoutPrefix>Fonteneau</LastNameWithoutPrefix>
+    <FullName>FONTENEAU Olivier</FullName>
+    <Initials>O.</Initials>
+    <Nationality
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       ></Nationality>
+    <Gender code="1"
+        description="Male"
+       
+       
+        description.de="Mann"
+        description.dk="Mand"
+        description.el="Άρρεν"
+        description.en="Male"
+        description.es="Hombre"
+        description.fr="Homme"
+        description.it="Uomo"
+        description.nl="Man"
+       
+       
+       
+       
+       
+       >Male</Gender>
+    <MaritalStatus
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   ></MaritalStatus>
+    <DateOfBirth></DateOfBirth>
+        <DriversLicense>B</DriversLicense>
+        <DriversLicenseEUNorm code="5">B</DriversLicenseEUNorm>
+
+<Address>
+        <StreetName>rue Marcel Pagnol</StreetName>
+        <StreetNumberBase>36</StreetNumberBase>
+        <ZipCode>31700</ZipCode>
+        <City>Blagnac</City>
+        <Region code="FR-31"
+       
+       
+        description.de="FR Département Haute-Garonne"
+       
+       
+        description.en="FR Haute-Garonne"
+       
+        description.fr="FR Haute-Garonne"
+       
+        description.nl="FR Haute-Garonne"
+       
+       
+       
+       
+       
+       >FR Haute-Garonne</Region>
+        <Country code="FR"
+       
+        description.cz="Francie"
+        description.de="Frankreich"
+        description.dk="Frankrig"
+       
+        description.en="France"
+        description.es="Francia"
+        description.fr="France"
+        description.it="Francia"
+        description.nl="Frankrijk"
+        description.pl="Francja"
+        description.pt="França"
+        description.ro="Franța"
+       
+        description.se="Frankrike"
+        description.sk="Francúzsko">France</Country>
+</Address>
+<HomePhones>
+        <HomePhone></HomePhone>
+</HomePhones>
+<MobilePhones>
+        <MobilePhone>+33770192355</MobilePhone>
+</MobilePhones>
+<Emails>
+        <Email>sillage3131@gmail.com</Email>
+</Emails>
+<ExtraInfo>
+        <TrxmlID>134217944</TrxmlID>
+    <ExternalID></ExternalID>
+    <Source></Source>
+    <ExtraInfo1></ExtraInfo1>
+    <ExtraInfo2></ExtraInfo2>
+    <ExtraInfo3></ExtraInfo3>
+    
+</ExtraInfo>
+</Personal>
+
+<EducationHistory>
+    <EducationItem>
+        <EducationLevel code="5"
+            description="Master"
+           
+            description.cz="Magistr"
+            description.de="Master"
+            description.dk="Master"
+            description.el="Μεταπτυχιακό"
+            description.en="Master"
+            description.es="Master"
+            description.fr="Master"
+            description.it="Master"
+            description.nl="Master"
+            description.pl="Magister"
+            description.pt="Mestre"
+            description.ro="Master"
+           
+            description.se="Master"
+            description.sk="Master">Master</EducationLevel>
+        <InstituteName>Université Aix-Marseille III/Marseille</InstituteName>
+        <InstituteLocation>Marseille</InstituteLocation>
+        <Major>DESS Marketing et vente</Major>
+        <GPA></GPA>
+        <StartDate></StartDate>
+        <EndDate>1999-06-30</EndDate>
+        <ESEducationLevel
+           
+           ></ESEducationLevel>
+
+    </EducationItem>
+    <EducationItem>
+        <EducationLevel code="5"
+            description="Master"
+           
+            description.cz="Magistr"
+            description.de="Master"
+            description.dk="Master"
+            description.el="Μεταπτυχιακό"
+            description.en="Master"
+            description.es="Master"
+            description.fr="Master"
+            description.it="Master"
+            description.nl="Master"
+            description.pl="Magister"
+            description.pt="Mestre"
+            description.ro="Master"
+           
+            description.se="Master"
+            description.sk="Master">Master</EducationLevel>
+        <InstituteName>Université Paul Sabatier</InstituteName>
+        <InstituteLocation>Toulouse</InstituteLocation>
+        <Major>Maîtrise Physique-Chimie</Major>
+        <GPA></GPA>
+        <StartDate></StartDate>
+        <EndDate>1997-06-30</EndDate>
+        <ESEducationLevel
+           
+           ></ESEducationLevel>
+
+    </EducationItem>
+    <EducationItem>
+        <EducationLevel code="3"
+            description="University"
+           
+            description.cz="Univerzita"
+            description.de="Universität"
+            description.dk="Universitet"
+            description.el="Πανεπιστήμιο"
+            description.en="University"
+            description.es="Universidad"
+            description.fr="Université"
+            description.it="Università"
+            description.nl="Universiteit"
+            description.pl="Uniwersytet"
+            description.pt="Universidade"
+            description.ro="Universitate"
+           
+            description.se="Universitet"
+            description.sk="Univerzita">University</EducationLevel>
+        <InstituteName>(Université Paul Sabatier/Toulouse)</InstituteName>
+        <InstituteLocation>Toulouse</InstituteLocation>
+        <Major>DUT Génie Mécanique et Productique Techniques aéronautiques</Major>
+        <GPA></GPA>
+        <StartDate></StartDate>
+        <EndDate>1993-06-30</EndDate>
+        <ESEducationLevel
+           
+           ></ESEducationLevel>
+
+    </EducationItem>
+
+</EducationHistory>
+
+<EmploymentHistory>
+    <EmploymentItem>
+        <JobTitle>Responsable d&apos;activité marchés aéronautique / Key Account Manager Grands comptes</JobTitle>
+        <ExperienceONET id="39_9032_00">Recreation Workers</ExperienceONET>
+        <EmployerName></EmployerName>
+        <EmployerLocation></EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>11</YearsExperience>
+        <JobCode code="3598"></JobCode>
+        <JobGroup code="229"></JobGroup>
+        <JobClass code="20"></JobClass>
+        <JobDescription>Gestion d&apos;un technico-commercial sur région Rhône-Alpes / Gaches Chimie SA</JobDescription>
+        <StartDate>2008-10-01</StartDate>
+        <EndDate>ce jour</EndDate>
+    </EmploymentItem>
+    <EmploymentItem>
+        <JobTitle>Cadre technico-commercial</JobTitle>
+        <ExperienceONET id="41_4011_00">Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products</ExperienceONET>
+        <EmployerName>PEXA Ltd</EmployerName>
+        <EmployerLocation></EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>4</YearsExperience>
+        <JobCode code="4629"></JobCode>
+        <JobGroup code="205"></JobGroup>
+        <JobClass code="21"></JobClass>
+        <JobDescription>peintures aéronautiques et défense</JobDescription>
+        <StartDate>2005-01-01</StartDate>
+        <EndDate>2008-12-31</EndDate>
+    </EmploymentItem>
+    <EmploymentItem>
+        <JobTitle>Technico-commercial</JobTitle>
+        <ExperienceONET id="41_4011_00">Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products</ExperienceONET>
+        <EmployerName>Molydal SA</EmployerName>
+        <EmployerLocation></EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>4</YearsExperience>
+        <JobCode code="4629"></JobCode>
+        <JobGroup code="205"></JobGroup>
+        <JobClass code="21"></JobClass>
+        <JobDescription>industriels</JobDescription>
+        <StartDate>2001-01-01</StartDate>
+        <EndDate>2005-01-01</EndDate>
+    </EmploymentItem>
+    <EmploymentItem>
+        <JobTitle>Responsable activité lubrifiants</JobTitle>
+        <ExperienceONET id="39_9032_00">Recreation Workers</ExperienceONET>
+        <EmployerName>Lambert Rivière</EmployerName>
+        <EmployerLocation></EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>2</YearsExperience>
+        <JobCode code="1317"></JobCode>
+        <JobGroup code="191"></JobGroup>
+        <JobClass code="19"></JobClass>
+        <JobDescription>produits chimiques</JobDescription>
+        <StartDate>1999-01-01</StartDate>
+        <EndDate>2001-01-01</EndDate>
+    </EmploymentItem>
+
+</EmploymentHistory>
+
+<RecentEmploymentHistory>
+    <RecentEmploymentItem>
+        <JobTitle>Responsable d&apos;activité marchés aéronautique / Key Account Manager Grands comptes</JobTitle>
+        <ExperienceONET></ExperienceONET>
+        <EmployerName></EmployerName>
+        <EmployerLocation></EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>11</YearsExperience>
+        <JobCode code="3598"></JobCode>
+        <JobGroup code="229"></JobGroup>
+        <JobClass code="20"></JobClass>
+        <JobDescription>Gestion d&apos;un technico-commercial sur région Rhône-Alpes / Gaches Chimie SA</JobDescription>
+        <StartDate>2008-10-01</StartDate>
+        <EndDate>ce jour</EndDate>
+    </RecentEmploymentItem>
+
+</RecentEmploymentHistory>
+
+<Skills>
+    <LanguageSkills>
+            <LanguageSkill>
+        <LanguageSkill></LanguageSkill>
+        <LanguageProficiency
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           ></LanguageProficiency>
+        <LanguageSkillDuration></LanguageSkillDuration>
+        <LanguageSkillFirstUsed></LanguageSkillFirstUsed>
+        <LanguageSkillLastUsed></LanguageSkillLastUsed>
+    </LanguageSkill>
+
+    </LanguageSkills>
+    <ComputerSkills>
+            <ComputerSkill>
+        <ComputerSkill>pack office</ComputerSkill>
+        <ComputerSkillDuration></ComputerSkillDuration>
+        <ComputerSkillFirstUsed></ComputerSkillFirstUsed>
+        <ComputerSkillLastUsed></ComputerSkillLastUsed>
+    </ComputerSkill>
+
+    </ComputerSkills>
+    <ProfessionalSkills>
+            <ProfessionalSkill>
+        <ProfessionalSkill></ProfessionalSkill>
+        <ProfessionalSkillDuration></ProfessionalSkillDuration>
+        <ProfessionalSkillFirstUsed></ProfessionalSkillFirstUsed>
+        <ProfessionalSkillLastUsed></ProfessionalSkillLastUsed>
+    </ProfessionalSkill>
+    </ProfessionalSkills>
+    <SoftSkills>
+            <SoftSkill>
+        <SoftSkill></SoftSkill>
+        <SoftSkillDuration></SoftSkillDuration>
+        <SoftSkillFirstUsed></SoftSkillFirstUsed>
+        <SoftSkillLastUsed></SoftSkillLastUsed>
+    </SoftSkill>
+
+    </SoftSkills>
+</Skills>
+
+<SkillsObject>
+    <Skill>
+        <ExtractedSkill>pack office</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>International</MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode>ITSKILLKSEL8W</MasterSkillCode>
+        <SkillType>IT_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>COMMERCIAL</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Vente</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1177</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>fidélisation clients</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Gérer la Relation Clientèle</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1178</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Techniques de vente</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Vente</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1177</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Marketing</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Marketing</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1182</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Rédaction d&apos;appels d&apos;offres</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Gestion d&apos;appels d&apos;offres</MasterSkillName>
+        <MasterSkillCode>PROFSKILL70007</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Gestion de litiges</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Gestion des litiges et contentieux</MasterSkillName>
+        <MasterSkillCode>PROFSKILL30031</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>comptable</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Comptabilité et gestion de la trésorerie</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1248</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>HSE</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Qualité, Hygiène, Sécurité, Environnement</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1331</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>aéronautique</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Fabrication Aéronautique</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1546</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>sous-traitants</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Gestion Relation Sous-Traitants</MasterSkillName>
+        <MasterSkillCode>PROFSKILL30013</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Chimie</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Travail en Chimie</MasterSkillName>
+        <MasterSkillCode>PROFSKILL2163</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>peintures aéronautiques</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Travaux de Peinture</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1600</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>chimiques</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Travail en Chimie</MasterSkillName>
+        <MasterSkillCode>PROFSKILL2163</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>vente</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Vente</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1177</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Génie Mécanique</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Génie Mécanique</MasterSkillName>
+        <MasterSkillCode>PROFSKILL60001</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Productique</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Usinage et Production Industrielle</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1499</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Techniques</ExtractedSkill>
+        <Normalized>N</Normalized>
+        <MasterSetID></MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode></MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>aéronautiques</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Fabrication Aéronautique</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1546</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Grands comptes</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Gestion de compte et de base client</MasterSkillName>
+        <MasterSkillCode>PROFSKILL2261</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>produits chimiques</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Usinage et Production Industrielle</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1499</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>DUT Génie Mécanique et Productique Techniques aéronautiques</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Fabrication Aéronautique</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1546</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+
+</SkillsObject>
+
+<Other>
+    <FullTextKeywords>
+        ChimieGestionGrands comptesaéronautiquedistributionproduits chimiquesDESS Marketing et venteMaîtrise Physique-ChimieDUT Génie Mécanique et Productique Techniques aéronautiques
+    </FullTextKeywords>
+</Other>
+
+<UserArea>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+</UserArea>
+
+<DocumentText>
+FONTENEAU Olivier
+44 ans, marié, 2 enfants
+36 rue Marcel Pagnol 31700 Blagnac
+Tél : 07/70/19/23/55
+sillage3131@gmail.com
+
+CADRE TECHNICO-COMMERCIAL
+17 ans d&apos;expérience
+
+COMPETENCES
+
+
+* Suivi et fidélisation clients, prospection
+* Formation technique -Techniques de vente et Marketing
+* Rédaction d&apos;appels d&apos;offres
+* Expérience en management terrain
+*Gestion de litiges comptable et qualité
+* Formation à la qualité et HSE
+*Connaissance du secteur et des normes aéronautique (OEM/sous-traitants/MRO)
+Informatique : pack office, logiciels internes
+Langues : anglais maîtrisé (lu, parlé, écrit), espagnol (notions)
+
+EXPERIENCE PROFESSIONNELLE
+
+
+10/2008-aujourd&apos;hui : Responsable d&apos;activité marchés aéronautique / Key Account Manager Grands
+comptes
+Gestion d&apos;un technico-commercial sur région Rhône-Alpes / Gaches Chimie SA
+2005/2008 : Cadre technico-commercial-Gestion du secteur France / PEXA Ltd (distributeur anglais de
+peintures aéronautiques et défense)
+2001/2005 : Technico-commercial-Gestion région sud-ouest / Molydal SA (fabricant de lubrifiants
+industriels)
+1999/2001 : Responsable activité lubrifiants / Lambert Rivière (Groupe Univar-distribution de
+produits chimiques)
+
+
+FORMATIONS
+
+
+1999 : DESS Marketing et vente (Université Aix-Marseille III/Marseille)
+1997 : Maîtrise Physique-Chimie (Université Paul Sabatier/Toulouse)
+1993 : DUT Génie Mécanique et Productique Techniques aéronautiques (Université Paul
+Sabatier/Toulouse)
+
+
+ DIVERS
+
+
+Permis B
+Pelote Basque, Ski, BD
+</DocumentText>
+<DocumentHtml>
+&lt;div&gt;&lt;div style=&quot;position: relative;&quot;&gt;&lt;tk_metadata name=&quot;last_modified&quot; value=&quot;06/03/2018, 22:24&quot;&gt; &lt;/tk_metadata&gt;&lt;tk_metadata name=&quot;author&quot; value=&quot;Olive&quot;&gt; &lt;/tk_metadata&gt;&lt;p&gt; &lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;
+&lt;span style=&quot;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;&lt;span class=&quot;trxml-185&quot;&gt;FONTENEAU Olivier&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;44 ans, &lt;span class=&quot;trxml-67&quot;&gt;marié, 2 enfants&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;&lt;span class=&quot;trxml-78&quot;&gt;36 rue Marcel Pagnol 31700 Blagnac&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;Tél : &lt;span class=&quot;trxml-148&quot;&gt;07/70/19/23/55&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;&lt;span class=&quot;trxml-222&quot;&gt;sillage3131@gmail.com&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;
+ 
+&lt;/p&gt;&lt;p style=&quot;text-align:center;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;
+&lt;span style=&quot;font-family:&amp;apos;Calibri&amp;apos;;font-size:20pt;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-13&quot;&gt;CADRE &lt;span class=&quot;trxml-260&quot;&gt;TECHNICO-COMMERCIAL&lt;/span&gt; &lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Calibri&amp;apos;;font-size:16pt;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;17 ans d’expérience&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+ 
+&lt;/span&gt;&lt;/p&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;table cellspacing=&quot;1&quot; width=&quot;642&quot;&gt;&lt;tr valign=&quot;top&quot;&gt;&lt;td style=&quot;border-top-width:1pt;border-top-style:solid;border-bottom-width:1pt;border-bottom-style:solid;&quot; width=&quot;642&quot;&gt;&lt;p style=&quot;text-align:center;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Arial&amp;apos;;font-size:14pt;color:#000000;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-13&quot;&gt;COMPETENCES&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+ &lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;/table&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;color:#000000;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;                                                                            &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;- Suivi et &lt;span class=&quot;trxml-261&quot;&gt;fidélisation clients&lt;/span&gt;, prospection&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;- &lt;span class=&quot;trxml-262&quot;&gt;Formation&lt;/span&gt; &lt;span class=&quot;trxml-263&quot;&gt;technique&lt;/span&gt; -&lt;span class=&quot;trxml-264&quot;&gt;Techniques de vente&lt;/span&gt; et &lt;span class=&quot;trxml-265&quot;&gt;Marketing&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;- &lt;span class=&quot;trxml-266&quot;&gt;Rédaction&lt;/span&gt; d’appels d’offres&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;- Expérience en &lt;span class=&quot;trxml-267&quot;&gt;management&lt;/span&gt; terrain&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;-&lt;span class=&quot;trxml-268&quot;&gt;Gestion de litiges&lt;/span&gt; &lt;span class=&quot;trxml-269&quot;&gt;comptable&lt;/span&gt; et qualité&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;- &lt;span class=&quot;trxml-270&quot;&gt;Formation&lt;/span&gt; à la qualité et &lt;span class=&quot;trxml-271&quot;&gt;HSE&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;-Connaissance du secteur et des normes &lt;span class=&quot;trxml-272&quot;&gt;aéronautique&lt;/span&gt; (OEM/&lt;span class=&quot;trxml-273&quot;&gt;sous-traitants&lt;/span&gt;/MRO)&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;Informatique : &lt;span class=&quot;trxml-64&quot;&gt;pack office&lt;/span&gt;, logiciels internes&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;Langues : anglais maîtrisé (lu, parlé, écrit), espagnol (notions&lt;/span&gt;)&lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;
+ 
+&lt;/p&gt;
+&lt;table cellspacing=&quot;1&quot; width=&quot;642&quot;&gt;&lt;tr valign=&quot;top&quot;&gt;&lt;td style=&quot;border-top-width:1pt;border-top-style:solid;border-bottom-width:1pt;border-bottom-style:solid;&quot; width=&quot;642&quot;&gt;&lt;p style=&quot;text-align:center;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;
+&lt;span style=&quot;font-family:&amp;apos;Arial&amp;apos;;font-size:14pt;color:#000000;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-7&quot;&gt;EXPERIENCE PROFESSIONNELLE&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+ &lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/table&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+ 
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-58&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-32&quot;&gt;10/2008-aujourd’hui&lt;/span&gt; : &lt;span class=&quot;trxml-34&quot;&gt;&lt;span class=&quot;trxml-274&quot;&gt;Responsable&lt;/span&gt; d’activité marchés &lt;span class=&quot;trxml-275&quot;&gt;aéronautique&lt;/span&gt; / Key Account Manager Grands comptes&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-58&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-58&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-58&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-80&quot;&gt;&lt;span class=&quot;trxml-276&quot;&gt;Gestion&lt;/span&gt; d’un &lt;span class=&quot;trxml-277&quot;&gt;technico-commercial&lt;/span&gt; sur région Rhône-Alpes / Gaches &lt;span class=&quot;trxml-278&quot;&gt;Chimie&lt;/span&gt; SA&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-59&quot;&gt;&lt;span class=&quot;trxml-36&quot;&gt;2005/2008&lt;/span&gt; : &lt;span class=&quot;trxml-38&quot;&gt;Cadre &lt;span class=&quot;trxml-279&quot;&gt;technico-commercial&lt;/span&gt;&lt;/span&gt;-&lt;span class=&quot;trxml-280&quot;&gt;Gestion du&lt;/span&gt; secteur France / &lt;span class=&quot;trxml-40&quot;&gt;PEXA Ltd&lt;/span&gt; (distributeur anglais de &lt;span class=&quot;trxml-81&quot;&gt;&lt;span class=&quot;trxml-281&quot;&gt;peintures aéronautiques&lt;/span&gt; et &lt;span class=&quot;trxml-282&quot;&gt;défense&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-60&quot;&gt;&lt;span class=&quot;trxml-42&quot;&gt;2001/2005&lt;/span&gt; : &lt;span class=&quot;trxml-44&quot;&gt;&lt;span class=&quot;trxml-283&quot;&gt;Technico-commercial&lt;/span&gt;&lt;/span&gt;-&lt;span class=&quot;trxml-284&quot;&gt;Gestion&lt;/span&gt; région sud-ouest / &lt;span class=&quot;trxml-46&quot;&gt;Molydal SA&lt;/span&gt; (fabricant de lubrifiants &lt;span class=&quot;trxml-82&quot;&gt;industriels&lt;/span&gt;&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-61&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-48&quot;&gt;1999/2001&lt;/span&gt; : &lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-285&quot;&gt;Responsable&lt;/span&gt; activité lubrifiants&lt;/span&gt; / &lt;span class=&quot;trxml-52&quot;&gt;Lambert Rivière&lt;/span&gt; (Groupe &lt;span class=&quot;trxml-286&quot;&gt;Univar-distribution&lt;/span&gt; de &lt;span class=&quot;trxml-83&quot;&gt;produits &lt;span class=&quot;trxml-287&quot;&gt;chimiques&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;)&lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;
+ 
+&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;
+ 
+&lt;/p&gt;
+&lt;table cellspacing=&quot;1&quot; width=&quot;642&quot;&gt;&lt;tr valign=&quot;top&quot;&gt;&lt;td style=&quot;border-top-width:1pt;border-top-style:solid;border-bottom-width:1pt;border-bottom-style:solid;&quot; width=&quot;642&quot;&gt;&lt;p style=&quot;text-align:center;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;
+&lt;span style=&quot;font-family:&amp;apos;Arial&amp;apos;;font-size:14pt;color:#000000;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-9&quot;&gt;&lt;span class=&quot;trxml-288&quot;&gt;FORMATIONS&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+ &lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/table&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+ 
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;&lt;span class=&quot;trxml-54&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt;1999&lt;/span&gt; : &lt;span class=&quot;trxml-17&quot;&gt;DESS &lt;span class=&quot;trxml-289&quot;&gt;Marketing&lt;/span&gt; et &lt;span class=&quot;trxml-290&quot;&gt;vente&lt;/span&gt;&lt;/span&gt; (&lt;span class=&quot;trxml-19&quot;&gt;Université Aix-Marseille III/Marseille&lt;/span&gt;&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;&lt;span class=&quot;trxml-55&quot;&gt;&lt;span class=&quot;trxml-21&quot;&gt;1997&lt;/span&gt; : &lt;span class=&quot;trxml-23&quot;&gt;Maîtrise &lt;span class=&quot;trxml-291&quot;&gt;&lt;span class=&quot;trxml-292&quot;&gt;Physique-Chimie&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; (&lt;span class=&quot;trxml-25&quot;&gt;Université Paul Sabatier/Toulouse&lt;/span&gt;&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-56&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;&lt;span class=&quot;trxml-27&quot;&gt;1993&lt;/span&gt; : &lt;span class=&quot;trxml-29&quot;&gt;DUT &lt;span class=&quot;trxml-293&quot;&gt;Génie Mécanique&lt;/span&gt; et &lt;span class=&quot;trxml-294&quot;&gt;Productique&lt;/span&gt; &lt;span class=&quot;trxml-295&quot;&gt;Techniques&lt;/span&gt; &lt;span class=&quot;trxml-296&quot;&gt;aéronautiques&lt;/span&gt;&lt;/span&gt; (&lt;span class=&quot;trxml-30&quot;&gt;Université Paul Sabatier/Toulouse&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;)&lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;
+ 
+&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;
+ 
+&lt;/p&gt;
+&lt;table cellspacing=&quot;1&quot; width=&quot;642&quot;&gt;&lt;tr valign=&quot;top&quot;&gt;&lt;td style=&quot;border-top-width:1pt;border-top-style:solid;border-bottom-width:1pt;border-bottom-style:solid;&quot; width=&quot;642&quot;&gt;&lt;p style=&quot;margin-left:0.01in;margin-right:0.01in;text-align:center;margin-top:0.01in;margin-bottom:0.01in;&quot;&gt;
+&lt;span style=&quot;font-family:&amp;apos;Arial&amp;apos;;font-size:14pt;color:#000000;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-11&quot;&gt;DIVERS&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+ &lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;/table&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+ 
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;Permis &lt;span class=&quot;trxml-79&quot;&gt;B&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;Pelote Basque&lt;/span&gt;, &lt;span class=&quot;trxml-73&quot;&gt;Ski&lt;/span&gt;, &lt;span class=&quot;trxml-74&quot;&gt;BD&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;
+ 
+&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;
+ &lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;
+</DocumentHtml>
+</Profile>
+

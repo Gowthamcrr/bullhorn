@@ -1,0 +1,1405 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Profile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" lang="french" file="0030N000023i5NXQAY.pdf">
+
+<ProfileSummary>
+    <CurrentJob>Assistante RH</CurrentJob>
+    <CurrentEmployer>SUEZ RV OSIS OUEST</CurrentEmployer>
+    <CurrentEmployerLocation>37</CurrentEmployerLocation>
+    <TotalExperienceYears>4</TotalExperienceYears>
+    <HighestEducationLevel code="4"
+        description="Bachelor"
+       
+        description.cz="Bakalář"
+        description.de="Bachelor/Fachhochschule"
+        description.dk="Bachelor"
+        description.el="Προπτυχιακό"
+        description.en="Bachelor"
+        description.es="Grado"
+        description.fr="Licence/Bac+3"
+        description.it="Laureato"
+        description.nl="HBO/Bachelor"
+        description.pl="Bakałarz"
+        description.pt="Bacharel"
+        description.ro="Licenţiat"
+       
+        description.se="Bachelor"
+        description.sk="Bakalár">Bachelor</HighestEducationLevel>
+    <ESHighestEducationLevel
+       
+       ></ESHighestEducationLevel>
+        <SummaryAmbitionSection>Bodet, GIPAA
+
+         Initialement orientée en gendarmerie, mon projet professionnel est
+         aujourd&apos;hui d&apos;intégrer un service RH afin de mettre en application
+              mes connaissances acquises lors de ma reprise d&apos;études
+
+
+ASSISTANTE RESSOURCES HUMAINES</SummaryAmbitionSection>
+    <CVTitle>Bodet, GIPAA</CVTitle>
+
+<ProfilePicture>
+        <Base64Content></Base64Content>
+    <Filename></Filename>
+    <ContentType></ContentType>
+</ProfilePicture>
+<ExternalID></ExternalID>
+</ProfileSummary>
+
+<Personal>
+    <FirstName>Ameline</FirstName>
+    <MiddleName></MiddleName>
+    <LastName>Lepetit</LastName>
+    <LastNamePrefix></LastNamePrefix>
+    <LastNameWithoutPrefix>Lepetit</LastNameWithoutPrefix>
+    <FullName>Ameline LEPETIT</FullName>
+    <Initials>A.</Initials>
+    <Nationality
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       ></Nationality>
+    <Gender code="2"
+        description="Female"
+       
+       
+        description.de="Frau"
+        description.dk="Kvinde"
+        description.el="Θήλυ"
+        description.en="Female"
+        description.es="Mujer"
+        description.fr="Femme"
+        description.it="Donna"
+        description.nl="Vrouw"
+       
+       
+       
+       
+       
+       >Female</Gender>
+    <MaritalStatus
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   ></MaritalStatus>
+    <DateOfBirth></DateOfBirth>
+        <DriversLicense>B</DriversLicense>
+        <DriversLicenseEUNorm code="5">B</DriversLicenseEUNorm>
+
+<Address>
+        <StreetName>Rue Hélène Lazareff</StreetName>
+        <StreetNumberBase>5</StreetNumberBase>
+        <ZipCode>37100</ZipCode>
+        <City>TOURS</City>
+        <Region code="FR-37"
+       
+       
+        description.de="FR Département Indre-et-Loire"
+       
+       
+        description.en="FR Indre-et-Loire"
+       
+        description.fr="FR Indre-et-Loire"
+       
+        description.nl="FR Indre-et-Loire"
+       
+       
+       
+       
+       
+       >FR Indre-et-Loire</Region>
+        <Country code="FR"
+       
+        description.cz="Francie"
+        description.de="Frankreich"
+        description.dk="Frankrig"
+       
+        description.en="France"
+        description.es="Francia"
+        description.fr="France"
+        description.it="Francia"
+        description.nl="Frankrijk"
+        description.pl="Francja"
+        description.pt="França"
+        description.ro="Franța"
+       
+        description.se="Frankrike"
+        description.sk="Francúzsko">France</Country>
+</Address>
+<HomePhones>
+        <HomePhone></HomePhone>
+</HomePhones>
+<MobilePhones>
+        <MobilePhone>+33671051268</MobilePhone>
+</MobilePhones>
+<Emails>
+        <Email></Email>
+</Emails>
+<ExtraInfo>
+        <TrxmlID>134219365</TrxmlID>
+    <ExternalID></ExternalID>
+    <Source></Source>
+    <ExtraInfo1></ExtraInfo1>
+    <ExtraInfo2></ExtraInfo2>
+    <ExtraInfo3></ExtraInfo3>
+    
+</ExtraInfo>
+</Personal>
+
+<EducationHistory>
+    <EducationItem>
+        <EducationLevel code="4"
+            description="Bachelor"
+           
+            description.cz="Bakalář"
+            description.de="Bachelor/Fachhochschule"
+            description.dk="Bachelor"
+            description.el="Προπτυχιακό"
+            description.en="Bachelor"
+            description.es="Grado"
+            description.fr="Licence/Bac+3"
+            description.it="Laureato"
+            description.nl="HBO/Bachelor"
+            description.pl="Bakałarz"
+            description.pt="Bacharel"
+            description.ro="Licenţiat"
+           
+            description.se="Bachelor"
+            description.sk="Bakalár">Bachelor</EducationLevel>
+        <InstituteName>UFR</InstituteName>
+        <InstituteLocation>37</InstituteLocation>
+        <Major>Licence Pro Gestion des Ressources Humaines; * Option formation prof. et développement des compétences, niveau II</Major>
+        <GPA></GPA>
+        <StartDate></StartDate>
+        <EndDate>2015-09-30</EndDate>
+        <ESEducationLevel
+           
+           ></ESEducationLevel>
+
+    </EducationItem>
+    <EducationItem>
+        <EducationLevel code="2"
+            description="Vocational Education"
+           
+            description.cz="Odborného vzdělávání"
+            description.de="Berufsausbildung"
+            description.dk="Erhvervsuddannelser"
+            description.el="Επαγγελματική/Τεχνική εκπαίδευση"
+            description.en="Vocational Education"
+            description.es="Formación profesional"
+            description.fr="Éducation Professionnelle"
+            description.it="Formazione professionale"
+            description.nl="Beroepsonderwijs"
+            description.pl="Kształcenie zawodowe"
+            description.pt="Educação profissional"
+            description.ro="Şcoală profesională"
+           
+            description.se="Yrkesskola"
+            description.sk="Odborná škola">Vocational Education</EducationLevel>
+        <InstituteName>Afpa Olivet</InstituteName>
+        <InstituteLocation>45</InstituteLocation>
+        <Major>Gestionnaire de paie; Formation de 6 mois dont 2 mois de stage, Titre de niveau III</Major>
+        <GPA></GPA>
+        <StartDate>2013-06-01</StartDate>
+        <EndDate>2013-12-31</EndDate>
+        <ESEducationLevel
+           
+           ></ESEducationLevel>
+
+    </EducationItem>
+    <EducationItem>
+        <EducationLevel code="2"
+            description="Vocational Education"
+           
+            description.cz="Odborného vzdělávání"
+            description.de="Berufsausbildung"
+            description.dk="Erhvervsuddannelser"
+            description.el="Επαγγελματική/Τεχνική εκπαίδευση"
+            description.en="Vocational Education"
+            description.es="Formación profesional"
+            description.fr="Éducation Professionnelle"
+            description.it="Formazione professionale"
+            description.nl="Beroepsonderwijs"
+            description.pl="Kształcenie zawodowe"
+            description.pt="Educação profissional"
+            description.ro="Şcoală profesională"
+           
+            description.se="Yrkesskola"
+            description.sk="Odborná škola">Vocational Education</EducationLevel>
+        <InstituteName>Arpec-Touraine</InstituteName>
+        <InstituteLocation>37</InstituteLocation>
+        <Major>Secrétaire - Comptable; *; Formation d&apos;un an dont 4 mois de stage, Titre de niveau IV</Major>
+        <GPA></GPA>
+        <StartDate></StartDate>
+        <EndDate>2011-09-30</EndDate>
+        <ESEducationLevel
+           
+           ></ESEducationLevel>
+
+    </EducationItem>
+    <EducationItem>
+        <EducationLevel code="7"
+            description="Course"
+           
+            description.cz="Kurz"
+            description.de="Kurs"
+            description.dk="Kursus"
+            description.el="Μάθημα"
+            description.en="Course"
+            description.es="Curso"
+            description.fr="Cours"
+            description.it="Corso"
+            description.nl="Cursus"
+            description.pl="Kurs"
+            description.pt="Curso"
+            description.ro="Curs"
+           
+            description.se="Kurs"
+            description.sk="Kurz">Course</EducationLevel>
+        <InstituteName>Gendarmerie Nationale</InstituteName>
+        <InstituteLocation></InstituteLocation>
+        <Major>djoint volontaire</Major>
+        <GPA></GPA>
+        <StartDate></StartDate>
+        <EndDate>2006-04-30</EndDate>
+        <ESEducationLevel
+           
+           ></ESEducationLevel>
+
+    </EducationItem>
+
+</EducationHistory>
+
+<EmploymentHistory>
+    <EmploymentItem>
+        <JobTitle>Assistante RH</JobTitle>
+        <ExperienceONET></ExperienceONET>
+        <EmployerName>SUEZ RV OSIS OUEST</EmployerName>
+        <EmployerLocation>37</EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>1</YearsExperience>
+        <JobCode></JobCode>
+        <JobGroup></JobGroup>
+        <JobClass></JobClass>
+        <JobDescription>(CDD de 9 mois = missionnée sur la gestion de formation) * Recenser les besoins en formation des salariés * Élaborer le plan de formation (Formations internes / externes) * Gérer le partenariat avec l&apos;École des Métiers (interne au groupe) * Gérer les relations avec les organismes financeurs (sans subrogation) * Administrer les relations avec les organismes de formations * Établir et contrôler le budget de formation * Enregistrer les demandes de prise en charge auprès de l&apos;opca * Accompagner les salariés sur les autres dispositifs (VAE, CPF, CIF...)</JobDescription>
+        <StartDate>2017-06-01</StartDate>
+        <EndDate>2018-02-28</EndDate>
+    </EmploymentItem>
+    <EmploymentItem>
+        <JobTitle>Assistante RH</JobTitle>
+        <ExperienceONET></ExperienceONET>
+        <EmployerName>AMADA EUROPE</EmployerName>
+        <EmployerLocation>72</EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>2</YearsExperience>
+        <JobCode></JobCode>
+        <JobGroup></JobGroup>
+        <JobClass></JobClass>
+        <JobDescription>(Alternance + CDD de 6 mois) * Assurer l&apos;accueil et l&apos;intégration des nouveaux collaborateurs * Administrer le personnel (salariés, stagiaires et intérimaires) * Créer et mettre à jour les dossiers individuels * Assurer la gestion des pointages, absences et congés des salariés... * Préparer et élaborer le plan de formation, mise en place de la BDES * Gérer les visites médicales et établir la déclaration des effectifs</JobDescription>
+        <StartDate>2015-09-01</StartDate>
+        <EndDate>2017-03-31</EndDate>
+    </EmploymentItem>
+    <EmploymentItem>
+        <JobTitle>Gestionnaire de paie</JobTitle>
+        <ExperienceONET id="13_1141_00">Compensation, Benefits, and Job Analysis Specialists</ExperienceONET>
+        <EmployerName>STREGO Touraine</EmployerName>
+        <EmployerLocation>37</EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>0</YearsExperience>
+        <JobCode code="3128"></JobCode>
+        <JobGroup code="9"></JobGroup>
+        <JobClass code="1"></JobClass>
+        <JobDescription>* Rédiger les contrats de travail, Etablir les DPAE... * Collecter et vérifier les éléments constitutifs de la paie * Elaborer les bulletins de paies * Créer et mettre à jour les dossiers individuels</JobDescription>
+        <StartDate>2013-09-01</StartDate>
+        <EndDate>2013-10-31</EndDate>
+    </EmploymentItem>
+    <EmploymentItem>
+        <JobTitle>Assistante comptable</JobTitle>
+        <ExperienceONET id="13_2011_01">Accountants</ExperienceONET>
+        <EmployerName>IKEA Tours</EmployerName>
+        <EmployerLocation>Tours</EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>1</YearsExperience>
+        <JobCode code="2525"></JobCode>
+        <JobGroup code="218"></JobGroup>
+        <JobClass code="24"></JobClass>
+        <JobDescription>* Saisir les écritures comptables * Gérer les factures, réaliser les devis * Effectuer les états de caisses</JobDescription>
+        <StartDate>2012-01-01</StartDate>
+        <EndDate></EndDate>
+    </EmploymentItem>
+
+</EmploymentHistory>
+
+<RecentEmploymentHistory>
+    <RecentEmploymentItem>
+        <JobTitle>Assistante RH</JobTitle>
+        <ExperienceONET></ExperienceONET>
+        <EmployerName>SUEZ RV OSIS OUEST</EmployerName>
+        <EmployerLocation>37</EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>1</YearsExperience>
+        <JobCode></JobCode>
+        <JobGroup></JobGroup>
+        <JobClass></JobClass>
+        <JobDescription>(CDD de 9 mois = missionnée sur la gestion de formation) * Recenser les besoins en formation des salariés * Élaborer le plan de formation (Formations internes / externes) * Gérer le partenariat avec l&apos;École des Métiers (interne au groupe) * Gérer les relations avec les organismes financeurs (sans subrogation) * Administrer les relations avec les organismes de formations * Établir et contrôler le budget de formation * Enregistrer les demandes de prise en charge auprès de l&apos;opca * Accompagner les salariés sur les autres dispositifs (VAE, CPF, CIF...)</JobDescription>
+        <StartDate>2017-06-01</StartDate>
+        <EndDate>2018-02-28</EndDate>
+    </RecentEmploymentItem>
+    <RecentEmploymentItem>
+        <JobTitle>Assistante RH</JobTitle>
+        <ExperienceONET></ExperienceONET>
+        <EmployerName>AMADA EUROPE</EmployerName>
+        <EmployerLocation>72</EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>2</YearsExperience>
+        <JobCode></JobCode>
+        <JobGroup></JobGroup>
+        <JobClass></JobClass>
+        <JobDescription>(Alternance + CDD de 6 mois) * Assurer l&apos;accueil et l&apos;intégration des nouveaux collaborateurs * Administrer le personnel (salariés, stagiaires et intérimaires) * Créer et mettre à jour les dossiers individuels * Assurer la gestion des pointages, absences et congés des salariés... * Préparer et élaborer le plan de formation, mise en place de la BDES * Gérer les visites médicales et établir la déclaration des effectifs</JobDescription>
+        <StartDate>2015-09-01</StartDate>
+        <EndDate>2017-03-31</EndDate>
+    </RecentEmploymentItem>
+
+</RecentEmploymentHistory>
+
+<Skills>
+    <LanguageSkills>
+            <LanguageSkill>
+        <LanguageSkill></LanguageSkill>
+        <LanguageProficiency
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           ></LanguageProficiency>
+        <LanguageSkillDuration></LanguageSkillDuration>
+        <LanguageSkillFirstUsed></LanguageSkillFirstUsed>
+        <LanguageSkillLastUsed></LanguageSkillLastUsed>
+    </LanguageSkill>
+
+    </LanguageSkills>
+    <ComputerSkills>
+            <ComputerSkill>
+        <ComputerSkill>Pack Office</ComputerSkill>
+        <ComputerSkillDuration></ComputerSkillDuration>
+        <ComputerSkillFirstUsed></ComputerSkillFirstUsed>
+        <ComputerSkillLastUsed></ComputerSkillLastUsed>
+    </ComputerSkill>
+    <ComputerSkill>
+        <ComputerSkill>Publisher</ComputerSkill>
+        <ComputerSkillDuration></ComputerSkillDuration>
+        <ComputerSkillFirstUsed></ComputerSkillFirstUsed>
+        <ComputerSkillLastUsed></ComputerSkillLastUsed>
+    </ComputerSkill>
+    <ComputerSkill>
+        <ComputerSkill>GTA</ComputerSkill>
+        <ComputerSkillDuration></ComputerSkillDuration>
+        <ComputerSkillFirstUsed></ComputerSkillFirstUsed>
+        <ComputerSkillLastUsed></ComputerSkillLastUsed>
+    </ComputerSkill>
+    <ComputerSkill>
+        <ComputerSkill>Mosaic</ComputerSkill>
+        <ComputerSkillDuration></ComputerSkillDuration>
+        <ComputerSkillFirstUsed></ComputerSkillFirstUsed>
+        <ComputerSkillLastUsed></ComputerSkillLastUsed>
+    </ComputerSkill>
+
+    </ComputerSkills>
+    <ProfessionalSkills>
+            <ProfessionalSkill>
+        <ProfessionalSkill></ProfessionalSkill>
+        <ProfessionalSkillDuration></ProfessionalSkillDuration>
+        <ProfessionalSkillFirstUsed></ProfessionalSkillFirstUsed>
+        <ProfessionalSkillLastUsed></ProfessionalSkillLastUsed>
+    </ProfessionalSkill>
+    </ProfessionalSkills>
+    <SoftSkills>
+            <SoftSkill>
+        <SoftSkill></SoftSkill>
+        <SoftSkillDuration></SoftSkillDuration>
+        <SoftSkillFirstUsed></SoftSkillFirstUsed>
+        <SoftSkillLastUsed></SoftSkillLastUsed>
+    </SoftSkill>
+
+    </SoftSkills>
+</Skills>
+
+<SkillsObject>
+    <Skill>
+        <ExtractedSkill>Pack Office</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>International</MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode>ITSKILLKSEL8W</MasterSkillCode>
+        <SkillType>IT_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Publisher</ExtractedSkill>
+        <Normalized>N</Normalized>
+        <MasterSetID></MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode></MasterSkillCode>
+        <SkillType>IT_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>GTA</ExtractedSkill>
+        <Normalized>N</Normalized>
+        <MasterSetID></MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode></MasterSkillCode>
+        <SkillType>IT_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Mosaic</ExtractedSkill>
+        <Normalized>N</Normalized>
+        <MasterSetID></MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode></MasterSkillCode>
+        <SkillType>IT_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>RH</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Administration du Personnel</MasterSkillName>
+        <MasterSkillCode>PROFSKILL20084</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>RESSOURCES HUMAINES</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Administration du Personnel</MasterSkillName>
+        <MasterSkillCode>PROFSKILL20084</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>gestion de formation</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Enseignement, Formations et Projets Pédagogiques</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1584</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>plan de formation</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Enseignement, Formations et Projets Pédagogiques</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1584</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>organismes de formations</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Enseignement, Formations et Projets Pédagogiques</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1584</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>budget</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Gestion Budgétaire</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1236</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Assurer l&apos;accueil</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Accueillir du Public</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1579</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Administrer le personnel</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Administration du Personnel</MasterSkillName>
+        <MasterSkillCode>PROFSKILL20084</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>pointages</ExtractedSkill>
+        <Normalized>N</Normalized>
+        <MasterSetID></MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode></MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Gérer les visites médicales</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Santé et Sécurité Au Travail (Sst)</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1437</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Rédiger les contrats de travail</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Réalisation des Contrats</MasterSkillName>
+        <MasterSkillCode>PROFSKILL30009</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>bulletins de paies</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Gestion de la Paie</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1477</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>comptable</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Comptabilité et gestion de la trésorerie</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1248</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Saisir les écritures comptables</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Comptabilité et gestion de la trésorerie</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1248</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Gérer les factures</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Gestion Comptes Fournisseurs</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1241</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>réaliser les devis</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Etablissement de Devis</MasterSkillName>
+        <MasterSkillCode>PROFSKILL5504</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>caisses</ExtractedSkill>
+        <Normalized>N</Normalized>
+        <MasterSetID></MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode></MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Gestion des Ressources Humaines</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Administration du Personnel</MasterSkillName>
+        <MasterSkillCode>PROFSKILL20084</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>développement des compétences</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Administration du Personnel</MasterSkillName>
+        <MasterSkillCode>PROFSKILL20084</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Entretien Professionnel</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Sourcing et recrutement</MasterSkillName>
+        <MasterSkillCode>PROFSKILL2162</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>congés des salariés</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Administration du Personnel</MasterSkillName>
+        <MasterSkillCode>PROFSKILL20084</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>devis</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Etablissement de Devis</MasterSkillName>
+        <MasterSkillCode>PROFSKILL5504</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>gestion des pointages</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Gestion de Stocks et d’entrepôts</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1478</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Licence Pro Gestion des Ressources Humaines; * Option formation prof. et développement des compétences, niveau II</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Administration du Personnel</MasterSkillName>
+        <MasterSkillCode>PROFSKILL20084</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+
+</SkillsObject>
+
+<Other>
+    <FullTextKeywords>
+        absencescongés des salariésdevisgestiongestion des pointagesl&apos;accueilLicence Pro Gestion des Ressources Humaines; * Option formation prof. et développement des compétences, niveau II
+    </FullTextKeywords>
+</Other>
+
+<UserArea>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+</UserArea>
+
+<DocumentText>
+Ameline
+   LEPETIT
+
+
+
+     Disponible
+  dès mars 2018
+
+
+       35 ans
+
+    5 Rue Hélène
+  Lazareff - Apt 18 -
+    37100 TOURS
+
+  06.71.05.12.68
+
+ ameline.maillet@
+     laposte.net
+
+-----------------------
+
+  Permis B, Véhicule
+
+    Mobilité prof.
+   départementale
+
+--------------------------
+
+Logiciels :
+
+Bureautique  : Pack
+    Office, Publisher,
+
+RH: GTA, Mosaic,
+    Bodet, GIPAA
+
+         Initialement orientée en gendarmerie, mon projet professionnel est
+         aujourd&apos;hui d&apos;intégrer un service RH afin de mettre en application
+              mes connaissances acquises lors de ma reprise d&apos;études
+
+
+ASSISTANTE RESSOURCES HUMAINES
+
+
+   Expérience professionnelle
+
+  Juin 2017 à Février 2018 - SUEZ RV OSIS OUEST (37) - Assistante RH
+  (CDD de 9 mois = missionnée sur la gestion de formation)
+  * Recenser les besoins en formation des salariés
+  * Élaborer le plan de formation (Formations internes / externes)
+  * Gérer le partenariat avec l&apos;École des Métiers (interne au groupe)
+  * Gérer les relations avec les organismes financeurs (sans subrogation)
+  * Administrer les relations avec les organismes de formations
+  * Établir et contrôler le budget de formation
+  * Enregistrer les demandes de prise en charge auprès de l&apos;opca
+  * Accompagner les salariés sur les autres dispositifs (VAE, CPF, CIF...)
+
+  Sept. 2015 à Mars 2017 - AMADA EUROPE (72) - Assistante RH
+  (Alternance + CDD de 6 mois)
+  * Assurer l&apos;accueil et l&apos;intégration des nouveaux collaborateurs
+  * Administrer le personnel (salariés, stagiaires et intérimaires)
+  * Créer et mettre à jour les dossiers individuels
+  * Assurer la gestion des pointages, absences et congés des salariés...
+  * Préparer et élaborer le plan de formation, mise en place de la BDES
+  * Gérer les visites médicales et établir la déclaration des effectifs
+
+  Sept. Oct. 2013 - STREGO Touraine (37) - Gestionnaire de paie (stage)
+  * Rédiger les contrats de travail, Etablir les DPAE...
+  * Collecter et vérifier les éléments constitutifs de la paie
+  * Elaborer les bulletins de paies
+  * Créer et mettre à jour les dossiers individuels
+
+  Janv. / Févr. 2012 - IKEA Tours - Assistante comptable (stage)
+  * Saisir les écritures comptables
+  * Gérer les factures, réaliser les devis
+  * Effectuer les états de caisses
+
+            Formation
+
+  Sept. 2015/16  - Licence Pro Gestion des Ressources Humaines     - UFR (37)
+  * Option formation prof. et développement des compétences, niveau II
+  * Mémoire réalisé sur le thème de : « l&apos;Entretien Professionnel »
+
+  Juin / Décembre 2013   - Gestionnaire de paie - Afpa Olivet (45)
+  * Formation de 6 mois dont 2 mois de stage, Titre de niveau III
+
+  Sept. 2011/12  - Secrétaire - Comptable  - Arpec-Touraine (37)
+  * Formation d&apos;un an dont 4 mois de stage, Titre de niveau IV
+
+  Avril 2006/11 - A djoint volontaire - Gendarmerie Nationale
+  * Contrat de 5 ans sur plusieurs départements.
+</DocumentText>
+<DocumentHtml>
+&lt;div&gt;&lt;div style=&quot;position: relative;&quot;&gt;&lt;tk_metadata name=&quot;last_modified&quot; value=&quot;28/01/2018, 13:42&quot;&gt; &lt;/tk_metadata&gt;&lt;tk_metadata name=&quot;author&quot;&gt; &lt;/tk_metadata&gt;&lt;p&gt; &lt;/p&gt;
+&lt;div style=&quot;position:absolute;top:189px;left:184px;white-space:nowrap;&quot;&gt;&lt;img alt=&quot;image&quot; height=&quot;18&quot; src=&quot;11.jpg&quot; width=&quot;287&quot;&gt; &lt;/img&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:191px;left:442px;white-space:nowrap;&quot;&gt;&lt;img alt=&quot;image&quot; height=&quot;17&quot; src=&quot;12.jpg&quot; width=&quot;19&quot;&gt; &lt;/img&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:829px;left:185px;white-space:nowrap;&quot;&gt;&lt;img alt=&quot;image&quot; height=&quot;18&quot; src=&quot;11.jpg&quot; width=&quot;287&quot;&gt; &lt;/img&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:830px;left:442px;white-space:nowrap;&quot;&gt;&lt;img alt=&quot;image&quot; height=&quot;15&quot; src=&quot;14.jpg&quot; width=&quot;23&quot;&gt; &lt;/img&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:44px;left:644px;white-space:nowrap;&quot;&gt;&lt;img alt=&quot;image&quot; height=&quot;67&quot; src=&quot;15.jpg&quot; width=&quot;57&quot;&gt; &lt;/img&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:869px;left:227px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#278d75;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-66&quot;&gt;&lt;span class=&quot;trxml-14&quot;&gt;Sept. 2015/16&lt;/span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-66&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-66&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:869px;left:324px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#7e7e7e;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-66&quot;&gt;- 
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-66&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:869px;left:332px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#278d75;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-66&quot;&gt;&lt;span class=&quot;trxml-16&quot;&gt;Licence Pro &lt;span class=&quot;trxml-241&quot;&gt;Gestion des Ressources Humaines&lt;/span&gt;&lt;/span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-66&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-66&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:869px;left:652px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#278d75;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-66&quot;&gt;- 
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-66&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:869px;left:660px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#7e7e7e;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-66&quot;&gt;&lt;span class=&quot;trxml-18&quot;&gt;UFR (37&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-66&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:890px;left:227px;font-size:11pt;color:#279080;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-66&quot;&gt;● 
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-66&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:888px;left:236px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#7e7e7e;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-66&quot;&gt;&lt;span class=&quot;trxml-19&quot;&gt;Option &lt;span class=&quot;trxml-242&quot;&gt;formation&lt;/span&gt; prof. et &lt;span class=&quot;trxml-243&quot;&gt;développement des compétences&lt;/span&gt;, niveau II&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-66&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:909px;left:227px;font-size:11pt;color:#279080;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-66&quot;&gt;● 
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-66&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:908px;left:236px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#7e7e7e;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;i&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-66&quot;&gt;Mémoire réalisé sur le thème de : « &lt;/span&gt;&lt;/span&gt;&lt;/i&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-66&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-66&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:908px;left:458px;font-family:&amp;apos;ABCDEE+Corbel-Italic&amp;apos;;font-size:12pt;color:#7e7e7e;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;i&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-66&quot;&gt;l’Entretien &lt;span class=&quot;trxml-244&quot;&gt;Professionnel&lt;/span&gt;&lt;/span&gt; &lt;/span&gt;&lt;/i&gt;&lt;span class=&quot;trxml-10&quot;&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-10&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:908px;left:617px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#7e7e7e;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;i&gt;&lt;span class=&quot;trxml-10&quot;&gt;»&lt;/span&gt;&lt;/i&gt;&lt;span class=&quot;trxml-10&quot;&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-10&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:945px;left:227px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#278d75;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-68&quot;&gt;&lt;span class=&quot;trxml-21&quot;&gt;&lt;span class=&quot;trxml-245&quot;&gt;Juin&lt;/span&gt; / Décembre 2013&lt;/span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-68&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-68&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:945px;left:375px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#278d75;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-68&quot;&gt;- 
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-68&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:945px;left:384px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#278d75;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-68&quot;&gt;&lt;span class=&quot;trxml-23&quot;&gt;&lt;span class=&quot;trxml-246&quot;&gt;Gestionnaire&lt;/span&gt; de paie&lt;/span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-68&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-68&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:945px;left:528px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#278d75;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-68&quot;&gt;- 
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-68&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:945px;left:537px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#7e7e7e;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-68&quot;&gt;&lt;span class=&quot;trxml-25&quot;&gt;Afpa Olivet (45&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-68&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:967px;left:227px;font-size:11pt;color:#279080;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-68&quot;&gt;● 
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-68&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:965px;left:236px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#7e7e7e;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-27&quot;&gt;&lt;span class=&quot;trxml-68&quot;&gt;&lt;span class=&quot;trxml-247&quot;&gt;Formation&lt;/span&gt; de 6 mois dont 2 mois de stage, Titre de niveau III&lt;/span&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-10&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1002px;left:227px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#278d75;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-70&quot;&gt;&lt;span class=&quot;trxml-28&quot;&gt;Sept. 2011/12&lt;/span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-70&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-70&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1002px;left:323px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#7e7e7e;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-70&quot;&gt;- 
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-70&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1002px;left:331px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#278d75;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-70&quot;&gt;&lt;span class=&quot;trxml-30&quot;&gt;Secrétaire - &lt;span class=&quot;trxml-248&quot;&gt;Comptable&lt;/span&gt;&lt;/span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-70&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-70&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1002px;left:493px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#278d75;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-70&quot;&gt;- 
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-70&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1002px;left:502px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#7e7e7e;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-70&quot;&gt;&lt;span class=&quot;trxml-32&quot;&gt;Arpec-Touraine (37&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-70&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1024px;left:227px;font-size:11pt;color:#279080;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-70&quot;&gt;● 
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-70&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1022px;left:236px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#7e7e7e;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;i&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-34&quot;&gt;&lt;span class=&quot;trxml-70&quot;&gt;&lt;span class=&quot;trxml-249&quot;&gt;Formation&lt;/span&gt; d&amp;apos;un an dont 4 mois de stage, Titre de niveau IV&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/i&gt;&lt;span class=&quot;trxml-10&quot;&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-10&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1059px;left:227px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#278d75;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;&lt;span class=&quot;trxml-35&quot;&gt;Avril 2006/11&lt;/span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1059px;left:319px;font-family:&amp;apos;ABCDEE+Corbel&amp;apos;;font-size:12pt;color:#7e7e7e;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;– 
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1059px;left:330px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#278d75;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;A&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1059px;left:341px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#278d75;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;&lt;span class=&quot;trxml-37&quot;&gt;djoint volontaire&lt;/span&gt; - 
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1059px;left:461px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#7e7e7e;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;&lt;span class=&quot;trxml-39&quot;&gt;Gendarmerie Nationale&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1080px;left:227px;font-size:11pt;color:#279080;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;● 
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1079px;left:236px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#7e7e7e;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;i&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;Contrat de 5 ans sur plusieurs &lt;span class=&quot;trxml-250&quot;&gt;départements&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;.&lt;/i&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:135px;left:211px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:18pt;color:#ffffff;background-color:#000000;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-12&quot;&gt;ASSISTANTE &lt;span class=&quot;trxml-214&quot;&gt;RESSOURCES HUMAINES&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;
+
+
+&lt;div style=&quot;position:absolute;top:193px;left:236px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#ffffff;background-color:#000000;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-8&quot;&gt;Expérience professionnelle&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:227px;left:61px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#ffffff;background-color:#000000;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-11&quot;&gt;35 ans&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:266px;left:45px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#ffffff;background-color:#000000;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-102&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;5 Rue Hélène&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-102&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-102&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:286px;left:27px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#ffffff;background-color:#000000;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-102&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;Lazareff &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-102&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-102&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:286px;left:88px;font-family:&amp;apos;ABCDEE+Corbel-Bold&amp;apos;;font-size:12pt;color:#ffffff;background-color:#000000;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-102&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;– &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-102&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-102&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:286px;left:99px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#ffffff;background-color:#000000;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-102&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;Apt 18 &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-102&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-102&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:286px;left:148px;font-family:&amp;apos;ABCDEE+Corbel-Bold&amp;apos;;font-size:12pt;color:#ffffff;background-color:#000000;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-102&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;–&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;span class=&quot;trxml-102&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:305px;left:44px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#ffffff;background-color:#000000;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-102&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;37100 TOURS&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:345px;left:32px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:14pt;color:#ffffff;background-color:#000000;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;&lt;span class=&quot;trxml-147&quot;&gt;06.71.05.12.68&lt;/span&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:384px;left:21px;font-family:&amp;apos;Arial&amp;apos;;font-size:13pt;color:#ffffff;background-color:#000000;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-11&quot;&gt;ameline.maillet@&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:404px;left:50px;font-family:&amp;apos;Arial&amp;apos;;font-size:13pt;color:#ffffff;background-color:#000000;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-11&quot;&gt;laposte.net&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:447px;left:13px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:14pt;color:#ffffff;background-color:#000000;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;-----------------------
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:485px;left:29px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#ffffff;background-color:#000000;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;&lt;span class=&quot;trxml-98&quot;&gt;Permis&lt;/span&gt; &lt;span class=&quot;trxml-103&quot;&gt;B&lt;/span&gt;, Véhicule
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:521px;left:42px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#ffffff;background-color:#000000;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;Mobilité prof.
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:540px;left:36px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#ffffff;background-color:#000000;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;départementale
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:576px;left:13px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#ffffff;background-color:#000000;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;--------------------------
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:611px;left:13px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#ffffff;background-color:#000000;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-11&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;Logiciels &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-11&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:611px;left:77px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#ffffff;background-color:#000000;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;:
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:647px;left:13px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-11&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;Bureautique &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-11&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:647px;left:102px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-11&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;: &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-11&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:647px;left:110px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#ffffff;background-color:#000000;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;&lt;span class=&quot;trxml-87&quot;&gt;Pack
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;&lt;span class=&quot;trxml-87&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:670px;left:42px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#ffffff;background-color:#000000;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;&lt;span class=&quot;trxml-87&quot;&gt;Office&lt;/span&gt;, &lt;span class=&quot;trxml-88&quot;&gt;Publisher&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:710px;left:13px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-11&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;&lt;span class=&quot;trxml-211&quot;&gt;RH&lt;/span&gt;: &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-11&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:710px;left:43px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#ffffff;background-color:#000000;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;&lt;span class=&quot;trxml-89&quot;&gt;GTA&lt;/span&gt;, &lt;span class=&quot;trxml-90&quot;&gt;Mosaic&lt;/span&gt;&lt;/span&gt;,
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:729px;left:42px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#ffffff;background-color:#000000;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;Bodet, GIPAA&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:833px;left:293px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#ffffff;background-color:#000000;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-11&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;Formation&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+ 
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:26px;left:35px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:26pt;color:#df6720;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-11&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;&lt;span class=&quot;trxml-170&quot;&gt;Ameline&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-11&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;&lt;span class=&quot;trxml-170&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;&lt;span class=&quot;trxml-170&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:62px;left:35px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:26pt;color:#eb964b;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-11&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;&lt;span class=&quot;trxml-170&quot;&gt;LEPETIT&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:35px;left:275px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#404040;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;Initialement orientée en gendarmerie, mon projet professionnel est
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:53px;left:273px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#404040;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;aujourd’hui d’intégrer un &lt;span class=&quot;trxml-212&quot;&gt;service&lt;/span&gt; &lt;span class=&quot;trxml-213&quot;&gt;RH&lt;/span&gt; afin de mettre en application
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:72px;left:306px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#404040;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;mes connaissances acquises lors de ma reprise&lt;/span&gt; d’études
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:228px;left:226px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#11514a;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;&lt;span class=&quot;trxml-42&quot;&gt;&lt;span class=&quot;trxml-215&quot;&gt;Juin&lt;/span&gt; 2017 à Février 2018&lt;/span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:228px;left:392px;font-family:&amp;apos;ABCDEE+Corbel-Bold&amp;apos;;font-size:12pt;color:#11514a;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;– &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:228px;left:403px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#11514a;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;&lt;span class=&quot;trxml-44&quot;&gt;SUEZ RV OSIS OUEST (37&lt;/span&gt;) - &lt;span class=&quot;trxml-46&quot;&gt;Assistante &lt;span class=&quot;trxml-216&quot;&gt;RH&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:247px;left:226px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#11514a;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;(&lt;span class=&quot;trxml-104&quot;&gt;CDD de 9 mois = missionnée sur la &lt;span class=&quot;trxml-217&quot;&gt;gestion de formation&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-104&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-104&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:269px;left:226px;font-size:11pt;color:#11514a;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-104&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;● 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-104&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:267px;left:237px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#7e7e7e;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-104&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;Recenser les besoins en &lt;span class=&quot;trxml-218&quot;&gt;formation&lt;/span&gt; des salariés
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-104&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:288px;left:226px;font-size:11pt;color:#11514a;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-104&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;● 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-104&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:286px;left:241px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#7e7e7e;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-104&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;Élaborer le &lt;span class=&quot;trxml-219&quot;&gt;plan de formation&lt;/span&gt; (&lt;span class=&quot;trxml-220&quot;&gt;Formations&lt;/span&gt; internes / externes)
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-104&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:308px;left:226px;font-size:11pt;color:#11514a;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-104&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;● 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-104&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:306px;left:241px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#7e7e7e;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-104&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;Gérer le 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-104&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:306px;left:296px;font-family:&amp;apos;ABCDEE+Corbel&amp;apos;;font-size:12pt;color:#7e7e7e;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-104&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;partenariat avec l’École des Métiers (interne au groupe)
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-104&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:328px;left:226px;font-size:11pt;color:#11514a;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-104&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;● 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-104&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:325px;left:241px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#7e7e7e;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-104&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;Gérer les relations avec les organismes financeurs (sans subrogation)
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-104&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:347px;left:226px;font-size:11pt;color:#11514a;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-104&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;● 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-104&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:345px;left:241px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#7e7e7e;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-104&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;Administrer les relations avec les &lt;span class=&quot;trxml-221&quot;&gt;organismes de formations&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-104&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:367px;left:226px;font-size:11pt;color:#11514a;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-104&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;● 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-104&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:365px;left:241px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#7e7e7e;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-104&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;Établir et contrôler le &lt;span class=&quot;trxml-222&quot;&gt;budget&lt;/span&gt; de &lt;span class=&quot;trxml-223&quot;&gt;formation&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-104&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:386px;left:226px;font-size:11pt;color:#11514a;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-104&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;● 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-104&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:384px;left:241px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#7e7e7e;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-104&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;Enregistrer les demandes de prise en charge auprès de l&amp;apos;opca
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-104&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:406px;left:226px;font-size:11pt;color:#11514a;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-104&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;● 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-104&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:404px;left:241px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#7e7e7e;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;&lt;span class=&quot;trxml-104&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;Accompagner les salariés sur les autres dispositifs (VAE, CPF, CIF...&lt;/span&gt;&lt;/span&gt;)
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:441px;left:226px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#11514a;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-76&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;&lt;span class=&quot;trxml-48&quot;&gt;Sept. 2015 à Mars 2017&lt;/span&gt; - &lt;span class=&quot;trxml-50&quot;&gt;AMADA EUROPE (72&lt;/span&gt;) - &lt;span class=&quot;trxml-52&quot;&gt;Assistante &lt;span class=&quot;trxml-224&quot;&gt;RH&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-76&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-76&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:461px;left:226px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#11514a;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-76&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;(&lt;span class=&quot;trxml-105&quot;&gt;Alternance + CDD de 6 mois)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-105&quot;&gt;&lt;span class=&quot;trxml-76&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-105&quot;&gt;&lt;span class=&quot;trxml-76&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:482px;left:226px;font-size:11pt;color:#11514a;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-105&quot;&gt;&lt;span class=&quot;trxml-76&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;● 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-105&quot;&gt;&lt;span class=&quot;trxml-76&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:480px;left:237px;font-family:&amp;apos;ABCDEE+Corbel&amp;apos;;font-size:12pt;color:#7e7e7e;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-105&quot;&gt;&lt;span class=&quot;trxml-76&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;&lt;span class=&quot;trxml-225&quot;&gt;Assurer&lt;/span&gt; l’accueil et l’intégration des nouveaux collaborateurs
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-105&quot;&gt;&lt;span class=&quot;trxml-76&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:502px;left:226px;font-size:11pt;color:#11514a;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-105&quot;&gt;&lt;span class=&quot;trxml-76&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;● 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-105&quot;&gt;&lt;span class=&quot;trxml-76&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:500px;left:237px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#7e7e7e;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-105&quot;&gt;&lt;span class=&quot;trxml-76&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;&lt;span class=&quot;trxml-226&quot;&gt;Administrer le personnel&lt;/span&gt; (salariés, stagiaires et intérimaires)
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-105&quot;&gt;&lt;span class=&quot;trxml-76&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:521px;left:226px;font-size:11pt;color:#11514a;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-105&quot;&gt;&lt;span class=&quot;trxml-76&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;● 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-105&quot;&gt;&lt;span class=&quot;trxml-76&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:519px;left:241px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#7e7e7e;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-105&quot;&gt;&lt;span class=&quot;trxml-76&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;Créer et mettre à jour les dossiers individuels
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-105&quot;&gt;&lt;span class=&quot;trxml-76&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:541px;left:226px;font-size:11pt;color:#11514a;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-105&quot;&gt;&lt;span class=&quot;trxml-76&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;● 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-105&quot;&gt;&lt;span class=&quot;trxml-76&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:539px;left:237px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#7e7e7e;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-105&quot;&gt;&lt;span class=&quot;trxml-76&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;Assurer la &lt;span class=&quot;trxml-227&quot;&gt;gestion&lt;/span&gt; des &lt;span class=&quot;trxml-228&quot;&gt;pointages&lt;/span&gt;, absences et congés des salariés…
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-105&quot;&gt;&lt;span class=&quot;trxml-76&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:560px;left:226px;font-size:11pt;color:#11514a;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-105&quot;&gt;&lt;span class=&quot;trxml-76&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;● 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-105&quot;&gt;&lt;span class=&quot;trxml-76&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:558px;left:237px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#7e7e7e;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-105&quot;&gt;&lt;span class=&quot;trxml-76&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;Préparer et élaborer le &lt;span class=&quot;trxml-229&quot;&gt;plan de formation&lt;/span&gt;, &lt;span class=&quot;trxml-230&quot;&gt;mise en place&lt;/span&gt; de la BDES
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-105&quot;&gt;&lt;span class=&quot;trxml-76&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:580px;left:226px;font-size:11pt;color:#11514a;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-105&quot;&gt;&lt;span class=&quot;trxml-76&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;● 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-105&quot;&gt;&lt;span class=&quot;trxml-76&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:578px;left:237px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#7e7e7e;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-105&quot;&gt;&lt;span class=&quot;trxml-76&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;&lt;span class=&quot;trxml-231&quot;&gt;Gérer les visites médicales&lt;/span&gt; et établir la déclaration des effectifs&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:615px;left:226px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#11514a;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-78&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;&lt;span class=&quot;trxml-54&quot;&gt;Sept. Oct. 2013&lt;/span&gt; - &lt;span class=&quot;trxml-56&quot;&gt;STREGO Touraine (37&lt;/span&gt;) - &lt;span class=&quot;trxml-58&quot;&gt;&lt;span class=&quot;trxml-232&quot;&gt;Gestionnaire&lt;/span&gt; de paie&lt;/span&gt; (stage)&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-78&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-78&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:637px;left:226px;font-size:11pt;color:#11514a;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-78&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;● 
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-78&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:635px;left:237px;font-family:&amp;apos;ABCDEE+Corbel&amp;apos;;font-size:12pt;color:#7e7e7e;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-106&quot;&gt;&lt;span class=&quot;trxml-78&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;&lt;span class=&quot;trxml-233&quot;&gt;Rédiger les contrats de travail&lt;/span&gt;, Etablir les DPAE…
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-106&quot;&gt;&lt;span class=&quot;trxml-78&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:656px;left:226px;font-size:11pt;color:#11514a;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-106&quot;&gt;&lt;span class=&quot;trxml-78&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;● 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-106&quot;&gt;&lt;span class=&quot;trxml-78&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:654px;left:237px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#7e7e7e;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-106&quot;&gt;&lt;span class=&quot;trxml-78&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;Collecter et vérifier les éléments constitutifs de la paie
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-106&quot;&gt;&lt;span class=&quot;trxml-78&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:676px;left:226px;font-size:11pt;color:#11514a;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-106&quot;&gt;&lt;span class=&quot;trxml-78&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;● 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-106&quot;&gt;&lt;span class=&quot;trxml-78&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:674px;left:237px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#7e7e7e;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-106&quot;&gt;&lt;span class=&quot;trxml-78&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;Elaborer les &lt;span class=&quot;trxml-234&quot;&gt;bulletins de paies&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-106&quot;&gt;&lt;span class=&quot;trxml-78&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:695px;left:226px;font-size:11pt;color:#11514a;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-106&quot;&gt;&lt;span class=&quot;trxml-78&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;● 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-106&quot;&gt;&lt;span class=&quot;trxml-78&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:693px;left:237px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#7e7e7e;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-106&quot;&gt;&lt;span class=&quot;trxml-78&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;Créer et mettre à jour les dossiers individuels&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:731px;left:226px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#11514a;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-8&quot;&gt;&lt;span class=&quot;trxml-80&quot;&gt;&lt;span class=&quot;trxml-60&quot;&gt;Janv. / Févr. 2012&lt;/span&gt; - &lt;span class=&quot;trxml-62&quot;&gt;IKEA Tours&lt;/span&gt; - &lt;span class=&quot;trxml-64&quot;&gt;Assistante &lt;span class=&quot;trxml-235&quot;&gt;comptable&lt;/span&gt;&lt;/span&gt; (stage)&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-8&quot;&gt;&lt;span class=&quot;trxml-80&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-8&quot;&gt;&lt;span class=&quot;trxml-80&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:752px;left:226px;font-size:11pt;color:#11514a;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;&lt;span class=&quot;trxml-80&quot;&gt;● 
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-8&quot;&gt;&lt;span class=&quot;trxml-80&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:750px;left:237px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#7e7e7e;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-107&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;&lt;span class=&quot;trxml-80&quot;&gt;&lt;span class=&quot;trxml-236&quot;&gt;Saisir les écritures comptables&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-107&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;&lt;span class=&quot;trxml-80&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:772px;left:226px;font-size:11pt;color:#11514a;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-107&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;&lt;span class=&quot;trxml-80&quot;&gt;● 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-107&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;&lt;span class=&quot;trxml-80&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:770px;left:237px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#7e7e7e;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-107&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;&lt;span class=&quot;trxml-80&quot;&gt;&lt;span class=&quot;trxml-237&quot;&gt;Gérer les factures&lt;/span&gt;, &lt;span class=&quot;trxml-238&quot;&gt;réaliser les devis&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-107&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;&lt;span class=&quot;trxml-80&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:791px;left:226px;font-size:11pt;color:#11514a;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-107&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;&lt;span class=&quot;trxml-80&quot;&gt;● 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-107&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;&lt;span class=&quot;trxml-80&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:789px;left:237px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:12pt;color:#7e7e7e;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-107&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;&lt;span class=&quot;trxml-80&quot;&gt;Effectuer les états de &lt;span class=&quot;trxml-239&quot;&gt;caisses&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+ 
+&lt;div style=&quot;position:absolute;top:150px;left:46px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:14pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-11&quot;&gt;Disponible&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:172px;left:32px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:14pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-11&quot;&gt;dès mars 2018&lt;/span&gt; &lt;/b&gt;&lt;/div&gt;
+ &lt;/div&gt;&lt;/div&gt;
+</DocumentHtml>
+</Profile>
+

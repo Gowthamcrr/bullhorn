@@ -1,0 +1,1796 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Profile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" lang="french" file="0030N000023i5dQQAQ.doc">
+
+<ProfileSummary>
+    <CurrentJob>Attachée commerciale</CurrentJob>
+    <CurrentEmployer>Rhône Alpes -Auvergne</CurrentEmployer>
+    <CurrentEmployerLocation>Rhône</CurrentEmployerLocation>
+    <TotalExperienceYears>20</TotalExperienceYears>
+    <HighestEducationLevel code="1"
+        description="Secondary Education"
+       
+        description.cz="Středoškolské vzdělání"
+        description.de="Schulabschluß"
+        description.dk="Gymnasiel ungdomsuddannelse"
+        description.el="Δευτεροβάθμια εκπαίδευση"
+        description.en="Secondary Education"
+        description.es="Educación secundaria"
+        description.fr="Éducation Secondaire"
+        description.it="Istruzione secondaria"
+        description.nl="Voortgezet Onderwijs"
+        description.pl="Wykształcenie średnie"
+        description.pt="Educação secundária"
+        description.ro="Şcoală secundară"
+       
+        description.se="Gymnasieskola"
+        description.sk="Stredná škola">Secondary Education</HighestEducationLevel>
+    <ESHighestEducationLevel
+       
+       ></ESHighestEducationLevel>
+        <SummaryAmbitionSection>Commerciale
+
+
+
+COMPETENCES COMMERCIALE VENTE B TO B
+
+* Relayer la politique commerciale sur le terrain
+* Etablir un plan de prospection (physique, téléphonique, publipostée,...) à partir d&apos;un fichier ou
+d&apos;un ciblage effectué en amont.
+* Elaborer un catalogue de vente.
+* Présenter les produits et conseiller le client sur leur implantation dans sa surface de vente.
+* Argumenter et répondre aux objections.
+*  Négocier les prix, les quantités et les délais de livraison en proposant éventuellement des
+services annexes (marchandisage,      actions de promotion...)
+* Conclure la vente par l&apos;établissement d&apos;un bon de commande.
+* Assurer le suivi commercial et administratif du secteur (visites d&apos;entretien, courriers, mailing)
+* Gestion des retours et litiges
+* Développer et fidéliser la clientèle.
+* Etablir le rapport d&apos;analyse des activités.
+* Participer aux différentes manifestations auxquelles la société est engagée</SummaryAmbitionSection>
+    <CVTitle>Commerciale</CVTitle>
+
+<ProfilePicture>
+        <Base64Content></Base64Content>
+    <Filename>4.jpg</Filename>
+    <ContentType>image/jpeg</ContentType>
+</ProfilePicture>
+<ExternalID></ExternalID>
+</ProfileSummary>
+
+<Personal>
+    <FirstName>Fontenelle</FirstName>
+    <MiddleName>/</MiddleName>
+    <LastName>Valérie</LastName>
+    <LastNamePrefix></LastNamePrefix>
+    <LastNameWithoutPrefix>Valérie</LastNameWithoutPrefix>
+    <FullName>Mme FONTENELLE / RUNG Valérie</FullName>
+    <Initials>F./.R.</Initials>
+    <Nationality code="FR"
+        description.cn="法国"
+       
+        description.de="Französisch"
+       
+        description.el="Γαλλική"
+        description.en="French"
+        description.es="Francesa"
+        description.fr="Française"
+       
+        description.nl="Frans"
+       
+       
+       
+        description.ru="Франция"
+       
+       >French</Nationality>
+    <Gender code="0"
+        description="Not known"
+       
+       
+        description.de="Nicht bekannt"
+        description.dk="Ikke kendt"
+        description.el="Άγνωστο"
+        description.en="Not known"
+        description.es="No conocido"
+        description.fr="Ignore"
+        description.it="Non nota"
+        description.nl="Onbekend"
+       
+       
+       
+       
+       
+       >Not known</Gender>
+    <MaritalStatus code="5"
+    description="Divorced"
+    description.cn="离异"
+    description.cz="Rozvedený"
+    description.de="Geschieden"
+    description.dk="Fraskilt"
+    description.el="Διαζευγμένος/η"
+    description.en="Divorced"
+    description.es="Divorciada"
+    description.fr="Divorcé"
+    description.it="Divorziato"
+    description.nl="Gescheiden"
+    description.pl="Rozwiedziona"
+    description.pt="Divorciado"
+    description.ro="Divorţat(ă)"
+   
+    description.se="Frånskild"
+    description.sk="Rozvedená">Divorced</MaritalStatus>
+    <DateOfBirth>1973-08-21</DateOfBirth>
+        <DriversLicense>B</DriversLicense>
+        <DriversLicenseEUNorm code="5">B</DriversLicenseEUNorm>
+
+<Address>
+        <StreetName>Chemin Le Pré de la Cour</StreetName>
+        <StreetNumberBase>295 D</StreetNumberBase>
+        <ZipCode>26230</ZipCode>
+        <City>CHAMARET</City>
+        <Region code="FR-26"
+       
+       
+        description.de="FR Département Drôme"
+       
+       
+        description.en="FR Drôme"
+       
+        description.fr="FR Drôme"
+       
+        description.nl="FR Drôme"
+       
+       
+       
+       
+       
+       >FR Drôme</Region>
+        <Country code="FR"
+       
+        description.cz="Francie"
+        description.de="Frankreich"
+        description.dk="Frankrig"
+       
+        description.en="France"
+        description.es="Francia"
+        description.fr="France"
+        description.it="Francia"
+        description.nl="Frankrijk"
+        description.pl="Francja"
+        description.pt="França"
+        description.ro="Franța"
+       
+        description.se="Frankrike"
+        description.sk="Francúzsko">France</Country>
+</Address>
+<HomePhones>
+        <HomePhone>+33475534876</HomePhone>
+</HomePhones>
+<MobilePhones>
+        <MobilePhone>+33660802495</MobilePhone>
+</MobilePhones>
+<Emails>
+        <Email>fontenelle.valerie@orange.fr</Email>
+</Emails>
+<ExtraInfo>
+        <TrxmlID>134210775</TrxmlID>
+    <ExternalID></ExternalID>
+    <Source></Source>
+    <ExtraInfo1></ExtraInfo1>
+    <ExtraInfo2></ExtraInfo2>
+    <ExtraInfo3></ExtraInfo3>
+    
+</ExtraInfo>
+</Personal>
+
+<EducationHistory>
+    <EducationItem>
+        <EducationLevel code="7"
+            description="Course"
+           
+            description.cz="Kurz"
+            description.de="Kurs"
+            description.dk="Kursus"
+            description.el="Μάθημα"
+            description.en="Course"
+            description.es="Curso"
+            description.fr="Cours"
+            description.it="Corso"
+            description.nl="Cursus"
+            description.pl="Kurs"
+            description.pt="Curso"
+            description.ro="Curs"
+           
+            description.se="Kurs"
+            description.sk="Kurz">Course</EducationLevel>
+        <InstituteName></InstituteName>
+        <InstituteLocation></InstituteLocation>
+        <Major>SST Sauveteur Secouriste du Travail</Major>
+        <GPA></GPA>
+        <StartDate></StartDate>
+        <EndDate>2011-06-30</EndDate>
+        <ESEducationLevel
+           
+           ></ESEducationLevel>
+
+    </EducationItem>
+    <EducationItem>
+        <EducationLevel code="7"
+            description="Course"
+           
+            description.cz="Kurz"
+            description.de="Kurs"
+            description.dk="Kursus"
+            description.el="Μάθημα"
+            description.en="Course"
+            description.es="Curso"
+            description.fr="Cours"
+            description.it="Corso"
+            description.nl="Cursus"
+            description.pl="Kurs"
+            description.pt="Curso"
+            description.ro="Curs"
+           
+            description.se="Kurs"
+            description.sk="Kurz">Course</EducationLevel>
+        <InstituteName></InstituteName>
+        <InstituteLocation></InstituteLocation>
+        <Major>Formation Chef de Rayon Niveau III E.LECLERC</Major>
+        <GPA></GPA>
+        <StartDate></StartDate>
+        <EndDate>1999-06-30</EndDate>
+        <ESEducationLevel
+           
+           ></ESEducationLevel>
+
+    </EducationItem>
+    <EducationItem>
+        <EducationLevel code="1"
+            description="Secondary Education"
+           
+            description.cz="Středoškolské vzdělání"
+            description.de="Schulabschluß"
+            description.dk="Gymnasiel ungdomsuddannelse"
+            description.el="Δευτεροβάθμια εκπαίδευση"
+            description.en="Secondary Education"
+            description.es="Educación secundaria"
+            description.fr="Éducation Secondaire"
+            description.it="Istruzione secondaria"
+            description.nl="Voortgezet Onderwijs"
+            description.pl="Wykształcenie średnie"
+            description.pt="Educação secundária"
+            description.ro="Şcoală secundară"
+           
+            description.se="Gymnasieskola"
+            description.sk="Stredná škola">Secondary Education</EducationLevel>
+        <InstituteName></InstituteName>
+        <InstituteLocation></InstituteLocation>
+        <Major>BACCALAUREAT PROFESSIONNEL Hôtellerie (cuisine-salle)</Major>
+        <GPA></GPA>
+        <StartDate></StartDate>
+        <EndDate>1992-06-30</EndDate>
+        <ESEducationLevel
+           
+           ></ESEducationLevel>
+
+    </EducationItem>
+    <EducationItem>
+        <EducationLevel code="2"
+            description="Vocational Education"
+           
+            description.cz="Odborného vzdělávání"
+            description.de="Berufsausbildung"
+            description.dk="Erhvervsuddannelser"
+            description.el="Επαγγελματική/Τεχνική εκπαίδευση"
+            description.en="Vocational Education"
+            description.es="Formación profesional"
+            description.fr="Éducation Professionnelle"
+            description.it="Formazione professionale"
+            description.nl="Beroepsonderwijs"
+            description.pl="Kształcenie zawodowe"
+            description.pt="Educação profissional"
+            description.ro="Şcoală profesională"
+           
+            description.se="Yrkesskola"
+            description.sk="Odborná škola">Vocational Education</EducationLevel>
+        <InstituteName></InstituteName>
+        <InstituteLocation></InstituteLocation>
+        <Major>B.E.P. &amp; C.A.P. Hôtellerie (cuisine-salle)</Major>
+        <GPA></GPA>
+        <StartDate></StartDate>
+        <EndDate>1990-06-30</EndDate>
+        <ESEducationLevel
+           
+           ></ESEducationLevel>
+
+    </EducationItem>
+    <EducationItem>
+        <EducationLevel code="7"
+            description="Course"
+           
+            description.cz="Kurz"
+            description.de="Kurs"
+            description.dk="Kursus"
+            description.el="Μάθημα"
+            description.en="Course"
+            description.es="Curso"
+            description.fr="Cours"
+            description.it="Corso"
+            description.nl="Cursus"
+            description.pl="Kurs"
+            description.pt="Curso"
+            description.ro="Curs"
+           
+            description.se="Kurs"
+            description.sk="Kurz">Course</EducationLevel>
+        <InstituteName>E.LECLERC</InstituteName>
+        <InstituteLocation></InstituteLocation>
+        <Major>Stage de négociations</Major>
+        <GPA></GPA>
+        <StartDate></StartDate>
+        <EndDate>2001-06-30</EndDate>
+        <ESEducationLevel
+           
+           ></ESEducationLevel>
+
+    </EducationItem>
+    <EducationItem>
+        <EducationLevel code="7"
+            description="Course"
+           
+            description.cz="Kurz"
+            description.de="Kurs"
+            description.dk="Kursus"
+            description.el="Μάθημα"
+            description.en="Course"
+            description.es="Curso"
+            description.fr="Cours"
+            description.it="Corso"
+            description.nl="Cursus"
+            description.pl="Kurs"
+            description.pt="Curso"
+            description.ro="Curs"
+           
+            description.se="Kurs"
+            description.sk="Kurz">Course</EducationLevel>
+        <InstituteName>E.LECLERC</InstituteName>
+        <InstituteLocation></InstituteLocation>
+        <Major>Stage de management</Major>
+        <GPA></GPA>
+        <StartDate></StartDate>
+        <EndDate>2000-06-30</EndDate>
+        <ESEducationLevel
+           
+           ></ESEducationLevel>
+
+    </EducationItem>
+    <EducationItem>
+        <EducationLevel code="7"
+            description="Course"
+           
+            description.cz="Kurz"
+            description.de="Kurs"
+            description.dk="Kursus"
+            description.el="Μάθημα"
+            description.en="Course"
+            description.es="Curso"
+            description.fr="Cours"
+            description.it="Corso"
+            description.nl="Cursus"
+            description.pl="Kurs"
+            description.pt="Curso"
+            description.ro="Curs"
+           
+            description.se="Kurs"
+            description.sk="Kurz">Course</EducationLevel>
+        <InstituteName>E.LECLERC</InstituteName>
+        <InstituteLocation></InstituteLocation>
+        <Major>Stage de perfectionnement cariste interne</Major>
+        <GPA></GPA>
+        <StartDate></StartDate>
+        <EndDate>1999-06-30</EndDate>
+        <ESEducationLevel
+           
+           ></ESEducationLevel>
+
+    </EducationItem>
+    <EducationItem>
+        <EducationLevel code="7"
+            description="Course"
+           
+            description.cz="Kurz"
+            description.de="Kurs"
+            description.dk="Kursus"
+            description.el="Μάθημα"
+            description.en="Course"
+            description.es="Curso"
+            description.fr="Cours"
+            description.it="Corso"
+            description.nl="Cursus"
+            description.pl="Kurs"
+            description.pt="Curso"
+            description.ro="Curs"
+           
+            description.se="Kurs"
+            description.sk="Kurz">Course</EducationLevel>
+        <InstituteName>E.LECLERC; III</InstituteName>
+        <InstituteLocation></InstituteLocation>
+        <Major>Formation à l&apos;école de chef de rayon</Major>
+        <GPA></GPA>
+        <StartDate>1998-09-01</StartDate>
+        <EndDate>1999-06-30</EndDate>
+        <ESEducationLevel
+           
+           ></ESEducationLevel>
+
+    </EducationItem>
+    <EducationItem>
+        <EducationLevel code="7"
+            description="Course"
+           
+            description.cz="Kurz"
+            description.de="Kurs"
+            description.dk="Kursus"
+            description.el="Μάθημα"
+            description.en="Course"
+            description.es="Curso"
+            description.fr="Cours"
+            description.it="Corso"
+            description.nl="Cursus"
+            description.pl="Kurs"
+            description.pt="Curso"
+            description.ro="Curs"
+           
+            description.se="Kurs"
+            description.sk="Kurz">Course</EducationLevel>
+        <InstituteName>France, Pologne Allemagne</InstituteName>
+        <InstituteLocation></InstituteLocation>
+        <Major>Divers stages en restauration</Major>
+        <GPA></GPA>
+        <StartDate>1989-09-01</StartDate>
+        <EndDate>1992-06-30</EndDate>
+        <ESEducationLevel
+           
+           ></ESEducationLevel>
+
+    </EducationItem>
+
+</EducationHistory>
+
+<EmploymentHistory>
+    <EmploymentItem>
+        <JobTitle>Attachée commerciale</JobTitle>
+        <ExperienceONET id="11_2022_00">Sales Managers</ExperienceONET>
+        <EmployerName>Rhône Alpes -Auvergne</EmployerName>
+        <EmployerLocation>Rhône</EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>5</YearsExperience>
+        <JobCode code="224"></JobCode>
+        <JobGroup code="205"></JobGroup>
+        <JobClass code="21"></JobClass>
+        <JobDescription>motorisé et accessoires puis mutation en interne pour le même PDG dans sa société d&apos;édition CARTOTHEQUE départements 69 - 42 et 38 ( clients GSA- GSS- Jardinerie- Librairie- Magasin de presse ) -2012-2014 : Suite à une rupture conventionnelle divers expériences effectuées durant cette période afin de rester dans le milieu actif.</JobDescription>
+        <StartDate>2014-01-01</StartDate>
+        <EndDate>2018-12-31</EndDate>
+    </EmploymentItem>
+    <EmploymentItem>
+        <JobTitle>Responsable des ventes GSB Sud-Ouest</JobTitle>
+        <ExperienceONET id="11_2022_00">Sales Managers</ExperienceONET>
+        <EmployerName>Midi Pyrénées</EmployerName>
+        <EmployerLocation></EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>3</YearsExperience>
+        <JobCode code="30"></JobCode>
+        <JobGroup code="209"></JobGroup>
+        <JobClass code="21"></JobClass>
+        <JobDescription></JobDescription>
+        <StartDate>2010-01-01</StartDate>
+        <EndDate>2012-12-31</EndDate>
+    </EmploymentItem>
+    <EmploymentItem>
+        <JobTitle>Voyageur Représentant Placier (VRP)</JobTitle>
+        <ExperienceONET id="11_2022_00">Sales Managers</ExperienceONET>
+        <EmployerName>ARGOS HYGIENE</EmployerName>
+        <EmployerLocation></EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>1</YearsExperience>
+        <JobCode code="227"></JobCode>
+        <JobGroup code="203"></JobGroup>
+        <JobClass code="21"></JobClass>
+        <JobDescription>secteur Drôme provençale pour la société ARGOS HYGIENE.</JobDescription>
+        <StartDate>2010-01-01</StartDate>
+        <EndDate></EndDate>
+    </EmploymentItem>
+    <EmploymentItem>
+        <JobTitle>Vendeuse</JobTitle>
+        <ExperienceONET id="41_9099_00">Sales and Related Workers, All Other</ExperienceONET>
+        <EmployerName>VILLAS TRIDENT Groupe A.S.T</EmployerName>
+        <EmployerLocation></EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>1</YearsExperience>
+        <JobCode code="1437"></JobCode>
+        <JobGroup code="217"></JobGroup>
+        <JobClass code="21"></JobClass>
+        <JobDescription>2009 : Vendeuse en constructions de maisons individuelles : gestion du secteur Drôme provençale pour la société VILLAS TRIDENT Groupe A.S.T.</JobDescription>
+        <StartDate>2009-01-01</StartDate>
+        <EndDate></EndDate>
+    </EmploymentItem>
+    <EmploymentItem>
+        <JobTitle>Commerciale</JobTitle>
+        <ExperienceONET id="41_4012_00">Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products</ExperienceONET>
+        <EmployerName>TREFOULET LOCATION</EmployerName>
+        <EmployerLocation></EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>2</YearsExperience>
+        <JobCode code="3271"></JobCode>
+        <JobGroup code="213"></JobGroup>
+        <JobClass code="21"></JobClass>
+        <JobDescription></JobDescription>
+        <StartDate>2007-01-01</StartDate>
+        <EndDate>2009-01-01</EndDate>
+    </EmploymentItem>
+    <EmploymentItem>
+        <JobTitle>Attachée commerciale GSA-GMS Sud</JobTitle>
+        <ExperienceONET id="11_2022_00">Sales Managers</ExperienceONET>
+        <EmployerName>KOOKAI LINGERIE</EmployerName>
+        <EmployerLocation></EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>1</YearsExperience>
+        <JobCode code="224"></JobCode>
+        <JobGroup code="205"></JobGroup>
+        <JobClass code="21"></JobClass>
+        <JobDescription></JobDescription>
+        <StartDate>2006-01-01</StartDate>
+        <EndDate>2007-01-01</EndDate>
+    </EmploymentItem>
+    <EmploymentItem>
+        <JobTitle>Responsable clientèle</JobTitle>
+        <ExperienceONET id="11_2022_00">Sales Managers</ExperienceONET>
+        <EmployerName>GSA-GSB -GSS Rhône Alpes, Auvergne, PACA</EmployerName>
+        <EmployerLocation>Rhône</EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>1</YearsExperience>
+        <JobCode code="4319"></JobCode>
+        <JobGroup code="9"></JobGroup>
+        <JobClass code="1"></JobClass>
+        <JobDescription>produits d&apos;électricité, TNT, paraboles ) grand public dans le secteur bazar</JobDescription>
+        <StartDate>2005-01-01</StartDate>
+        <EndDate>2006-01-01</EndDate>
+    </EmploymentItem>
+    <EmploymentItem>
+        <JobTitle>Responsable commerciale GSA</JobTitle>
+        <ExperienceONET id="11_2022_00">Sales Managers</ExperienceONET>
+        <EmployerName>DUROL INDUSTRIES</EmployerName>
+        <EmployerLocation></EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>3</YearsExperience>
+        <JobCode code="30"></JobCode>
+        <JobGroup code="209"></JobGroup>
+        <JobClass code="21"></JobClass>
+        <JobDescription>coutellerie) Grand public dans le secteur bazar</JobDescription>
+        <StartDate>2002-01-01</StartDate>
+        <EndDate>2005-01-01</EndDate>
+    </EmploymentItem>
+    <EmploymentItem>
+        <JobTitle>Employée Libre Service + Chef de Rayon ménage</JobTitle>
+        <ExperienceONET id="41_2031_00">Retail Salespersons</ExperienceONET>
+        <EmployerName>E. LECLERC</EmployerName>
+        <EmployerLocation>Betting - Les Saint-Avold (57)</EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>4</YearsExperience>
+        <JobCode code="982"></JobCode>
+        <JobGroup code="217"></JobGroup>
+        <JobClass code="21"></JobClass>
+        <JobDescription>Participation à l&apos;agencement et l&apos;ouverture d&apos;un magasin de 7000m² Négociation fournisseurs implantations rayons Gestion des rayons Art de la table, univers salle de bain, décoration, luminaire, ménage.</JobDescription>
+        <StartDate>1998-01-01</StartDate>
+        <EndDate>2002-01-01</EndDate>
+    </EmploymentItem>
+
+</EmploymentHistory>
+
+<RecentEmploymentHistory>
+    <RecentEmploymentItem>
+        <JobTitle>Attachée commerciale</JobTitle>
+        <ExperienceONET></ExperienceONET>
+        <EmployerName>Rhône Alpes -Auvergne</EmployerName>
+        <EmployerLocation>Rhône</EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>5</YearsExperience>
+        <JobCode code="224"></JobCode>
+        <JobGroup code="205"></JobGroup>
+        <JobClass code="21"></JobClass>
+        <JobDescription>motorisé et accessoires puis mutation en interne pour le même PDG dans sa société d&apos;édition CARTOTHEQUE départements 69 - 42 et 38 ( clients GSA- GSS- Jardinerie- Librairie- Magasin de presse ) -2012-2014 : Suite à une rupture conventionnelle divers expériences effectuées durant cette période afin de rester dans le milieu actif.</JobDescription>
+        <StartDate>2014-01-01</StartDate>
+        <EndDate>2018-12-31</EndDate>
+    </RecentEmploymentItem>
+
+</RecentEmploymentHistory>
+
+<Skills>
+    <LanguageSkills>
+            <LanguageSkill>
+        <LanguageSkill code="EN">English</LanguageSkill>
+        <LanguageProficiency
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           ></LanguageProficiency>
+        <LanguageSkillDuration></LanguageSkillDuration>
+        <LanguageSkillFirstUsed></LanguageSkillFirstUsed>
+        <LanguageSkillLastUsed></LanguageSkillLastUsed>
+    </LanguageSkill>
+    <LanguageSkill>
+        <LanguageSkill code="DE">German</LanguageSkill>
+        <LanguageProficiency
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           ></LanguageProficiency>
+        <LanguageSkillDuration></LanguageSkillDuration>
+        <LanguageSkillFirstUsed></LanguageSkillFirstUsed>
+        <LanguageSkillLastUsed></LanguageSkillLastUsed>
+    </LanguageSkill>
+
+    </LanguageSkills>
+    <ComputerSkills>
+            <ComputerSkill>
+        <ComputerSkill>TRIDENT</ComputerSkill>
+        <ComputerSkillDuration>1</ComputerSkillDuration>
+        <ComputerSkillFirstUsed>2009-01-01</ComputerSkillFirstUsed>
+        <ComputerSkillLastUsed></ComputerSkillLastUsed>
+    </ComputerSkill>
+    <ComputerSkill>
+        <ComputerSkill>EXCEL</ComputerSkill>
+        <ComputerSkillDuration></ComputerSkillDuration>
+        <ComputerSkillFirstUsed></ComputerSkillFirstUsed>
+        <ComputerSkillLastUsed></ComputerSkillLastUsed>
+    </ComputerSkill>
+    <ComputerSkill>
+        <ComputerSkill>WORD</ComputerSkill>
+        <ComputerSkillDuration></ComputerSkillDuration>
+        <ComputerSkillFirstUsed></ComputerSkillFirstUsed>
+        <ComputerSkillLastUsed></ComputerSkillLastUsed>
+    </ComputerSkill>
+    <ComputerSkill>
+        <ComputerSkill>POWER POINT</ComputerSkill>
+        <ComputerSkillDuration></ComputerSkillDuration>
+        <ComputerSkillFirstUsed></ComputerSkillFirstUsed>
+        <ComputerSkillLastUsed></ComputerSkillLastUsed>
+    </ComputerSkill>
+
+    </ComputerSkills>
+    <ProfessionalSkills>
+            <ProfessionalSkill>
+        <ProfessionalSkill></ProfessionalSkill>
+        <ProfessionalSkillDuration></ProfessionalSkillDuration>
+        <ProfessionalSkillFirstUsed></ProfessionalSkillFirstUsed>
+        <ProfessionalSkillLastUsed></ProfessionalSkillLastUsed>
+    </ProfessionalSkill>
+    </ProfessionalSkills>
+    <SoftSkills>
+            <SoftSkill>
+        <SoftSkill></SoftSkill>
+        <SoftSkillDuration></SoftSkillDuration>
+        <SoftSkillFirstUsed></SoftSkillFirstUsed>
+        <SoftSkillLastUsed></SoftSkillLastUsed>
+    </SoftSkill>
+
+    </SoftSkills>
+</Skills>
+
+<SkillsObject>
+    <Skill>
+        <ExtractedSkill>TRIDENT</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>International</MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode>ITSKILLKSMYTA</MasterSkillCode>
+        <SkillType>IT_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears>1</DurationYears>
+        <DurationMonths>12</DurationMonths>
+        <StartDate>2009-01-01</StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>EXCEL</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>International</MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode>ITSKILLKSV6B6</MasterSkillCode>
+        <SkillType>IT_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>WORD</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>International</MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode>ITSKILLKSL3WL</MasterSkillCode>
+        <SkillType>IT_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>POWER POINT</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>International</MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode>ITSKILLKS1TOP</MasterSkillCode>
+        <SkillType>IT_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Anglais</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>International</MasterSetID>
+        <MasterSkillName>English</MasterSkillName>
+        <MasterSkillCode>LANGSKILL37</MasterSkillCode>
+        <SkillType>Language_skill</SkillType>
+        <Level>lu, parlé, écrit</Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Allemand</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>International</MasterSetID>
+        <MasterSkillName>German</MasterSkillName>
+        <MasterSkillCode>LANGSKILL32</MasterSkillCode>
+        <SkillType>Language_skill</SkillType>
+        <Level>lu, parlé, écrit</Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>politique commerciale</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Action et Management Commercial</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1192</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Etablir un plan de prospection</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Prospection commerciale</MasterSkillName>
+        <MasterSkillCode>PROFSKILL70017</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>téléphonique</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Accueil Téléphonique et Gestion de standard</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1455</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>catalogue</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Conception de Brochures</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1308</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>vente</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Vente</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1177</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Présenter les produits</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Tâches de Conditionnement et Emballage</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1507</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>conseiller le client</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Gérer la Relation Clientèle</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1178</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Négocier les prix</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Négociation</MasterSkillName>
+        <MasterSkillCode>PROFSKILL50000</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>services</ExtractedSkill>
+        <Normalized>N</Normalized>
+        <MasterSetID></MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode></MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>actions de promotion</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Marketing</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1182</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Conclure la vente</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Vente</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1177</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>bon de commande</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Préparation et Traitement de Commandes</MasterSkillName>
+        <MasterSkillCode>PROFSKILL2264</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>commercial</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Vente</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1177</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>fidéliser la clientèle</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Gérer la Relation Clientèle</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1178</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Librairie</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Vente Directe</MasterSkillName>
+        <MasterSkillCode>PROFSKILL40711</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>ventes</ExtractedSkill>
+        <Normalized>N</Normalized>
+        <MasterSetID></MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode></MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>produits d&apos;hygiène</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Soins d&apos;Hygiène et de Confort</MasterSkillName>
+        <MasterSkillCode>PROFSKILL90026</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>constructions de maisons individuelles</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Travaux de Maçonnerie</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1496</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>textile</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Travail en Textile</MasterSkillName>
+        <MasterSkillCode>PROFSKILL90283</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>électricité</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Travail Sur Installation Électrique</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1351</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>ménage</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Aide et Entretien à domicile</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1309</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Négociation</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Négociation</MasterSkillName>
+        <MasterSkillCode>PROFSKILL50000</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Gestion des rayons</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Mise en Rayon et Inventaire</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1384</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Art de la table</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Cuisine et Préparation de Repas</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1292</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>salle de bain</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Intervenir en Plomberie et Sanitaire</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1552</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>décoration</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Décoration et architecture d&apos;intérieur</MasterSkillName>
+        <MasterSkillCode>PROFSKILL70012</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Secouriste du Travail</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Effectuer les Gestes de Premiers Secours</MasterSkillName>
+        <MasterSkillCode>PROFSKILL2204</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Hôtellerie</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Travail et service en Hôtellerie</MasterSkillName>
+        <MasterSkillCode>PROFSKILL20135</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>cuisine</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Cuisine et Préparation de Repas</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1292</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>négociations</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Négociation</MasterSkillName>
+        <MasterSkillCode>PROFSKILL50000</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>GMS</ExtractedSkill>
+        <Normalized>N</Normalized>
+        <MasterSetID></MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode></MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>GSA</ExtractedSkill>
+        <Normalized>N</Normalized>
+        <MasterSetID></MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode></MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Jardinerie</ExtractedSkill>
+        <Normalized>N</Normalized>
+        <MasterSetID></MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode></MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>d&apos;électricité</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Travail Sur Installation Électrique</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1351</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>hygiène</ExtractedSkill>
+        <Normalized>N</Normalized>
+        <MasterSetID></MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode></MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>luminaire</ExtractedSkill>
+        <Normalized>N</Normalized>
+        <MasterSetID></MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode></MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>paraboles</ExtractedSkill>
+        <Normalized>N</Normalized>
+        <MasterSetID></MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode></MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+
+</SkillsObject>
+
+<Other>
+    <FullTextKeywords>
+        Art de la tableGMSGSAGestionJardinerieLibrairieNégociationTNTbaind&apos;électricitédécorationhygiènel&apos;agencementluminaireparabolesBACCALAUREAT PROFESSIONNEL Hôtellerie (cuisine-salle)B.E.P. &amp; C.A.P. Hôtellerie (cuisine-salle)
+    </FullTextKeywords>
+</Other>
+
+<UserArea>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+</UserArea>
+
+<DocumentText>
+Mme FONTENELLE / RUNG  Valérie      Née le 21.08.1973 à Créhange (57)
+295 D Chemin Le Pré de la Cour      Divorcée
+26230 CHAMARET      Nationalité Française
+Tél. : 04 75 53 48 76      Permis B
+Port : 06 60 80 24 95      fontenelle.valerie@orange.fr
+
+                              Commerciale
+
+
+
+COMPETENCES COMMERCIALE VENTE B TO B
+
+* Relayer la politique commerciale sur le terrain
+* Etablir un plan de prospection (physique, téléphonique, publipostée,...) à partir d&apos;un fichier ou
+d&apos;un ciblage effectué en amont.
+* Elaborer un catalogue de vente.
+* Présenter les produits et conseiller le client sur leur implantation dans sa surface de vente.
+* Argumenter et répondre aux objections.
+*  Négocier les prix, les quantités et les délais de livraison en proposant éventuellement des
+services annexes (marchandisage,      actions de promotion...)
+* Conclure la vente par l&apos;établissement d&apos;un bon de commande.
+* Assurer le suivi commercial et administratif du secteur (visites d&apos;entretien, courriers, mailing)
+* Gestion des retours et litiges
+* Développer et fidéliser la clientèle.
+* Etablir le rapport d&apos;analyse des activités.
+* Participer aux différentes manifestations auxquelles la société est engagée
+
+
+
+EXPERIENCES PROFESSIONNELLES
+
+-2014-2018 : Attachée commerciale Rhône Alpes -Auvergne : avec la gestion de 14 départements pour la
+société ACSUD SACIM cycle,
+                          motorisé et accessoires puis mutation en interne pour le même PDG dans sa
+société d&apos;édition CARTOTHEQUE départements 69 -
+                          42 et 38 ( clients GSA- GSS- Jardinerie- Librairie- Magasin de presse )
+
+-2012-2014 : Suite à une rupture conventionnelle divers expériences effectuées durant cette période
+afin de rester dans le milieu actif.
+
+-2010-2012 : Responsable des ventes GSB Sud-Ouest : avec la gestion de 5 régions Poitou Charente,
+                        Auvergne, Limousin, Aquitaine, Midi Pyrénées (23 départements) pour la
+société ROCKWOOL
+                        Isolation Laine de Roche
+
+  -2010      : Voyageur Représentant Placier (VRP) en produits d&apos;hygiène et d&apos;entretien : gestion du
+secteur
+                          Drôme provençale pour la société ARGOS HYGIENE.
+
+  -2009      : Vendeuse en constructions de maisons individuelles  : gestion du secteur Drôme
+provençale
+                        pour la société VILLAS TRIDENT Groupe A.S.T.
+
+-2007-2009 : Commerciale en B.T.P avec la gestion de 3 départements (Drôme, Ardèche, Gard) pour la
+                         Société TREFOULET LOCATION (Loueur et revendeur de matériels B.T.P.)
+
+-2006-2007 : Attachée commerciale GSA-GMS Sud- Est avec la gestion de 16 départements pour la
+                       Société KOOKAI LINGERIE (Négociant en sous-vêtements textile)
+-2005-2006 : Responsable clientèle GSA-GSB -GSS Rhône Alpes, Auvergne, PACA avec la
+                        gestion de 13 départements pour la société PANDA TRADE SA (Négociant en
+produits
+                        d&apos;électricité, TNT, paraboles ) grand public dans le secteur bazar
+
+-2002-2005 : Responsable commerciale GSA secteur Est  avec la gestion de 13 départements pour
+                        la société DUROL INDUSTRIES (Négociant en produits ménagers couverts
+coutellerie)
+                        Grand public dans le secteur bazar
+
+
+
+
+-1998-2002 : Employée Libre Service + Chef de Rayon ménage à E. LECLERC à Betting - Les Saint-Avold
+(57)
+                       Participation à l&apos;agencement et l&apos;ouverture d&apos;un magasin de 7000m²
+Négociation fournisseurs implantations rayons
+                       Gestion des rayons Art de la table, univers salle de bain, décoration,
+luminaire, ménage.
+
+
+FORMATIONS
+
+-2011      : SST Sauveteur Secouriste du Travail
+-1999       : Formation Chef de Rayon Niveau III E.LECLERC (mention bien)
+-1992       : BACCALAUREAT PROFESSIONNEL Hôtellerie (cuisine-salle)
+-1990       : B.E.P. &amp; C.A.P. Hôtellerie (cuisine-salle)
+
+STAGES
+
+-2001       : Stage de négociations à E.LECLERC
+-2000       : Stage de management à E.LECLERC
+-1999       : Stage de perfectionnement cariste interne à E.LECLERC
+-1998-1999 : Formation à l&apos;école de chef de rayon à E.LECLERC niveau III (mention bien)
+-1989-1992 : Divers stages en restauration (France, Pologne Allemagne)
+
+LANGUES            :
+
+Anglais/Allemand : lu, parlé, écrit (niveau scolaire)
+
+
+INFORMATIQUE
+
+Connaissances EXCEL, WORD, POWER POINT
+
+LOISIRS
+
+Bricolage, jardinage, Cuisine, décoration
+</DocumentText>
+<DocumentHtml>
+&lt;div&gt;&lt;div style=&quot;position: relative;&quot;&gt;&lt;tk_metadata name=&quot;last_modified&quot; value=&quot;25/02/2018, 17:01&quot;&gt; &lt;/tk_metadata&gt;&lt;tk_metadata name=&quot;author&quot; value=&quot;wally&quot;&gt; &lt;/tk_metadata&gt;&lt;p&gt; &lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;
+ 
+&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;
+ 
+&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;
+&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-14&quot;&gt;&lt;span class=&quot;trxml-382&quot;&gt;Mme FONTENELLE / RUNG&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-14&quot;&gt;&lt;span class=&quot;trxml-382&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;span class=&quot;trxml-14&quot;&gt;&lt;span class=&quot;trxml-382&quot;&gt; Valérie&lt;/span&gt;                                                                                                Née le &lt;span class=&quot;trxml-201&quot;&gt;21.08.1973&lt;/span&gt; à &lt;span class=&quot;trxml-203&quot;&gt;Créhange (57&lt;/span&gt;)                                &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-14&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-14&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-14&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-14&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;span class=&quot;trxml-14&quot;&gt;&lt;span class=&quot;trxml-224&quot;&gt;295 D Chemin Le Pré de la Cour&lt;/span&gt;                                                                                                         &lt;span class=&quot;trxml-205&quot;&gt;Divorcée&lt;/span&gt;                                                                              &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-14&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-14&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-14&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-14&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;span class=&quot;trxml-14&quot;&gt;&lt;span class=&quot;trxml-225&quot;&gt;26230 CHAMARET&lt;/span&gt;                                                                                                                            &lt;span class=&quot;trxml-207&quot;&gt;Nationalité Française&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-14&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-14&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-14&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-14&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;span class=&quot;trxml-14&quot;&gt;Tél. : &lt;span class=&quot;trxml-314&quot;&gt;04 75 53 48 76&lt;/span&gt;                                                                                                                         Permis &lt;span class=&quot;trxml-226&quot;&gt;B&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-14&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-14&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-14&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-14&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;span class=&quot;trxml-14&quot;&gt;Port : &lt;span class=&quot;trxml-315&quot;&gt;06 60 80 24 95&lt;/span&gt;                                                                                                                        &lt;span class=&quot;trxml-448&quot;&gt;fontenelle.valerie@orange.fr&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;
+&lt;span style=&quot;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:8pt;&quot;&gt;
+&lt;span style=&quot;white-space:pre-wrap;&quot;&gt; &lt;/span&gt;
+&lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;
+&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:14pt;&quot;&gt;&lt;b&gt;
+&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;                              &lt;span class=&quot;trxml-15&quot;&gt;Commerciale &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-15&quot;&gt;
+&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;span class=&quot;trxml-15&quot;&gt;
+&lt;/span&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:11pt;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-15&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;img alt=&quot;image&quot; height=&quot;117&quot; src=&quot;4.jpg&quot; width=&quot;81&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt; &lt;/span&gt;&lt;/img&gt;&lt;/span&gt;&lt;span class=&quot;trxml-15&quot;&gt;
+&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;span class=&quot;trxml-15&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt;
+ 
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt;
+ 
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-right:0.02in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;border-width:1pt;border-style:solid;&quot;&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-15&quot;&gt;COMPETENCES COMMERCIALE VENTE B TO B&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;span class=&quot;trxml-15&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt;
+ 
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt;●&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt; Relayer la &lt;span class=&quot;trxml-517&quot;&gt;politique commerciale&lt;/span&gt; sur le terrain&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-15&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt;●&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt; &lt;span class=&quot;trxml-518&quot;&gt;Etablir un plan de prospection&lt;/span&gt; (&lt;span class=&quot;trxml-519&quot;&gt;physique&lt;/span&gt;, &lt;span class=&quot;trxml-520&quot;&gt;téléphonique&lt;/span&gt;, publipostée,...) à partir d&amp;apos;un fichier ou d&amp;apos;un ciblage effectué en amont.&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-15&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt;●&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt; Elaborer un &lt;span class=&quot;trxml-521&quot;&gt;catalogue&lt;/span&gt; de &lt;span class=&quot;trxml-522&quot;&gt;vente&lt;/span&gt;.&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-15&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt;●&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt; &lt;span class=&quot;trxml-523&quot;&gt;Présenter les produits&lt;/span&gt; et &lt;span class=&quot;trxml-524&quot;&gt;conseiller le client&lt;/span&gt; sur leur &lt;span class=&quot;trxml-525&quot;&gt;implantation&lt;/span&gt; dans sa surface de &lt;span class=&quot;trxml-526&quot;&gt;vente&lt;/span&gt;.&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-15&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt;●&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt; Argumenter et répondre aux objections.&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-15&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt;●&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt; &lt;span class=&quot;trxml-527&quot;&gt;Négocier les prix&lt;/span&gt;, les quantités et les délais de livraison en proposant éventuellement des &lt;span class=&quot;trxml-528&quot;&gt;services&lt;/span&gt; annexes (marchandisage,                                 &lt;span class=&quot;trxml-529&quot;&gt;actions de promotion...&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-15&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-15&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt;●&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt; &lt;span class=&quot;trxml-530&quot;&gt;Conclure la vente&lt;/span&gt; par l&amp;apos;établissement d&amp;apos;un &lt;span class=&quot;trxml-531&quot;&gt;bon de commande&lt;/span&gt;.&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-15&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt;●&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt; Assurer le suivi &lt;span class=&quot;trxml-532&quot;&gt;commercial&lt;/span&gt; et administratif du secteur (&lt;span class=&quot;trxml-533&quot;&gt;visites&lt;/span&gt; &lt;span class=&quot;trxml-534&quot;&gt;d&amp;apos;entretien&lt;/span&gt;, courriers, mailing)&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-15&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt;●&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt; &lt;span class=&quot;trxml-535&quot;&gt;Gestion&lt;/span&gt; des retours et litiges&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-15&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt;●&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt; Développer et &lt;span class=&quot;trxml-536&quot;&gt;fidéliser la clientèle&lt;/span&gt;.&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-15&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt;●&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt; Etablir le rapport d’analyse des activités.&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-15&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt;●&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt; Participer aux différentes manifestations auxquelles la société est engagée&lt;/span&gt;&lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;
+ &lt;/p&gt;
+&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;
+&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:11pt;&quot;&gt;&lt;b&gt;
+&lt;span style=&quot;white-space:pre-wrap;&quot;&gt; &lt;/span&gt;
+&lt;/b&gt;&lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;
+&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;
+&lt;span style=&quot;white-space:pre-wrap;&quot;&gt; &lt;/span&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:8pt;&quot;&gt;
+&lt;span style=&quot;white-space:pre-wrap;&quot;&gt; &lt;/span&gt;
+&lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;margin-right:0.02in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;border-width:1pt;border-style:solid;&quot;&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-7&quot;&gt;EXPERIENCES PROFESSIONNELLES	 &lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-7&quot;&gt; &lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-7&quot;&gt; -&lt;span class=&quot;trxml-168&quot;&gt;&lt;span class=&quot;trxml-97&quot;&gt;2014-2018&lt;/span&gt; : &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;color:#0000ff;&quot;&gt;&lt;b&gt;&lt;u&gt;&lt;span class=&quot;trxml-168&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-99&quot;&gt;Attachée commerciale&lt;/span&gt; &lt;span class=&quot;trxml-100&quot;&gt;Rhône Alpes –Auvergne&lt;/span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;color:#000000;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-168&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;: &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-168&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;avec la &lt;span class=&quot;trxml-537&quot;&gt;gestion&lt;/span&gt; de 14 &lt;span class=&quot;trxml-538&quot;&gt;départements&lt;/span&gt; pour la société &lt;span class=&quot;trxml-102&quot;&gt;ACSUD SACIM&lt;/span&gt; cycle,  &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-168&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-168&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-168&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;span class=&quot;trxml-168&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;                          &lt;span class=&quot;trxml-227&quot;&gt;motorisé et accessoires puis mutation en interne pour le même PDG dans sa société d’édition CARTOTHEQUE &lt;span class=&quot;trxml-539&quot;&gt;départements&lt;/span&gt; 69 –     &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-168&quot;&gt;&lt;span class=&quot;trxml-227&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-168&quot;&gt;&lt;span class=&quot;trxml-227&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-168&quot;&gt;&lt;span class=&quot;trxml-227&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-168&quot;&gt;&lt;span class=&quot;trxml-227&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;span class=&quot;trxml-168&quot;&gt;&lt;span class=&quot;trxml-227&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;                          42 et 38 ( &lt;span class=&quot;trxml-540&quot;&gt;clients&lt;/span&gt; GSA- GSS- Jardinerie- &lt;span class=&quot;trxml-541&quot;&gt;Librairie&lt;/span&gt;- &lt;span class=&quot;trxml-542&quot;&gt;Magasin&lt;/span&gt; de presse )&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-168&quot;&gt;&lt;span class=&quot;trxml-227&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-168&quot;&gt;&lt;span class=&quot;trxml-227&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-168&quot;&gt;&lt;span class=&quot;trxml-227&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+ 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-168&quot;&gt;&lt;span class=&quot;trxml-227&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-168&quot;&gt;&lt;span class=&quot;trxml-227&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt; -&lt;span class=&quot;trxml-104&quot;&gt;2012-2014&lt;/span&gt; :&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-168&quot;&gt;&lt;span class=&quot;trxml-227&quot;&gt;  Suite à une rupture conventionnelle divers expériences effectuées durant cette période afin de rester dans le milieu actif&lt;/span&gt;&lt;/span&gt;.&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+ 
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-7&quot;&gt; -&lt;span class=&quot;trxml-170&quot;&gt;&lt;span class=&quot;trxml-106&quot;&gt;2010-2012&lt;/span&gt; : &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;color:#0000ff;&quot;&gt;&lt;b&gt;&lt;u&gt;&lt;span class=&quot;trxml-108&quot;&gt;&lt;span class=&quot;trxml-170&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-543&quot;&gt;Responsable&lt;/span&gt; des &lt;span class=&quot;trxml-544&quot;&gt;ventes&lt;/span&gt; GSB Sud-Ouest&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;color:#000000;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-170&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt; : &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-170&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;avec la &lt;span class=&quot;trxml-545&quot;&gt;gestion&lt;/span&gt; de 5 régions Poitou Charente, &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-170&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-170&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-170&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;span class=&quot;trxml-170&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;                        Auvergne, Limousin, Aquitaine, &lt;span class=&quot;trxml-110&quot;&gt;Midi Pyrénées&lt;/span&gt; (23 &lt;span class=&quot;trxml-546&quot;&gt;départements&lt;/span&gt;) pour la société ROCKWOOL  &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-170&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-170&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-170&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-170&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;span class=&quot;trxml-170&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;                        &lt;span class=&quot;trxml-112&quot;&gt;Isolation Laine de Roche&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+ 
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-left:0.00in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;  -&lt;span class=&quot;trxml-172&quot;&gt;&lt;span class=&quot;trxml-114&quot;&gt;2010&lt;/span&gt;        : &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-172&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;color:#0000ff;&quot;&gt;&lt;b&gt;&lt;u&gt;&lt;span class=&quot;trxml-172&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-116&quot;&gt;Voyageur Représentant Placier (VRP&lt;/span&gt;) en &lt;span class=&quot;trxml-547&quot;&gt;produits&lt;/span&gt; d’hygiène et d’entretien&lt;/span&gt;&lt;/span&gt;&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;color:#000000;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-172&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt; : &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-172&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-549&quot;&gt;gestion du&lt;/span&gt; &lt;span class=&quot;trxml-228&quot;&gt;secteur &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-172&quot;&gt;&lt;span class=&quot;trxml-228&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-left:0.00in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-172&quot;&gt;&lt;span class=&quot;trxml-228&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-172&quot;&gt;&lt;span class=&quot;trxml-228&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;span class=&quot;trxml-172&quot;&gt;&lt;span class=&quot;trxml-228&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;                          Drôme provençale pour la société &lt;span class=&quot;trxml-118&quot;&gt;ARGOS HYGIENE.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-left:1.12in;text-align:justify;margin-top:0.00in;margin-bottom:0.00in;color:#808080;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+ 
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-left:0.00in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;  -&lt;span class=&quot;trxml-174&quot;&gt;&lt;span class=&quot;trxml-229&quot;&gt;&lt;span class=&quot;trxml-120&quot;&gt;2009&lt;/span&gt;        : &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-174&quot;&gt;&lt;span class=&quot;trxml-229&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;color:#0000ff;&quot;&gt;&lt;b&gt;&lt;u&gt;&lt;span class=&quot;trxml-174&quot;&gt;&lt;span class=&quot;trxml-229&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-122&quot;&gt;Vendeuse&lt;/span&gt; en &lt;span class=&quot;trxml-550&quot;&gt;constructions de maisons individuelles&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-174&quot;&gt;&lt;span class=&quot;trxml-229&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;span class=&quot;trxml-174&quot;&gt;&lt;span class=&quot;trxml-229&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt; : &lt;span class=&quot;trxml-551&quot;&gt;gestion du&lt;/span&gt; secteur Drôme provençale          &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-174&quot;&gt;&lt;span class=&quot;trxml-229&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-174&quot;&gt;&lt;span class=&quot;trxml-229&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-174&quot;&gt;&lt;span class=&quot;trxml-229&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-174&quot;&gt;&lt;span class=&quot;trxml-229&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-174&quot;&gt;&lt;span class=&quot;trxml-229&quot;&gt;                        pour la société &lt;span class=&quot;trxml-124&quot;&gt;VILLAS &lt;span class=&quot;trxml-221&quot;&gt;TRIDENT&lt;/span&gt; Groupe A.S.T.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;     &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-right:0.14in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+ 
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-right:0.14in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-7&quot;&gt;-&lt;span class=&quot;trxml-126&quot;&gt;&lt;span class=&quot;trxml-176&quot;&gt;2007-2009&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-176&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;  : &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;color:#0000ff;&quot;&gt;&lt;u&gt;&lt;b&gt;&lt;span class=&quot;trxml-176&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-128&quot;&gt;Commerciale&lt;/span&gt; en B.T.P&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/u&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-176&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt; avec la &lt;span class=&quot;trxml-552&quot;&gt;gestion&lt;/span&gt; de 3 &lt;span class=&quot;trxml-553&quot;&gt;départements&lt;/span&gt; (Drôme, Ardèche, Gard) pour la &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-176&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-right:0.14in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-176&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-176&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-176&quot;&gt;                         Société &lt;span class=&quot;trxml-130&quot;&gt;TREFOULET LOCATION&lt;/span&gt; (Loueur et revendeur de matériels B.T.P.&lt;/span&gt;)   &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;color:#0000ff;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;	 &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-right:0.14in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-7&quot;&gt;-&lt;span class=&quot;trxml-178&quot;&gt;&lt;span class=&quot;trxml-132&quot;&gt;2006-2007&lt;/span&gt; :&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-178&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;color:#0000ff;&quot;&gt;&lt;u&gt;&lt;b&gt;&lt;span class=&quot;trxml-178&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-134&quot;&gt;Attachée commerciale GSA-GMS  Sud&lt;/span&gt;- Est&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/u&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;color:#000000;&quot;&gt;&lt;u&gt;&lt;b&gt;&lt;span class=&quot;trxml-178&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/u&gt;&lt;span class=&quot;trxml-178&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;span class=&quot;trxml-178&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;avec la &lt;span class=&quot;trxml-554&quot;&gt;gestion&lt;/span&gt; de 16 &lt;span class=&quot;trxml-555&quot;&gt;départements&lt;/span&gt; pour la               &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-178&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-178&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-right:0.14in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-178&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-178&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-178&quot;&gt;                       Société &lt;span class=&quot;trxml-136&quot;&gt;KOOKAI LINGERIE&lt;/span&gt; (Négociant en sous-vêtements &lt;span class=&quot;trxml-556&quot;&gt;textile&lt;/span&gt;&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-right:0.14in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;-&lt;span class=&quot;trxml-179&quot;&gt;&lt;span class=&quot;trxml-138&quot;&gt;2005-2006&lt;/span&gt; : &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-179&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;color:#0000ff;&quot;&gt;&lt;b&gt;&lt;u&gt;&lt;span class=&quot;trxml-179&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-140&quot;&gt;&lt;span class=&quot;trxml-557&quot;&gt;Responsable&lt;/span&gt; &lt;span class=&quot;trxml-558&quot;&gt;clientèle&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;trxml-141&quot;&gt;GSA-GSB –GSS Rhône Alpes, Auvergne, PACA&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-179&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt; avec la &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-179&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-right:0.14in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-179&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-179&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;span class=&quot;trxml-179&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;                        &lt;span class=&quot;trxml-559&quot;&gt;gestion&lt;/span&gt; de 13 &lt;span class=&quot;trxml-560&quot;&gt;départements&lt;/span&gt; pour la société &lt;span class=&quot;trxml-143&quot;&gt;PANDA TRADE SA&lt;/span&gt; (Négociant en &lt;span class=&quot;trxml-230&quot;&gt;produits &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-179&quot;&gt;&lt;span class=&quot;trxml-230&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-179&quot;&gt;&lt;span class=&quot;trxml-230&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-right:0.14in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-179&quot;&gt;&lt;span class=&quot;trxml-230&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-179&quot;&gt;&lt;span class=&quot;trxml-230&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-179&quot;&gt;&lt;span class=&quot;trxml-230&quot;&gt;                        d’électricité, TNT, paraboles ) grand public dans le secteur bazar&lt;/span&gt;&lt;/span&gt; &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-right:0.14in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-7&quot;&gt;-&lt;span class=&quot;trxml-181&quot;&gt;&lt;span class=&quot;trxml-145&quot;&gt;2002-2005&lt;/span&gt; :&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-181&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;color:#0000ff;&quot;&gt;&lt;u&gt;&lt;b&gt;&lt;span class=&quot;trxml-181&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-147&quot;&gt;&lt;span class=&quot;trxml-562&quot;&gt;Responsable&lt;/span&gt; commerciale GSA&lt;/span&gt; secteur Est&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/u&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-181&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;span class=&quot;trxml-181&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt; avec la &lt;span class=&quot;trxml-563&quot;&gt;gestion&lt;/span&gt; de 13 &lt;span class=&quot;trxml-564&quot;&gt;départements&lt;/span&gt; pour                                                  &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-181&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-181&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-181&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-181&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;span class=&quot;trxml-181&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;                        la société &lt;span class=&quot;trxml-149&quot;&gt;DUROL INDUSTRIES&lt;/span&gt; (Négociant en produits ménagers couverts &lt;span class=&quot;trxml-231&quot;&gt;coutellerie)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-181&quot;&gt;&lt;span class=&quot;trxml-231&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-181&quot;&gt;&lt;span class=&quot;trxml-231&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-181&quot;&gt;&lt;span class=&quot;trxml-231&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-181&quot;&gt;&lt;span class=&quot;trxml-231&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;span class=&quot;trxml-181&quot;&gt;&lt;span class=&quot;trxml-231&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;                        Grand public dans le secteur bazar&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+ 
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+ 
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+ 
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+ 
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+ 
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+ 
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Arial&amp;apos;;font-size:9pt;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-7&quot;&gt;-&lt;span class=&quot;trxml-183&quot;&gt;&lt;span class=&quot;trxml-151&quot;&gt;1998-2002&lt;/span&gt; : &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;color:#0000ff;&quot;&gt;&lt;b&gt;&lt;u&gt;&lt;span class=&quot;trxml-153&quot;&gt;&lt;span class=&quot;trxml-183&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;Employée Libre &lt;span class=&quot;trxml-565&quot;&gt;Service&lt;/span&gt; + Chef de Rayon &lt;span class=&quot;trxml-566&quot;&gt;ménage&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;color:#000000;&quot;&gt;&lt;span class=&quot;trxml-183&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt; à &lt;span class=&quot;trxml-155&quot;&gt;E. LECLERC à Betting – Les Saint-Avold (57&lt;/span&gt;) &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-183&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-183&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-183&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;span class=&quot;trxml-183&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;                       &lt;span class=&quot;trxml-232&quot;&gt;Participation à l’agencement et l’ouverture d’un &lt;span class=&quot;trxml-567&quot;&gt;magasin&lt;/span&gt; de 7000m² &lt;span class=&quot;trxml-568&quot;&gt;Négociation&lt;/span&gt; fournisseurs &lt;span class=&quot;trxml-569&quot;&gt;implantations&lt;/span&gt; rayons &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-183&quot;&gt;&lt;span class=&quot;trxml-232&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-183&quot;&gt;&lt;span class=&quot;trxml-232&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-183&quot;&gt;&lt;span class=&quot;trxml-232&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-183&quot;&gt;&lt;span class=&quot;trxml-232&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;span class=&quot;trxml-183&quot;&gt;&lt;span class=&quot;trxml-232&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;                       &lt;span class=&quot;trxml-570&quot;&gt;Gestion des rayons&lt;/span&gt; &lt;span class=&quot;trxml-571&quot;&gt;Art de la table&lt;/span&gt;, univers &lt;span class=&quot;trxml-572&quot;&gt;salle de bain&lt;/span&gt;, &lt;span class=&quot;trxml-573&quot;&gt;décoration&lt;/span&gt;, luminaire, &lt;span class=&quot;trxml-574&quot;&gt;ménage&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;.&lt;/span&gt;
+&lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;
+ 
+&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;
+ 
+&lt;/p&gt;&lt;p style=&quot;margin-right:0.02in;text-align:left;margin-top:0.00in;margin-bottom:0.00in;border-width:1pt;border-style:solid;&quot;&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-9&quot;&gt;&lt;span class=&quot;trxml-575&quot;&gt;FORMATIONS&lt;/span&gt; 	 &lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+ 
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;-&lt;span class=&quot;trxml-157&quot;&gt;&lt;span class=&quot;trxml-48&quot;&gt;2011&lt;/span&gt;       : &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-157&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-157&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;SST&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;b&gt;&lt;span class=&quot;trxml-157&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-157&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;&lt;span class=&quot;trxml-157&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;Sauveteur &lt;span class=&quot;trxml-576&quot;&gt;Secouriste du Travail&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;                                                                                          &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-9&quot;&gt;-&lt;span class=&quot;trxml-158&quot;&gt;&lt;span class=&quot;trxml-52&quot;&gt;1999&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-158&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;&lt;span class=&quot;trxml-158&quot;&gt;           : &lt;span class=&quot;trxml-54&quot;&gt;&lt;span class=&quot;trxml-577&quot;&gt;Formation&lt;/span&gt; Chef de Rayon Niveau III E.LECLERC&lt;/span&gt; (&lt;span class=&quot;trxml-45&quot;&gt;mention bien&lt;/span&gt;&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-9&quot;&gt;-&lt;span class=&quot;trxml-159&quot;&gt;&lt;span class=&quot;trxml-56&quot;&gt;1992&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-159&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;&lt;span class=&quot;trxml-159&quot;&gt;           : &lt;span class=&quot;trxml-58&quot;&gt;BACCALAUREAT PROFESSIONNEL &lt;span class=&quot;trxml-578&quot;&gt;Hôtellerie&lt;/span&gt; (&lt;span class=&quot;trxml-579&quot;&gt;cuisine-salle&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-9&quot;&gt;-&lt;span class=&quot;trxml-160&quot;&gt;&lt;span class=&quot;trxml-60&quot;&gt;1990&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-160&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;&lt;span class=&quot;trxml-160&quot;&gt;           : &lt;span class=&quot;trxml-62&quot;&gt;B.E.P. &amp;amp; C.A.P. &lt;span class=&quot;trxml-580&quot;&gt;Hôtellerie&lt;/span&gt; (&lt;span class=&quot;trxml-581&quot;&gt;cuisine-salle&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+ 
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;border-width:1pt;border-style:solid;&quot;&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-9&quot;&gt;STAGES&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+ 
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-9&quot;&gt;-&lt;span class=&quot;trxml-162&quot;&gt;&lt;span class=&quot;trxml-64&quot;&gt;2001&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-162&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;span class=&quot;trxml-162&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;           : &lt;span class=&quot;trxml-66&quot;&gt;Stage de &lt;span class=&quot;trxml-582&quot;&gt;négociations&lt;/span&gt;&lt;/span&gt; à &lt;span class=&quot;trxml-68&quot;&gt;E.LECLERC&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-9&quot;&gt;-&lt;span class=&quot;trxml-163&quot;&gt;&lt;span class=&quot;trxml-70&quot;&gt;2000&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-163&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;span class=&quot;trxml-163&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;           : &lt;span class=&quot;trxml-72&quot;&gt;Stage de &lt;span class=&quot;trxml-583&quot;&gt;management&lt;/span&gt;&lt;/span&gt; à &lt;span class=&quot;trxml-74&quot;&gt;E.LECLERC&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-9&quot;&gt;-&lt;span class=&quot;trxml-164&quot;&gt;&lt;span class=&quot;trxml-76&quot;&gt;1999&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-164&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;span class=&quot;trxml-164&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;           : &lt;span class=&quot;trxml-78&quot;&gt;Stage de perfectionnement cariste interne&lt;/span&gt; à &lt;span class=&quot;trxml-80&quot;&gt;E.LECLERC&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-9&quot;&gt;-&lt;span class=&quot;trxml-165&quot;&gt;&lt;span class=&quot;trxml-82&quot;&gt;1998-1999&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-9&quot;&gt;&lt;span class=&quot;trxml-165&quot;&gt; : &lt;span class=&quot;trxml-84&quot;&gt;&lt;span class=&quot;trxml-584&quot;&gt;Formation&lt;/span&gt; à l’école de chef de rayon&lt;/span&gt; à &lt;span class=&quot;trxml-86&quot;&gt;E.LECLERC&lt;/span&gt; niveau &lt;span class=&quot;trxml-88&quot;&gt;III&lt;/span&gt; (&lt;span class=&quot;trxml-46&quot;&gt;mention bien&lt;/span&gt;&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-9&quot;&gt;-&lt;span class=&quot;trxml-166&quot;&gt;&lt;span class=&quot;trxml-90&quot;&gt;1989-1992&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-166&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt; : &lt;span class=&quot;trxml-92&quot;&gt;Divers stages en restauration&lt;/span&gt; (&lt;span class=&quot;trxml-94&quot;&gt;France, Pologne Allemagne&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;)&lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;
+ 
+&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;border-width:1pt;border-style:solid;&quot;&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-11&quot;&gt;LANGUES	 
+&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;       : &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+ 
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;&lt;span class=&quot;trxml-184&quot;&gt;Anglais&lt;/span&gt;&lt;/span&gt;&lt;b&gt;&lt;span class=&quot;trxml-11&quot;&gt;/&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-11&quot;&gt;&lt;span class=&quot;trxml-185&quot;&gt;Allemand&lt;/span&gt;&lt;/span&gt;&lt;b&gt;&lt;span class=&quot;trxml-11&quot;&gt; &lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-11&quot;&gt;: &lt;span class=&quot;trxml-186&quot;&gt;lu, parlé, écrit&lt;/span&gt; (niveau scolaire)&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+ 
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+ 
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;border-width:1pt;border-style:solid;&quot;&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-11&quot;&gt;INFORMATIQUE&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+ 
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;Connaissances  &lt;span class=&quot;trxml-195&quot;&gt;EXCEL&lt;/span&gt;, &lt;span class=&quot;trxml-196&quot;&gt;WORD&lt;/span&gt;, &lt;span class=&quot;trxml-197&quot;&gt;POWER POINT&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;
+ 
+&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;border-width:1pt;border-style:solid;&quot;&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-13&quot;&gt;LOISIRS &lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-13&quot;&gt;      &lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-top:0.00in;margin-bottom:0.00in;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;span style=&quot;font-family:&amp;apos;Comic Sans MS&amp;apos;;font-size:8pt;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;&lt;span class=&quot;trxml-214&quot;&gt;Bricolage&lt;/span&gt;, &lt;span class=&quot;trxml-215&quot;&gt;jardinage&lt;/span&gt;, &lt;span class=&quot;trxml-216&quot;&gt;Cuisine&lt;/span&gt;, &lt;span class=&quot;trxml-217&quot;&gt;décoration&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;
+</DocumentHtml>
+</Profile>
+

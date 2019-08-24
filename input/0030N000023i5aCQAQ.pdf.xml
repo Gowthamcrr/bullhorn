@@ -1,0 +1,1545 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Profile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" lang="french" file="0030N000023i5aCQAQ.pdf">
+
+<ProfileSummary>
+    <CurrentJob>CHEF DE PROJET QUALITE</CurrentJob>
+    <CurrentEmployer>I&apos;CAR SYSTEMS</CurrentEmployer>
+    <CurrentEmployerLocation></CurrentEmployerLocation>
+    <TotalExperienceYears>25</TotalExperienceYears>
+    <HighestEducationLevel code="3"
+        description="University"
+       
+        description.cz="Univerzita"
+        description.de="Universität"
+        description.dk="Universitet"
+        description.el="Πανεπιστήμιο"
+        description.en="University"
+        description.es="Universidad"
+        description.fr="Université"
+        description.it="Università"
+        description.nl="Universiteit"
+        description.pl="Uniwersytet"
+        description.pt="Universidade"
+        description.ro="Universitate"
+       
+        description.se="Universitet"
+        description.sk="Univerzita">University</HighestEducationLevel>
+    <ESHighestEducationLevel
+       
+       ></ESHighestEducationLevel>
+        <SummaryAmbitionSection>COMPETENCES
+
+Gestion de projet
+  * Gestion de projets à l&apos;international
+  * Mise en place et suivi de tableaux de bord
+  * Méthode Agile, SCRUM, MS Project
+  * Management équipe, planning et besoin en formation
+
+Qualité
+  * Assurance qualité en terme de non-régression sur les
+    évolutions logicielles
+  * Gestion des campagnes et des équipes de tests :
+    élaboration, mise en place, suivi et reporting
+  * Gestion des pilotages clients
+
+Formation
+    *   Formation et accompagnement des utilisateurs
+    *   Transfert de compétences techniques au back-office
+    *   Création des supports de cours
+    *   Assistances constructeurs et clients.
+
+Analyste
+  * Analyse besoin, rédaction analyses fonctionnelles,
+    techniques et documentations, modélisation
+  * Cobol, AGLX, SQL
+  * UML
+  * DMS, Gestion commerciale, CRM
+  * Excel, PowerPoint</SummaryAmbitionSection>
+    <CVTitle></CVTitle>
+
+<ProfilePicture>
+        <Base64Content></Base64Content>
+    <Filename></Filename>
+    <ContentType></ContentType>
+</ProfilePicture>
+<ExternalID></ExternalID>
+</ProfileSummary>
+
+<Personal>
+    <FirstName>Marie-Hélène</FirstName>
+    <MiddleName></MiddleName>
+    <LastName>Parisato</LastName>
+    <LastNamePrefix></LastNamePrefix>
+    <LastNameWithoutPrefix>Parisato</LastNameWithoutPrefix>
+    <FullName>Marie-Hélène PARISATO</FullName>
+    <Initials>M.</Initials>
+    <Nationality
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       ></Nationality>
+    <Gender code="2"
+        description="Female"
+       
+       
+        description.de="Frau"
+        description.dk="Kvinde"
+        description.el="Θήλυ"
+        description.en="Female"
+        description.es="Mujer"
+        description.fr="Femme"
+        description.it="Donna"
+        description.nl="Vrouw"
+       
+       
+       
+       
+       
+       >Female</Gender>
+    <MaritalStatus
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   ></MaritalStatus>
+    <DateOfBirth></DateOfBirth>
+        <DriversLicense></DriversLicense>
+        <DriversLicenseEUNorm></DriversLicenseEUNorm>
+
+<Address>
+        <StreetName>avenue Louis Proust</StreetName>
+        <StreetNumberBase>20</StreetNumberBase>
+        <ZipCode>37360</ZipCode>
+        <City>NEUILLE PONT PIERRE</City>
+        <Region code="FR-37"
+       
+       
+        description.de="FR Département Indre-et-Loire"
+       
+       
+        description.en="FR Indre-et-Loire"
+       
+        description.fr="FR Indre-et-Loire"
+       
+        description.nl="FR Indre-et-Loire"
+       
+       
+       
+       
+       
+       >FR Indre-et-Loire</Region>
+        <Country code="FR"
+       
+        description.cz="Francie"
+        description.de="Frankreich"
+        description.dk="Frankrig"
+       
+        description.en="France"
+        description.es="Francia"
+        description.fr="France"
+        description.it="Francia"
+        description.nl="Frankrijk"
+        description.pl="Francja"
+        description.pt="França"
+        description.ro="Franța"
+       
+        description.se="Frankrike"
+        description.sk="Francúzsko">France</Country>
+</Address>
+<HomePhones>
+        <HomePhone></HomePhone>
+</HomePhones>
+<MobilePhones>
+        <MobilePhone>+33611685286</MobilePhone>
+</MobilePhones>
+<Emails>
+        <Email>mhparisat@ymail.com</Email>
+</Emails>
+<ExtraInfo>
+        <TrxmlID>134212020</TrxmlID>
+    <ExternalID></ExternalID>
+    <Source></Source>
+    <ExtraInfo1></ExtraInfo1>
+    <ExtraInfo2></ExtraInfo2>
+    <ExtraInfo3></ExtraInfo3>
+    
+</ExtraInfo>
+</Personal>
+
+<EducationHistory>
+    <EducationItem>
+        <EducationLevel code="7"
+            description="Course"
+           
+            description.cz="Kurz"
+            description.de="Kurs"
+            description.dk="Kursus"
+            description.el="Μάθημα"
+            description.en="Course"
+            description.es="Curso"
+            description.fr="Cours"
+            description.it="Corso"
+            description.nl="Cursus"
+            description.pl="Kurs"
+            description.pt="Curso"
+            description.ro="Curs"
+           
+            description.se="Kurs"
+            description.sk="Kurz">Course</EducationLevel>
+        <InstituteName></InstituteName>
+        <InstituteLocation></InstituteLocation>
+        <Major>Certification ISTQB en test logiciel</Major>
+        <GPA></GPA>
+        <StartDate></StartDate>
+        <EndDate>2016-06-30</EndDate>
+        <ESEducationLevel
+           
+           ></ESEducationLevel>
+
+    </EducationItem>
+    <EducationItem>
+        <EducationLevel code="7"
+            description="Course"
+           
+            description.cz="Kurz"
+            description.de="Kurs"
+            description.dk="Kursus"
+            description.el="Μάθημα"
+            description.en="Course"
+            description.es="Curso"
+            description.fr="Cours"
+            description.it="Corso"
+            description.nl="Cursus"
+            description.pl="Kurs"
+            description.pt="Curso"
+            description.ro="Curs"
+           
+            description.se="Kurs"
+            description.sk="Kurz">Course</EducationLevel>
+        <InstituteName></InstituteName>
+        <InstituteLocation></InstituteLocation>
+        <Major>Certification management APEC</Major>
+        <GPA></GPA>
+        <StartDate></StartDate>
+        <EndDate>2016-06-30</EndDate>
+        <ESEducationLevel
+           
+           ></ESEducationLevel>
+
+    </EducationItem>
+    <EducationItem>
+        <EducationLevel code="3"
+            description="University"
+           
+            description.cz="Univerzita"
+            description.de="Universität"
+            description.dk="Universitet"
+            description.el="Πανεπιστήμιο"
+            description.en="University"
+            description.es="Universidad"
+            description.fr="Université"
+            description.it="Università"
+            description.nl="Universiteit"
+            description.pl="Uniwersytet"
+            description.pt="Universidade"
+            description.ro="Universitate"
+           
+            description.se="Universitet"
+            description.sk="Univerzita">University</EducationLevel>
+        <InstituteName></InstituteName>
+        <InstituteLocation></InstituteLocation>
+        <Major>DUT Informatique</Major>
+        <GPA></GPA>
+        <StartDate></StartDate>
+        <EndDate>1993-06-30</EndDate>
+        <ESEducationLevel
+           
+           ></ESEducationLevel>
+
+    </EducationItem>
+    <EducationItem>
+        <EducationLevel code="3"
+            description="University"
+           
+            description.cz="Univerzita"
+            description.de="Universität"
+            description.dk="Universitet"
+            description.el="Πανεπιστήμιο"
+            description.en="University"
+            description.es="Universidad"
+            description.fr="Université"
+            description.it="Università"
+            description.nl="Universiteit"
+            description.pl="Uniwersytet"
+            description.pt="Universidade"
+            description.ro="Universitate"
+           
+            description.se="Universitet"
+            description.sk="Univerzita">University</EducationLevel>
+        <InstituteName></InstituteName>
+        <InstituteLocation></InstituteLocation>
+        <Major>DUT GRH</Major>
+        <GPA></GPA>
+        <StartDate></StartDate>
+        <EndDate>1992-06-30</EndDate>
+        <ESEducationLevel
+           
+           ></ESEducationLevel>
+
+    </EducationItem>
+
+</EducationHistory>
+
+<EmploymentHistory>
+    <EmploymentItem>
+        <JobTitle></JobTitle>
+        <ExperienceONET></ExperienceONET>
+        <EmployerName>CONSEIL</EmployerName>
+        <EmployerLocation></EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>3</YearsExperience>
+        <JobCode></JobCode>
+        <JobGroup></JobGroup>
+        <JobClass></JobClass>
+        <JobDescription>Entreprise individuelle * Conseil en aménagement gain de place, Réalisation gros et moyens œuvres, Coordination chantier</JobDescription>
+        <StartDate>2016-12-01</StartDate>
+        <EndDate>ce jour</EndDate>
+    </EmploymentItem>
+    <EmploymentItem>
+        <JobTitle>CHEF DE PROJET QUALITE</JobTitle>
+        <ExperienceONET id="19_4099_01">Quality Control Analysts</ExperienceONET>
+        <EmployerName>I&apos;CAR SYSTEMS</EmployerName>
+        <EmployerLocation></EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>8</YearsExperience>
+        <JobCode code="3122"></JobCode>
+        <JobGroup code="41"></JobGroup>
+        <JobClass code="5"></JobClass>
+        <JobDescription>* En charge de la gestion de la cellule qualité</JobDescription>
+        <StartDate>2008-08-01</StartDate>
+        <EndDate>2016-12-01</EndDate>
+    </EmploymentItem>
+    <EmploymentItem>
+        <JobTitle>charge des</JobTitle>
+        <ExperienceONET id="11_9199_00">Managers, All Other</ExperienceONET>
+        <EmployerName>ANALYSTE-PROGRAMMEUSE Union des mutuelles cogérées - Mutuelle</EmployerName>
+        <EmployerLocation></EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>1</YearsExperience>
+        <JobCode code="5021"></JobCode>
+        <JobGroup code="284"></JobGroup>
+        <JobClass code="2"></JobClass>
+        <JobDescription></JobDescription>
+        <StartDate>2006-09-01</StartDate>
+        <EndDate>2007-10-31</EndDate>
+    </EmploymentItem>
+    <EmploymentItem>
+        <JobTitle>RESPONSABLE COMMUNICATION</JobTitle>
+        <ExperienceONET id="27_3099_00">Media and Communication Workers, All Other</ExperienceONET>
+        <EmployerName>CLERENET</EmployerName>
+        <EmployerLocation></EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>1</YearsExperience>
+        <JobCode code="1293"></JobCode>
+        <JobGroup code="208"></JobGroup>
+        <JobClass code="23"></JobClass>
+        <JobDescription>CLERENET - Editeur site internet GuideDuSErADom : mise en relation particuliers et prestataire * En charge de la conception du support de communication et de la relation clientèle.</JobDescription>
+        <StartDate>2005-09-01</StartDate>
+        <EndDate>2006-09-01</EndDate>
+    </EmploymentItem>
+    <EmploymentItem>
+        <JobTitle>Congé parental</JobTitle>
+        <ExperienceONET></ExperienceONET>
+        <EmployerName></EmployerName>
+        <EmployerLocation></EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>3</YearsExperience>
+        <JobCode></JobCode>
+        <JobGroup></JobGroup>
+        <JobClass></JobClass>
+        <JobDescription></JobDescription>
+        <StartDate>2002-09-01</StartDate>
+        <EndDate>2005-09-01</EndDate>
+    </EmploymentItem>
+    <EmploymentItem>
+        <JobTitle>ANALYSTE-PROGRAMMEUSE</JobTitle>
+        <ExperienceONET id="15_1121_00">Computer Systems Analysts</ExperienceONET>
+        <EmployerName>FORMATRICE</EmployerName>
+        <EmployerLocation></EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>2</YearsExperience>
+        <JobCode code="2596"></JobCode>
+        <JobGroup code="86"></JobGroup>
+        <JobClass code="9"></JobClass>
+        <JobDescription>* En charge des cotisations</JobDescription>
+        <StartDate>2001-04-01</StartDate>
+        <EndDate>2002-09-01</EndDate>
+    </EmploymentItem>
+    <EmploymentItem>
+        <JobTitle>CONSULTANTE CHEF DE PROJET DEV et FORMATION</JobTitle>
+        <ExperienceONET id="11_3131_00">Training and Development Managers</ExperienceONET>
+        <EmployerName>DEPOTS GENERAUX</EmployerName>
+        <EmployerLocation></EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>1</YearsExperience>
+        <JobCode code="5"></JobCode>
+        <JobGroup code="281"></JobGroup>
+        <JobClass code="19"></JobClass>
+        <JobDescription>* Gestion commerciale et comptable * Passage an 2000 - Passage Euro * Formations développeur COBOL</JobDescription>
+        <StartDate>1999-07-01</StartDate>
+        <EndDate>2000-11-30</EndDate>
+    </EmploymentItem>
+    <EmploymentItem>
+        <JobTitle>CHEF DE PROJET JUNIOR</JobTitle>
+        <ExperienceONET id="11_9199_00">Managers, All Other</ExperienceONET>
+        <EmployerName>ANALYSTE-PROGRAMMEUSE - COBOL - AS400 - UNISYS</EmployerName>
+        <EmployerLocation></EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>6</YearsExperience>
+        <JobCode code="4759"></JobCode>
+        <JobGroup code="284"></JobGroup>
+        <JobClass code="2"></JobClass>
+        <JobDescription>* Gestion commerciale et comptable</JobDescription>
+        <StartDate>1993-07-01</StartDate>
+        <EndDate>1999-06-30</EndDate>
+    </EmploymentItem>
+
+</EmploymentHistory>
+
+<RecentEmploymentHistory>
+    <RecentEmploymentItem>
+        <JobTitle></JobTitle>
+        <ExperienceONET></ExperienceONET>
+        <EmployerName>CONSEIL</EmployerName>
+        <EmployerLocation></EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>3</YearsExperience>
+        <JobCode></JobCode>
+        <JobGroup></JobGroup>
+        <JobClass></JobClass>
+        <JobDescription>Entreprise individuelle * Conseil en aménagement gain de place, Réalisation gros et moyens œuvres, Coordination chantier</JobDescription>
+        <StartDate>2016-12-01</StartDate>
+        <EndDate>ce jour</EndDate>
+    </RecentEmploymentItem>
+    <RecentEmploymentItem>
+        <JobTitle>CHEF DE PROJET QUALITE</JobTitle>
+        <ExperienceONET></ExperienceONET>
+        <EmployerName>I&apos;CAR SYSTEMS</EmployerName>
+        <EmployerLocation></EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>8</YearsExperience>
+        <JobCode code="3122"></JobCode>
+        <JobGroup code="41"></JobGroup>
+        <JobClass code="5"></JobClass>
+        <JobDescription>* En charge de la gestion de la cellule qualité</JobDescription>
+        <StartDate>2008-08-01</StartDate>
+        <EndDate>2016-12-01</EndDate>
+    </RecentEmploymentItem>
+
+</RecentEmploymentHistory>
+
+<Skills>
+    <LanguageSkills>
+            <LanguageSkill>
+        <LanguageSkill code="EN">English</LanguageSkill>
+        <LanguageProficiency code="4"
+            description.cn="高级"
+           
+            description.de="Oberstufe"
+            description.dk="Avanceret niveau"
+            description.el="Προχωρημένη"
+            description.en="Advanced"
+            description.es="Nivel avanzado"
+            description.fr="Niveau avancé"
+            description.it="Livello avanzato"
+            description.nl="Gevorderd"
+            description.pl="zaawansowany"
+            description.pt="Avançado"
+           
+           
+            description.se="Avancerad nivå"
+           >Advanced</LanguageProficiency>
+        <LanguageSkillDuration></LanguageSkillDuration>
+        <LanguageSkillFirstUsed></LanguageSkillFirstUsed>
+        <LanguageSkillLastUsed></LanguageSkillLastUsed>
+    </LanguageSkill>
+
+    </LanguageSkills>
+    <ComputerSkills>
+            <ComputerSkill>
+        <ComputerSkill>MS Project</ComputerSkill>
+        <ComputerSkillDuration></ComputerSkillDuration>
+        <ComputerSkillFirstUsed></ComputerSkillFirstUsed>
+        <ComputerSkillLastUsed></ComputerSkillLastUsed>
+    </ComputerSkill>
+    <ComputerSkill>
+        <ComputerSkill>Cobol</ComputerSkill>
+        <ComputerSkillDuration>9</ComputerSkillDuration>
+        <ComputerSkillFirstUsed>1993-07-01</ComputerSkillFirstUsed>
+        <ComputerSkillLastUsed>2002-09-01</ComputerSkillLastUsed>
+    </ComputerSkill>
+    <ComputerSkill>
+        <ComputerSkill>AGLX</ComputerSkill>
+        <ComputerSkillDuration></ComputerSkillDuration>
+        <ComputerSkillFirstUsed></ComputerSkillFirstUsed>
+        <ComputerSkillLastUsed></ComputerSkillLastUsed>
+    </ComputerSkill>
+    <ComputerSkill>
+        <ComputerSkill>SQL</ComputerSkill>
+        <ComputerSkillDuration></ComputerSkillDuration>
+        <ComputerSkillFirstUsed></ComputerSkillFirstUsed>
+        <ComputerSkillLastUsed></ComputerSkillLastUsed>
+    </ComputerSkill>
+    <ComputerSkill>
+        <ComputerSkill>UML</ComputerSkill>
+        <ComputerSkillDuration></ComputerSkillDuration>
+        <ComputerSkillFirstUsed></ComputerSkillFirstUsed>
+        <ComputerSkillLastUsed></ComputerSkillLastUsed>
+    </ComputerSkill>
+    <ComputerSkill>
+        <ComputerSkill>DMS</ComputerSkill>
+        <ComputerSkillDuration></ComputerSkillDuration>
+        <ComputerSkillFirstUsed></ComputerSkillFirstUsed>
+        <ComputerSkillLastUsed></ComputerSkillLastUsed>
+    </ComputerSkill>
+    <ComputerSkill>
+        <ComputerSkill>Gestion</ComputerSkill>
+        <ComputerSkillDuration></ComputerSkillDuration>
+        <ComputerSkillFirstUsed></ComputerSkillFirstUsed>
+        <ComputerSkillLastUsed></ComputerSkillLastUsed>
+    </ComputerSkill>
+    <ComputerSkill>
+        <ComputerSkill>Excel</ComputerSkill>
+        <ComputerSkillDuration></ComputerSkillDuration>
+        <ComputerSkillFirstUsed></ComputerSkillFirstUsed>
+        <ComputerSkillLastUsed></ComputerSkillLastUsed>
+    </ComputerSkill>
+    <ComputerSkill>
+        <ComputerSkill>PowerPoint</ComputerSkill>
+        <ComputerSkillDuration></ComputerSkillDuration>
+        <ComputerSkillFirstUsed></ComputerSkillFirstUsed>
+        <ComputerSkillLastUsed></ComputerSkillLastUsed>
+    </ComputerSkill>
+    <ComputerSkill>
+        <ComputerSkill>AS400</ComputerSkill>
+        <ComputerSkillDuration>8</ComputerSkillDuration>
+        <ComputerSkillFirstUsed>1993-07-01</ComputerSkillFirstUsed>
+        <ComputerSkillLastUsed>2002-09-01</ComputerSkillLastUsed>
+    </ComputerSkill>
+    <ComputerSkill>
+        <ComputerSkill>UNISYS</ComputerSkill>
+        <ComputerSkillDuration>6</ComputerSkillDuration>
+        <ComputerSkillFirstUsed>1993-07-01</ComputerSkillFirstUsed>
+        <ComputerSkillLastUsed>1999-06-30</ComputerSkillLastUsed>
+    </ComputerSkill>
+
+    </ComputerSkills>
+    <ProfessionalSkills>
+            <ProfessionalSkill>
+        <ProfessionalSkill></ProfessionalSkill>
+        <ProfessionalSkillDuration></ProfessionalSkillDuration>
+        <ProfessionalSkillFirstUsed></ProfessionalSkillFirstUsed>
+        <ProfessionalSkillLastUsed></ProfessionalSkillLastUsed>
+    </ProfessionalSkill>
+    </ProfessionalSkills>
+    <SoftSkills>
+            <SoftSkill>
+        <SoftSkill></SoftSkill>
+        <SoftSkillDuration></SoftSkillDuration>
+        <SoftSkillFirstUsed></SoftSkillFirstUsed>
+        <SoftSkillLastUsed></SoftSkillLastUsed>
+    </SoftSkill>
+
+    </SoftSkills>
+</Skills>
+
+<SkillsObject>
+    <Skill>
+        <ExtractedSkill>MS Project</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>International</MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode>ITSKILLKS8VF4</MasterSkillCode>
+        <SkillType>IT_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Cobol</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>International</MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode>ITSKILLKSKA22</MasterSkillCode>
+        <SkillType>IT_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears>9</DurationYears>
+        <DurationMonths>107</DurationMonths>
+        <StartDate>1993-07-01</StartDate>
+        <EndDate>2002-09-01</EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>AGLX</ExtractedSkill>
+        <Normalized>N</Normalized>
+        <MasterSetID></MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode></MasterSkillCode>
+        <SkillType>IT_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>SQL</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>International</MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode>ITSKILLKSKX9G</MasterSkillCode>
+        <SkillType>IT_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>UML</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>International</MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode>ITSKILLKS2671</MasterSkillCode>
+        <SkillType>IT_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>DMS</ExtractedSkill>
+        <Normalized>N</Normalized>
+        <MasterSetID></MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode></MasterSkillCode>
+        <SkillType>IT_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Gestion</ExtractedSkill>
+        <Normalized>N</Normalized>
+        <MasterSetID></MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode></MasterSkillCode>
+        <SkillType>IT_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Excel</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>International</MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode>ITSKILLKSV6B6</MasterSkillCode>
+        <SkillType>IT_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>PowerPoint</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>International</MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode>ITSKILLKS1TOP</MasterSkillCode>
+        <SkillType>IT_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>AS400</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>International</MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode>ITSKILLKSN2MC</MasterSkillCode>
+        <SkillType>IT_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears>8</DurationYears>
+        <DurationMonths>90</DurationMonths>
+        <StartDate>1993-07-01</StartDate>
+        <EndDate>2002-09-01</EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>UNISYS</ExtractedSkill>
+        <Normalized>N</Normalized>
+        <MasterSetID></MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode></MasterSkillCode>
+        <SkillType>IT_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears>6</DurationYears>
+        <DurationMonths>72</DurationMonths>
+        <StartDate>1993-07-01</StartDate>
+        <EndDate>1999-06-30</EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Anglais</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>International</MasterSetID>
+        <MasterSkillName>English</MasterSkillName>
+        <MasterSkillCode>LANGSKILL37</MasterSkillCode>
+        <SkillType>Language_skill</SkillType>
+        <Level>confirmé</Level>
+        <NormalizedLevel>4</NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Gestion de projet</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Management et Conduite de Projet</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1263</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Gestion de projets</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Management et Conduite de Projet</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1263</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>suivi de tableaux de bord</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Réalisation de Tableaux de Bord</MasterSkillName>
+        <MasterSkillCode>PROFSKILL20462</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>planning</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Gestion de Planning</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1268</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Assurance</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Gestion et Suivi d&apos;Assurance</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1369</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>équipes</ExtractedSkill>
+        <Normalized>N</Normalized>
+        <MasterSetID></MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode></MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>techniques</ExtractedSkill>
+        <Normalized>N</Normalized>
+        <MasterSetID></MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode></MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Création des supports</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Rédaction de Rapports et de Présentations</MasterSkillName>
+        <MasterSkillCode>PROFSKILL90223</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>documentations</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Documentation Technique</MasterSkillName>
+        <MasterSkillCode>PROFSKILL30029</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>modélisation</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Réalisation de Prototypes</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1363</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Gestion commerciale</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Action et Management Commercial</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1192</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>RENOVATION</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Travaux de rénovation et réhabilitation</MasterSkillName>
+        <MasterSkillCode>PROFSKILL20477</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Coordination</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Coordination</MasterSkillName>
+        <MasterSkillCode>PROFSKILL90113</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>support de communication</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Travail en Communication</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1196</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>relation clientèle</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Gérer la Relation Clientèle</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1178</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>cotisations</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Retraite et Accompagnement Fin de Carrière</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1229</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>comptable</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Comptabilité et gestion de la trésorerie</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1248</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Laboratoire</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Laboratoire R&amp;D</MasterSkillName>
+        <MasterSkillCode>PROFSKILL5502</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>QUALITE</ExtractedSkill>
+        <Normalized>N</Normalized>
+        <MasterSetID></MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode></MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>support</ExtractedSkill>
+        <Normalized>N</Normalized>
+        <MasterSetID></MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode></MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>DUT Informatique</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Vente de Matériel Informatique</MasterSkillName>
+        <MasterSkillCode>PROFSKILL90107</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+
+</SkillsObject>
+
+<Other>
+    <FullTextKeywords>
+        ManagementQUALITEREALISATIONrelation clientèlesupportDUT InformatiqueDUT GRH
+    </FullTextKeywords>
+</Other>
+
+<UserArea>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+</UserArea>
+
+<DocumentText>
+Marie-Hélène PARISATO
+
+20 avenue Louis Proust                                           Chef de Projet Qualité
+37360 NEUILLE PONT PIERRE
+33 (0)6 11 68 52 86
+mhparisat@ymail.com
+
+COMPETENCES
+
+Gestion de projet
+  * Gestion de projets à l&apos;international
+  * Mise en place et suivi de tableaux de bord
+  * Méthode Agile, SCRUM, MS Project
+  * Management équipe, planning et besoin en formation
+
+Qualité
+  * Assurance qualité en terme de non-régression sur les
+    évolutions logicielles
+  * Gestion des campagnes et des équipes de tests :
+    élaboration, mise en place, suivi et reporting
+  * Gestion des pilotages clients
+
+Formation
+    *   Formation et accompagnement des utilisateurs
+    *   Transfert de compétences techniques au back-office
+    *   Création des supports de cours
+    *   Assistances constructeurs et clients.
+
+Analyste
+  * Analyse besoin, rédaction analyses fonctionnelles,
+    techniques et documentations, modélisation
+  * Cobol, AGLX, SQL
+  * UML
+  * DMS, Gestion commerciale, CRM
+  * Excel, PowerPoint
+
+EXPERIENCES PROFESSIONNELLES
+
+Déc. 2016 - A ce jour  CONSEIL ET REALISATION TRAVAUX EN RENOVATION ET DESIGN INTERIEUR
+                       Entreprise individuelle
+                       *    Conseil en aménagement gain de place, Réalisation gros et moyens œuvres, Coordination chantier
+
+Août 2008 - Déc. 2016 CHEF DE PROJET QUALITE
+                       I&apos;CAR SYSTEMS -   Editeur Logiciel gestion de concession (Dealer Management Systems)
+                       *    En charge de la gestion de la cellule qualité
+
+Sept. 2006 - Oct. 2007 ANALYSTE-PROGRAMMEUSE
+                       Union des mutuelles cogérées -  Mutuelle
+                       *    En charge des prestations
+
+Sept. 2005 - Sept. 2006 RESPONSABLE COMMUNICATION
+                       CLERENET -   Editeur site internet GuideDuSErADom : mise en relation particuliers et prestataire
+                       *    En charge de la conception du support de communication et de la relation clientèle.
+
+Sept. 2002 - Sept. 2005 Congé parental
+
+Avril 2001 - Sept. 2002 ANALYSTE-PROGRAMMEUSE FORMATRICE         - COBOL - AGLX - AS400 - UNISYS
+                       Union des mutuelles cogérées -  Mutuelle
+                       *    En charge des cotisations
+
+Juil. 1999 - Nov. 2000 CONSULTANTE CHEF DE PROJET DEV et FORMATION
+                       DEPOTS GENERAUX - Grossistes Produits pharmaceutiques
+                       *    Gestion commerciale et comptable
+                       *    Passage an 2000 - Passage Euro
+                       *    Formations développeur COBOL
+
+Juil. 1993 - Juin. 1999 CHEF DE PROJET JUNIOR   - ANALYSTE-PROGRAMMEUSE - COBOL - AS400 - UNISYS
+                       Laboratoire UPSA - fabricant produits pharmaceutiques
+                       *    Gestion commerciale et comptable
+
+FORMATION -
+
+2016    Certification ISTQB en test logiciel
+2016    Certification management APEC
+1993    DUT Informatique
+1992    DUT GRH
+Anglais confirmé
+</DocumentText>
+<DocumentHtml>
+&lt;div&gt;&lt;div style=&quot;position: relative;&quot;&gt;&lt;tk_metadata name=&quot;last_modified&quot;&gt; &lt;/tk_metadata&gt;&lt;tk_metadata name=&quot;author&quot; value=&quot;Nath&quot;&gt; &lt;/tk_metadata&gt;&lt;p&gt; &lt;/p&gt;
+&lt;div style=&quot;position:absolute;top:22px;left:52px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:12pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-11&quot;&gt;&lt;span class=&quot;trxml-418&quot;&gt;Marie-Hélène PARISATO&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:60px;left:52px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;&lt;span class=&quot;trxml-165&quot;&gt;20 avenue Louis Proust&lt;/span&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:78px;left:52px;font-family:&amp;apos;Calibri&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;&lt;span class=&quot;trxml-166&quot;&gt;37360 NEUILLE PONT PIERRE&lt;/span&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:95px;left:52px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;&lt;span class=&quot;trxml-390&quot;&gt;33 (0)6 11 68 52 86&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:111px;left:52px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:12pt;color:#0000ff;background-color:#ffffff;white-space:nowrap;&quot;&gt;&lt;a href=&quot;mailto:mhparisat@ymail.com&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-11&quot;&gt;&lt;span class=&quot;trxml-447&quot;&gt;mhparisat@ymail.com&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/a&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+
+ 
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:65px;left:475px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:15pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-11&quot;&gt;Chef de Projet Qualité&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:155px;left:45px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:12pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-12&quot;&gt;COMPETENCES&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:187px;left:45px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-12&quot;&gt;&lt;span class=&quot;trxml-500&quot;&gt;Gestion de projet&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:207px;left:60px;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;● 
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:207px;left:73px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;&lt;span class=&quot;trxml-501&quot;&gt;Gestion de projets&lt;/span&gt; à l’international
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:225px;left:60px;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;● 
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:224px;left:73px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;&lt;span class=&quot;trxml-502&quot;&gt;Mise en place&lt;/span&gt; et &lt;span class=&quot;trxml-503&quot;&gt;suivi de tableaux de bord&lt;/span&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:242px;left:60px;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;● 
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:241px;left:73px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;Méthode Agile, SCRUM, &lt;span class=&quot;trxml-143&quot;&gt;MS Project&lt;/span&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:259px;left:60px;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;● 
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:258px;left:73px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;&lt;span class=&quot;trxml-504&quot;&gt;Management&lt;/span&gt; &lt;span class=&quot;trxml-505&quot;&gt;équipe&lt;/span&gt;, &lt;span class=&quot;trxml-506&quot;&gt;planning&lt;/span&gt; et besoin en &lt;span class=&quot;trxml-507&quot;&gt;formation&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:187px;left:406px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-12&quot;&gt;&lt;span class=&quot;trxml-514&quot;&gt;Formation&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:207px;left:430px;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;●   
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:206px;left:454px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;&lt;span class=&quot;trxml-515&quot;&gt;Formation&lt;/span&gt; et &lt;span class=&quot;trxml-516&quot;&gt;accompagnement&lt;/span&gt; des utilisateurs
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:224px;left:430px;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;●   
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:223px;left:454px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;Transfert de compétences &lt;span class=&quot;trxml-517&quot;&gt;techniques&lt;/span&gt; au back-office
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:241px;left:430px;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;●   
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:240px;left:454px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;&lt;span class=&quot;trxml-518&quot;&gt;Création des supports&lt;/span&gt; de cours
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:258px;left:430px;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;●   
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:257px;left:454px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;Assistances constructeurs et &lt;span class=&quot;trxml-519&quot;&gt;clients&lt;/span&gt;.&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:288px;left:45px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-12&quot;&gt;Qualité&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:308px;left:60px;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;● 
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:307px;left:73px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;&lt;span class=&quot;trxml-508&quot;&gt;Assurance&lt;/span&gt; qualité en terme de non-régression sur les
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:323px;left:73px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;évolutions logicielles
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:341px;left:60px;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;● 
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:340px;left:73px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;&lt;span class=&quot;trxml-509&quot;&gt;Gestion&lt;/span&gt; des campagnes et des &lt;span class=&quot;trxml-510&quot;&gt;équipes&lt;/span&gt; de tests :
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:357px;left:73px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;élaboration, &lt;span class=&quot;trxml-511&quot;&gt;mise en place&lt;/span&gt;, suivi et reporting
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:374px;left:60px;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;● 
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:373px;left:73px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;&lt;span class=&quot;trxml-512&quot;&gt;Gestion&lt;/span&gt; des pilotages &lt;span class=&quot;trxml-513&quot;&gt;clients&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:288px;left:406px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-12&quot;&gt;Analyste&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:308px;left:421px;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;● 
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:307px;left:434px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;Analyse besoin, &lt;span class=&quot;trxml-520&quot;&gt;rédaction&lt;/span&gt; analyses fonctionnelles,
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:323px;left:434px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;&lt;span class=&quot;trxml-521&quot;&gt;techniques&lt;/span&gt; et &lt;span class=&quot;trxml-522&quot;&gt;documentations&lt;/span&gt;, &lt;span class=&quot;trxml-523&quot;&gt;modélisation&lt;/span&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:341px;left:421px;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;● 
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:340px;left:434px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;&lt;span class=&quot;trxml-144&quot;&gt;Cobol&lt;/span&gt;, &lt;span class=&quot;trxml-145&quot;&gt;AGLX&lt;/span&gt;, &lt;span class=&quot;trxml-146&quot;&gt;SQL&lt;/span&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:358px;left:421px;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;● 
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:357px;left:434px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;&lt;span class=&quot;trxml-147&quot;&gt;UML&lt;/span&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:375px;left:421px;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;● 
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:374px;left:434px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;&lt;span class=&quot;trxml-148&quot;&gt;DMS&lt;/span&gt;, &lt;span class=&quot;trxml-149&quot;&gt;&lt;span class=&quot;trxml-524&quot;&gt;Gestion&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;trxml-524&quot;&gt; commerciale&lt;/span&gt;, CRM
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:392px;left:421px;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;● 
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:391px;left:434px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;&lt;span class=&quot;trxml-150&quot;&gt;Excel&lt;/span&gt;, &lt;span class=&quot;trxml-151&quot;&gt;PowerPoint&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+
+
+&lt;div style=&quot;position:absolute;top:455px;left:45px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:12pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-7&quot;&gt;EXPERIENCES PROFESSIONNELLES&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:487px;left:45px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-119&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-79&quot;&gt;Déc. 2016 - A ce jour&lt;/span&gt;    
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-119&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:487px;left:187px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-119&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-80&quot;&gt;&lt;span class=&quot;trxml-525&quot;&gt;CONSEIL&lt;/span&gt;&lt;/span&gt; ET &lt;span class=&quot;trxml-526&quot;&gt;REALISATION&lt;/span&gt; TRAVAUX EN &lt;span class=&quot;trxml-527&quot;&gt;RENOVATION&lt;/span&gt; ET DESIGN INTERIEUR&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-119&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-119&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:504px;left:187px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;i&gt;&lt;span class=&quot;trxml-119&quot;&gt;&lt;span class=&quot;trxml-167&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;Entreprise individuelle&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/i&gt;&lt;span class=&quot;trxml-119&quot;&gt;&lt;span class=&quot;trxml-167&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-119&quot;&gt;&lt;span class=&quot;trxml-167&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:522px;left:187px;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-119&quot;&gt;&lt;span class=&quot;trxml-167&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;● 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-119&quot;&gt;&lt;span class=&quot;trxml-167&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:520px;left:211px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-119&quot;&gt;&lt;span class=&quot;trxml-167&quot;&gt;&lt;span class=&quot;trxml-528&quot;&gt;Conseil&lt;/span&gt; en aménagement gain de &lt;span class=&quot;trxml-529&quot;&gt;place&lt;/span&gt;, &lt;span class=&quot;trxml-530&quot;&gt;Réalisation&lt;/span&gt; gros et moyens œuvres, &lt;span class=&quot;trxml-531&quot;&gt;Coordination&lt;/span&gt; &lt;span class=&quot;trxml-532&quot;&gt;chantier&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:547px;left:45px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-121&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-82&quot;&gt;Août 2008 – Déc. 2016&lt;/span&gt;   
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-121&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:547px;left:187px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-121&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;CHEF DE PROJET QUALITE&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-121&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-121&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:563px;left:187px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-121&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-84&quot;&gt;I&amp;apos;CAR SYSTEMS&lt;/span&gt; - &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-121&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-121&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:565px;left:283px;font-family:&amp;apos;Calibri&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;i&gt;&lt;span class=&quot;trxml-121&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;Editeur Logiciel &lt;span class=&quot;trxml-533&quot;&gt;gestion&lt;/span&gt; de concession (Dealer &lt;span class=&quot;trxml-534&quot;&gt;Management&lt;/span&gt; Systems)&lt;/span&gt;&lt;/span&gt;&lt;/i&gt;&lt;span class=&quot;trxml-121&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-121&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:582px;left:187px;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-121&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;● 
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-121&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:580px;left:211px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-121&quot;&gt;&lt;span class=&quot;trxml-168&quot;&gt;En charge de la &lt;span class=&quot;trxml-535&quot;&gt;gestion&lt;/span&gt; de la cellule qualité&lt;/span&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:608px;left:45px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-123&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-86&quot;&gt;Sept. 2006 – Oct. 2007&lt;/span&gt;  
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-123&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:607px;left:187px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-123&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-87&quot;&gt;ANALYSTE-PROGRAMMEUSE&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-123&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-87&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-123&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-87&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:623px;left:187px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-123&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-87&quot;&gt;Union des mutuelles cogérées - &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-123&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-87&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-123&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-87&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:625px;left:366px;font-family:&amp;apos;Calibri&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;i&gt;&lt;span class=&quot;trxml-123&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-87&quot;&gt;Mutuelle&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/i&gt;&lt;span class=&quot;trxml-123&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-123&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:642px;left:187px;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-123&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;● 
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-123&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:640px;left:211px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-123&quot;&gt;En &lt;span class=&quot;trxml-89&quot;&gt;charge des&lt;/span&gt; prestations&lt;/span&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:668px;left:45px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-125&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-91&quot;&gt;Sept. 2005 - Sept. 2006&lt;/span&gt;  
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-125&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:667px;left:187px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-125&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-92&quot;&gt;&lt;span class=&quot;trxml-536&quot;&gt;RESPONSABLE&lt;/span&gt; COMMUNICATION&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-125&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-125&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:684px;left:187px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-125&quot;&gt;&lt;span class=&quot;trxml-169&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-93&quot;&gt;CLERENET&lt;/span&gt; – &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-125&quot;&gt;&lt;span class=&quot;trxml-169&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-125&quot;&gt;&lt;span class=&quot;trxml-169&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:686px;left:255px;font-family:&amp;apos;Calibri&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;i&gt;&lt;span class=&quot;trxml-125&quot;&gt;&lt;span class=&quot;trxml-169&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;Editeur site internet GuideDuSErADom : mise en relation &lt;span class=&quot;trxml-537&quot;&gt;particuliers&lt;/span&gt; et prestataire&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/i&gt;&lt;span class=&quot;trxml-125&quot;&gt;&lt;span class=&quot;trxml-169&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-125&quot;&gt;&lt;span class=&quot;trxml-169&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:702px;left:187px;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-125&quot;&gt;&lt;span class=&quot;trxml-169&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;● 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-125&quot;&gt;&lt;span class=&quot;trxml-169&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:700px;left:213px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-125&quot;&gt;&lt;span class=&quot;trxml-169&quot;&gt;En charge de la &lt;span class=&quot;trxml-538&quot;&gt;conception&lt;/span&gt; du &lt;span class=&quot;trxml-539&quot;&gt;support de communication&lt;/span&gt; et de la &lt;span class=&quot;trxml-540&quot;&gt;relation clientèle&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;.
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:728px;left:45px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-127&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-95&quot;&gt;Sept. 2002 - Sept. 2005&lt;/span&gt;  
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-127&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:728px;left:187px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-127&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-96&quot;&gt;Congé parental&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:759px;left:45px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-97&quot;&gt;Avril 2001 – Sept. 2002&lt;/span&gt;  
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:758px;left:187px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-98&quot;&gt;ANALYSTE-PROGRAMMEUSE&lt;/span&gt; &lt;span class=&quot;trxml-99&quot;&gt;FORMATRICE&lt;/span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:760px;left:426px;font-family:&amp;apos;Calibri&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;i&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;– &lt;span class=&quot;trxml-101&quot;&gt;&lt;span class=&quot;trxml-158&quot;&gt;COBOL&lt;/span&gt; – AGLX - &lt;span class=&quot;trxml-159&quot;&gt;AS400&lt;/span&gt; - UNISYS&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/i&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:775px;left:187px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-102&quot;&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;Union des mutuelles cogérées - &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-102&quot;&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-102&quot;&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:777px;left:366px;font-family:&amp;apos;Calibri&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;i&gt;&lt;span class=&quot;trxml-102&quot;&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;Mutuelle&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/i&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:794px;left:187px;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;● 
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:791px;left:211px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-170&quot;&gt;En charge des &lt;span class=&quot;trxml-541&quot;&gt;cotisations&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:824px;left:45px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-131&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-104&quot;&gt;Juil. 1999 – Nov. 2000&lt;/span&gt;   
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-131&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:824px;left:187px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-105&quot;&gt;&lt;span class=&quot;trxml-131&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;CONSULTANTE CHEF DE PROJET DEV et &lt;span class=&quot;trxml-542&quot;&gt;FORMATION&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-131&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-131&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:840px;left:187px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-131&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-106&quot;&gt;DEPOTS GENERAUX&lt;/span&gt; – &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-131&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-131&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:843px;left:309px;font-family:&amp;apos;Calibri&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;i&gt;&lt;span class=&quot;trxml-131&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;Grossistes Produits pharmaceutiques&lt;/span&gt;&lt;/span&gt;&lt;/i&gt;&lt;span class=&quot;trxml-131&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-131&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:860px;left:187px;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-131&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;● 
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-131&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:858px;left:211px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-131&quot;&gt;&lt;span class=&quot;trxml-171&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-543&quot;&gt;Gestion commerciale&lt;/span&gt; et &lt;span class=&quot;trxml-544&quot;&gt;comptable&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-131&quot;&gt;&lt;span class=&quot;trxml-171&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:877px;left:187px;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-131&quot;&gt;&lt;span class=&quot;trxml-171&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;● 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-131&quot;&gt;&lt;span class=&quot;trxml-171&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:875px;left:211px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-131&quot;&gt;&lt;span class=&quot;trxml-171&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;Passage an 2000 – Passage Euro
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-131&quot;&gt;&lt;span class=&quot;trxml-171&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:893px;left:187px;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-131&quot;&gt;&lt;span class=&quot;trxml-171&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;● 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-131&quot;&gt;&lt;span class=&quot;trxml-171&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:891px;left:211px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-131&quot;&gt;&lt;span class=&quot;trxml-171&quot;&gt;&lt;span class=&quot;trxml-545&quot;&gt;Formations&lt;/span&gt; développeur &lt;span class=&quot;trxml-65&quot;&gt;COBOL&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:918px;left:45px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-133&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-108&quot;&gt;Juil. 1993 – &lt;span class=&quot;trxml-546&quot;&gt;Juin&lt;/span&gt;. 1999&lt;/span&gt;   
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-133&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:918px;left:187px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-133&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-109&quot;&gt;CHEF DE PROJET JUNIOR&lt;/span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-133&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-133&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:920px;left:328px;font-family:&amp;apos;Calibri&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;i&gt;&lt;span class=&quot;trxml-133&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;- &lt;span class=&quot;trxml-111&quot;&gt;ANALYSTE-PROGRAMMEUSE – &lt;span class=&quot;trxml-66&quot;&gt;COBOL&lt;/span&gt; – &lt;span class=&quot;trxml-67&quot;&gt;AS400&lt;/span&gt; - &lt;span class=&quot;trxml-68&quot;&gt;UNISYS&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/i&gt;&lt;span class=&quot;trxml-133&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-133&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:934px;left:187px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-133&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-112&quot;&gt;&lt;span class=&quot;trxml-547&quot;&gt;Laboratoire&lt;/span&gt; UPSA&lt;/span&gt; – &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-133&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-133&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:938px;left:298px;font-family:&amp;apos;Calibri&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;i&gt;&lt;span class=&quot;trxml-133&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;fabricant produits pharmaceutiques&lt;/span&gt;&lt;/span&gt;&lt;/i&gt;&lt;span class=&quot;trxml-133&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-133&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:955px;left:187px;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-133&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;● 
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-133&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:953px;left:211px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-133&quot;&gt;&lt;span class=&quot;trxml-172&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-548&quot;&gt;Gestion commerciale&lt;/span&gt; et &lt;span class=&quot;trxml-549&quot;&gt;comptable&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+
+
+&lt;div style=&quot;position:absolute;top:977px;left:45px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:12pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-9&quot;&gt;&lt;span class=&quot;trxml-550&quot;&gt;FORMATION&lt;/span&gt; -&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1009px;left:45px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-114&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;&lt;span class=&quot;trxml-70&quot;&gt;2016&lt;/span&gt;   
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-114&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1009px;left:95px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-114&quot;&gt;&lt;span class=&quot;trxml-71&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;Certification ISTQB en test logiciel&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1025px;left:45px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-115&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;&lt;span class=&quot;trxml-72&quot;&gt;2016&lt;/span&gt;   
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-115&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1025px;left:95px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;&lt;span class=&quot;trxml-115&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;Certification &lt;span class=&quot;trxml-551&quot;&gt;management&lt;/span&gt; APEC&lt;/span&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1042px;left:45px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-116&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;&lt;span class=&quot;trxml-74&quot;&gt;1993&lt;/span&gt;   
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-116&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1042px;left:95px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-116&quot;&gt;&lt;span class=&quot;trxml-75&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;DUT Informatique&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1058px;left:45px;font-family:&amp;apos;Calibri&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-117&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;&lt;span class=&quot;trxml-76&quot;&gt;1992&lt;/span&gt;   
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-117&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1059px;left:95px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-117&quot;&gt;&lt;span class=&quot;trxml-77&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;DUT GRH&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:1074px;left:45px;font-family:&amp;apos;Calibri Bold&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-134&quot;&gt;Anglais&lt;/span&gt; &lt;span class=&quot;trxml-135&quot;&gt;confirmé&lt;/span&gt;&lt;/span&gt; &lt;/b&gt;&lt;/div&gt;
+
+ &lt;/div&gt;&lt;/div&gt;
+</DocumentHtml>
+</Profile>
+

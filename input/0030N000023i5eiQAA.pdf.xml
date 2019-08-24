@@ -1,0 +1,1572 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Profile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" lang="french" file="0030N000023i5eiQAA.pdf">
+
+<ProfileSummary>
+    <CurrentJob>Juriste immobilier</CurrentJob>
+    <CurrentEmployer>Cabinet Maître Olivier FASSI Avocat</CurrentEmployer>
+    <CurrentEmployerLocation>Paris (75116</CurrentEmployerLocation>
+    <TotalExperienceYears>9</TotalExperienceYears>
+    <HighestEducationLevel code="5"
+        description="Master"
+       
+        description.cz="Magistr"
+        description.de="Master"
+        description.dk="Master"
+        description.el="Μεταπτυχιακό"
+        description.en="Master"
+        description.es="Master"
+        description.fr="Master"
+        description.it="Master"
+        description.nl="Master"
+        description.pl="Magister"
+        description.pt="Mestre"
+        description.ro="Master"
+       
+        description.se="Master"
+        description.sk="Master">Master</HighestEducationLevel>
+    <ESHighestEducationLevel
+       
+       ></ESHighestEducationLevel>
+        <SummaryAmbitionSection>Juriste Immobilier</SummaryAmbitionSection>
+    <CVTitle>Juriste Immobilier</CVTitle>
+
+<ProfilePicture>
+        <Base64Content></Base64Content>
+    <Filename>3.jpg</Filename>
+    <ContentType>image/jpeg</ContentType>
+</ProfilePicture>
+<ExternalID></ExternalID>
+</ProfileSummary>
+
+<Personal>
+    <FirstName>Ophélie</FirstName>
+    <MiddleName></MiddleName>
+    <LastName>Puissant</LastName>
+    <LastNamePrefix></LastNamePrefix>
+    <LastNameWithoutPrefix>Puissant</LastNameWithoutPrefix>
+    <FullName>Ophélie PUISSANT</FullName>
+    <Initials>O.</Initials>
+    <Nationality
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       ></Nationality>
+    <Gender code="2"
+        description="Female"
+       
+       
+        description.de="Frau"
+        description.dk="Kvinde"
+        description.el="Θήλυ"
+        description.en="Female"
+        description.es="Mujer"
+        description.fr="Femme"
+        description.it="Donna"
+        description.nl="Vrouw"
+       
+       
+       
+       
+       
+       >Female</Gender>
+    <MaritalStatus
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   ></MaritalStatus>
+    <DateOfBirth></DateOfBirth>
+        <DriversLicense></DriversLicense>
+        <DriversLicenseEUNorm></DriversLicenseEUNorm>
+
+<Address>
+        <StreetName>rue Gallieni</StreetName>
+        <StreetNumberBase>5</StreetNumberBase>
+        <ZipCode>92100</ZipCode>
+        <City>Boulogne-Billancourt</City>
+        <Region code="FR-92"
+       
+       
+        description.de="FR Département Hauts-de-Seine"
+       
+       
+        description.en="FR Hauts-de-Seine"
+       
+        description.fr="FR Hauts-de-Seine"
+       
+        description.nl="FR Hauts-de-Seine"
+       
+       
+       
+       
+       
+       >FR Hauts-de-Seine</Region>
+        <Country code="FR"
+       
+        description.cz="Francie"
+        description.de="Frankreich"
+        description.dk="Frankrig"
+       
+        description.en="France"
+        description.es="Francia"
+        description.fr="France"
+        description.it="Francia"
+        description.nl="Frankrijk"
+        description.pl="Francja"
+        description.pt="França"
+        description.ro="Franța"
+       
+        description.se="Frankrike"
+        description.sk="Francúzsko">France</Country>
+</Address>
+<HomePhones>
+        <HomePhone></HomePhone>
+</HomePhones>
+<MobilePhones>
+        <MobilePhone>+33660024068</MobilePhone>
+</MobilePhones>
+<Emails>
+        <Email>ophelie.puissant@gmail.com</Email>
+</Emails>
+<ExtraInfo>
+        <TrxmlID>134228710</TrxmlID>
+    <ExternalID></ExternalID>
+    <Source></Source>
+    <ExtraInfo1></ExtraInfo1>
+    <ExtraInfo2></ExtraInfo2>
+    <ExtraInfo3></ExtraInfo3>
+    
+</ExtraInfo>
+</Personal>
+
+<EducationHistory>
+    <EducationItem>
+        <EducationLevel code="2"
+            description="Vocational Education"
+           
+            description.cz="Odborného vzdělávání"
+            description.de="Berufsausbildung"
+            description.dk="Erhvervsuddannelser"
+            description.el="Επαγγελματική/Τεχνική εκπαίδευση"
+            description.en="Vocational Education"
+            description.es="Formación profesional"
+            description.fr="Éducation Professionnelle"
+            description.it="Formazione professionale"
+            description.nl="Beroepsonderwijs"
+            description.pl="Kształcenie zawodowe"
+            description.pt="Educação profissional"
+            description.ro="Şcoală profesională"
+           
+            description.se="Yrkesskola"
+            description.sk="Odborná škola">Vocational Education</EducationLevel>
+        <InstituteName>Ecole Nationale du Droit et de la Procédure (ENADEP - Paris)</InstituteName>
+        <InstituteLocation>Paris</InstituteLocation>
+        <Major>3 e Cycle Procédure Civile</Major>
+        <GPA></GPA>
+        <StartDate></StartDate>
+        <EndDate>2015-06-30</EndDate>
+        <ESEducationLevel
+           
+           ></ESEducationLevel>
+
+    </EducationItem>
+    <EducationItem>
+        <EducationLevel code="5"
+            description="Master"
+           
+            description.cz="Magistr"
+            description.de="Master"
+            description.dk="Master"
+            description.el="Μεταπτυχιακό"
+            description.en="Master"
+            description.es="Master"
+            description.fr="Master"
+            description.it="Master"
+            description.nl="Master"
+            description.pl="Magister"
+            description.pt="Mestre"
+            description.ro="Master"
+           
+            description.se="Master"
+            description.sk="Master">Master</EducationLevel>
+        <InstituteName>Université de Valenciennes</InstituteName>
+        <InstituteLocation>59</InstituteLocation>
+        <Major>Master II Droit de l&apos;immobilier et de son financement</Major>
+        <GPA></GPA>
+        <StartDate></StartDate>
+        <EndDate>2009-06-30</EndDate>
+        <ESEducationLevel
+           
+           ></ESEducationLevel>
+
+    </EducationItem>
+    <EducationItem>
+        <EducationLevel code="5"
+            description="Master"
+           
+            description.cz="Magistr"
+            description.de="Master"
+            description.dk="Master"
+            description.el="Μεταπτυχιακό"
+            description.en="Master"
+            description.es="Master"
+            description.fr="Master"
+            description.it="Master"
+            description.nl="Master"
+            description.pl="Magister"
+            description.pt="Mestre"
+            description.ro="Master"
+           
+            description.se="Master"
+            description.sk="Master">Master</EducationLevel>
+        <InstituteName>Université de Valenciennes</InstituteName>
+        <InstituteLocation>59</InstituteLocation>
+        <Major>Master I Droit privé - parcours droit de l&apos;immobilier</Major>
+        <GPA></GPA>
+        <StartDate></StartDate>
+        <EndDate>2008-06-30</EndDate>
+        <ESEducationLevel
+           
+           ></ESEducationLevel>
+
+    </EducationItem>
+    <EducationItem>
+        <EducationLevel code="4"
+            description="Bachelor"
+           
+            description.cz="Bakalář"
+            description.de="Bachelor/Fachhochschule"
+            description.dk="Bachelor"
+            description.el="Προπτυχιακό"
+            description.en="Bachelor"
+            description.es="Grado"
+            description.fr="Licence/Bac+3"
+            description.it="Laureato"
+            description.nl="HBO/Bachelor"
+            description.pl="Bakałarz"
+            description.pt="Bacharel"
+            description.ro="Licenţiat"
+           
+            description.se="Bachelor"
+            description.sk="Bakalár">Bachelor</EducationLevel>
+        <InstituteName>Université de Troyes</InstituteName>
+        <InstituteLocation>10</InstituteLocation>
+        <Major>Licence de Droit</Major>
+        <GPA></GPA>
+        <StartDate></StartDate>
+        <EndDate>2007-06-30</EndDate>
+        <ESEducationLevel
+           
+           ></ESEducationLevel>
+
+    </EducationItem>
+    <EducationItem>
+        <EducationLevel code="1"
+            description="Secondary Education"
+           
+            description.cz="Středoškolské vzdělání"
+            description.de="Schulabschluß"
+            description.dk="Gymnasiel ungdomsuddannelse"
+            description.el="Δευτεροβάθμια εκπαίδευση"
+            description.en="Secondary Education"
+            description.es="Educación secundaria"
+            description.fr="Éducation Secondaire"
+            description.it="Istruzione secondaria"
+            description.nl="Voortgezet Onderwijs"
+            description.pl="Wykształcenie średnie"
+            description.pt="Educação secundária"
+            description.ro="Şcoală secundară"
+           
+            description.se="Gymnasieskola"
+            description.sk="Stredná škola">Secondary Education</EducationLevel>
+        <InstituteName>Lycée Camille Claudel Troyes</InstituteName>
+        <InstituteLocation>10</InstituteLocation>
+        <Major>Baccalauréat Littéraire, option espagnol renforcé</Major>
+        <GPA></GPA>
+        <StartDate></StartDate>
+        <EndDate>2003-06-30</EndDate>
+        <ESEducationLevel
+           
+           ></ESEducationLevel>
+
+    </EducationItem>
+
+</EducationHistory>
+
+<EmploymentHistory>
+    <EmploymentItem>
+        <JobTitle>Juriste immobilier</JobTitle>
+        <ExperienceONET id="23_1011_00">Lawyers</ExperienceONET>
+        <EmployerName>Cabinet Maître Olivier FASSI Avocat</EmployerName>
+        <EmployerLocation>Paris (75116</EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>4</YearsExperience>
+        <JobCode code="4431"></JobCode>
+        <JobGroup code="184"></JobGroup>
+        <JobClass code="19"></JobClass>
+        <JobDescription>Contentieux locatif de masse sur la France entière y compris DOM -TOM * Rédaction et vérification des assignations et des conclusions : - En demande : référés-expulsion, fond, - En défense : opposition injonction de payer, opposition saisie-attribution, contestation saisie des rémunérations, contestation saisie-vente, opposition à ordonnance de reprise « Loi Béteille », procédure devant le juge du surendettement, dire à expert, * Préparation des dossiers de plaidoirie aux avocats substituant, * Gestion et suivi des procédures devant les TI, TGI, JEX, Cour d&apos;Appel, * Rédaction des comptes-rendus d&apos;audience, * Vérification des décisions obtenues et rédaction des requêtes en rectification si nécessaire, * Réalisation des statistiques concernant les comptes-rendus d&apos;audience (nombre de renvoi et d&apos;affaires plaidées) et les décisions obtenues, * Mise en place de process internes optimisant la gestion des dossiers, * Recrutement, formation du personnel et supervision des tâches (entre 5 et 7 personnes).</JobDescription>
+        <StartDate>2014-06-01</StartDate>
+        <EndDate>2017-12-31</EndDate>
+    </EmploymentItem>
+    <EmploymentItem>
+        <JobTitle>Juriste contentieux et adjointe du Responsable Juridique</JobTitle>
+        <ExperienceONET id="23_2099_00">Legal Support Workers, All Other</ExperienceONET>
+        <EmployerName>SACAPP, Boulogne-Billancourt</EmployerName>
+        <EmployerLocation>92</EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>4</YearsExperience>
+        <JobCode code="4668"></JobCode>
+        <JobGroup code="184"></JobGroup>
+        <JobClass code="19"></JobClass>
+        <JobDescription>* Vérification des conditions d&apos;acquisition des garanties (loyers impayés, dégradations immobilières, protection juridique, garantie revente), * Mise en œuvre de la procédure d&apos;expulsion, * Mise en place et suivi des procédures judiciaires (référés, fonds, appels), * Mise en place et suivi des procédures de recouvrement amiables et contentieuses, * Recrutement et formation des nouvelles recrues, * Actualisation des conditions générales du contrat d&apos;assurance.</JobDescription>
+        <StartDate>2010-03-01</StartDate>
+        <EndDate>2014-03-31</EndDate>
+    </EmploymentItem>
+    <EmploymentItem>
+        <JobTitle>Gestionnaire locatif</JobTitle>
+        <ExperienceONET id="41_2021_00">Counter and Rental Clerks</ExperienceONET>
+        <EmployerName>Agence FONCIA BUAT, Lille</EmployerName>
+        <EmployerLocation>59</EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>1</YearsExperience>
+        <JobCode code="1097"></JobCode>
+        <JobGroup code="214"></JobGroup>
+        <JobClass code="21"></JobClass>
+        <JobDescription>* Rédaction des baux d&apos;habitation et commerciaux, * Réception de logements neufs, * Suivi des sinistres (dégâts des eaux, garantie parfait achèvement) et des travaux, * Traitement des résiliations des baux.</JobDescription>
+        <StartDate>2009-02-01</StartDate>
+        <EndDate>2010-02-28</EndDate>
+    </EmploymentItem>
+    <EmploymentItem>
+        <JobTitle>Assistante commerciale</JobTitle>
+        <ExperienceONET id="41_3099_00">Sales Representatives, Services, All Other</ExperienceONET>
+        <EmployerName>Agence FONCIA BUAT, Lille</EmployerName>
+        <EmployerLocation>59</EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>2</YearsExperience>
+        <JobCode code="891"></JobCode>
+        <JobGroup code="213"></JobGroup>
+        <JobClass code="21"></JobClass>
+        <JobDescription>* Accueil physique et téléphonique * Présentation des biens à vendre et à louer, * Préparation des dossiers de solvabilité des futurs locataires pour transmission au service gestion, * Assistanat des conseillers immobiliers.</JobDescription>
+        <StartDate>2008-09-01</StartDate>
+        <EndDate>2010-02-28</EndDate>
+    </EmploymentItem>
+    <EmploymentItem>
+        <JobTitle>Stage</JobTitle>
+        <ExperienceONET></ExperienceONET>
+        <EmployerName>FONCIA BUAT, Lille</EmployerName>
+        <EmployerLocation>59</EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>0</YearsExperience>
+        <JobCode></JobCode>
+        <JobGroup></JobGroup>
+        <JobClass></JobClass>
+        <JobDescription>* Présentation et visites des biens à louer, * Elaboration et traitement des dossiers de candidature des futurs locataires, * Accueil de la clientèle.</JobDescription>
+        <StartDate>2008-06-01</StartDate>
+        <EndDate>2008-09-01</EndDate>
+    </EmploymentItem>
+
+</EmploymentHistory>
+
+<RecentEmploymentHistory>
+    <RecentEmploymentItem>
+        <JobTitle>Juriste immobilier</JobTitle>
+        <ExperienceONET></ExperienceONET>
+        <EmployerName>Cabinet Maître Olivier FASSI Avocat</EmployerName>
+        <EmployerLocation>Paris (75116</EmployerLocation>
+        <EmployerCity></EmployerCity>
+        <EmployerRegion></EmployerRegion>
+        <EmployerCountry></EmployerCountry>
+        <YearsExperience>4</YearsExperience>
+        <JobCode code="4431"></JobCode>
+        <JobGroup code="184"></JobGroup>
+        <JobClass code="19"></JobClass>
+        <JobDescription>Contentieux locatif de masse sur la France entière y compris DOM -TOM * Rédaction et vérification des assignations et des conclusions : - En demande : référés-expulsion, fond, - En défense : opposition injonction de payer, opposition saisie-attribution, contestation saisie des rémunérations, contestation saisie-vente, opposition à ordonnance de reprise « Loi Béteille », procédure devant le juge du surendettement, dire à expert, * Préparation des dossiers de plaidoirie aux avocats substituant, * Gestion et suivi des procédures devant les TI, TGI, JEX, Cour d&apos;Appel, * Rédaction des comptes-rendus d&apos;audience, * Vérification des décisions obtenues et rédaction des requêtes en rectification si nécessaire, * Réalisation des statistiques concernant les comptes-rendus d&apos;audience (nombre de renvoi et d&apos;affaires plaidées) et les décisions obtenues, * Mise en place de process internes optimisant la gestion des dossiers, * Recrutement, formation du personnel et supervision des tâches (entre 5 et 7 personnes).</JobDescription>
+        <StartDate>2014-06-01</StartDate>
+        <EndDate>2017-12-31</EndDate>
+    </RecentEmploymentItem>
+
+</RecentEmploymentHistory>
+
+<Skills>
+    <LanguageSkills>
+            <LanguageSkill>
+        <LanguageSkill code="EN">English</LanguageSkill>
+        <LanguageProficiency
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           ></LanguageProficiency>
+        <LanguageSkillDuration></LanguageSkillDuration>
+        <LanguageSkillFirstUsed></LanguageSkillFirstUsed>
+        <LanguageSkillLastUsed></LanguageSkillLastUsed>
+    </LanguageSkill>
+    <LanguageSkill>
+        <LanguageSkill code="ES">Spanish</LanguageSkill>
+        <LanguageProficiency
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           ></LanguageProficiency>
+        <LanguageSkillDuration></LanguageSkillDuration>
+        <LanguageSkillFirstUsed></LanguageSkillFirstUsed>
+        <LanguageSkillLastUsed></LanguageSkillLastUsed>
+    </LanguageSkill>
+
+    </LanguageSkills>
+    <ComputerSkills>
+            <ComputerSkill>
+        <ComputerSkill>DOM</ComputerSkill>
+        <ComputerSkillDuration>4</ComputerSkillDuration>
+        <ComputerSkillFirstUsed>2014-06-01</ComputerSkillFirstUsed>
+        <ComputerSkillLastUsed>2017-12-31</ComputerSkillLastUsed>
+    </ComputerSkill>
+    <ComputerSkill>
+        <ComputerSkill>Excel</ComputerSkill>
+        <ComputerSkillDuration></ComputerSkillDuration>
+        <ComputerSkillFirstUsed></ComputerSkillFirstUsed>
+        <ComputerSkillLastUsed></ComputerSkillLastUsed>
+    </ComputerSkill>
+    <ComputerSkill>
+        <ComputerSkill>Word</ComputerSkill>
+        <ComputerSkillDuration></ComputerSkillDuration>
+        <ComputerSkillFirstUsed></ComputerSkillFirstUsed>
+        <ComputerSkillLastUsed></ComputerSkillLastUsed>
+    </ComputerSkill>
+
+    </ComputerSkills>
+    <ProfessionalSkills>
+            <ProfessionalSkill>
+        <ProfessionalSkill></ProfessionalSkill>
+        <ProfessionalSkillDuration></ProfessionalSkillDuration>
+        <ProfessionalSkillFirstUsed></ProfessionalSkillFirstUsed>
+        <ProfessionalSkillLastUsed></ProfessionalSkillLastUsed>
+    </ProfessionalSkill>
+    </ProfessionalSkills>
+    <SoftSkills>
+            <SoftSkill>
+        <SoftSkill></SoftSkill>
+        <SoftSkillDuration></SoftSkillDuration>
+        <SoftSkillFirstUsed></SoftSkillFirstUsed>
+        <SoftSkillLastUsed></SoftSkillLastUsed>
+    </SoftSkill>
+
+    </SoftSkills>
+</Skills>
+
+<SkillsObject>
+    <Skill>
+        <ExtractedSkill>DOM</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>International</MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode>ITSKILLKS7RTC</MasterSkillCode>
+        <SkillType>IT_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears>4</DurationYears>
+        <DurationMonths>43</DurationMonths>
+        <StartDate>2014-06-01</StartDate>
+        <EndDate>2017-12-31</EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Excel</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>International</MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode>ITSKILLKSV6B6</MasterSkillCode>
+        <SkillType>IT_skill</SkillType>
+        <Level>Maîtrise</Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Word</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>International</MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode>ITSKILLKSL3WL</MasterSkillCode>
+        <SkillType>IT_skill</SkillType>
+        <Level>Maîtrise</Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Anglais</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>International</MasterSetID>
+        <MasterSkillName>English</MasterSkillName>
+        <MasterSkillCode>LANGSKILL37</MasterSkillCode>
+        <SkillType>Language_skill</SkillType>
+        <Level>lu, écrit, parlé</Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>espagnol</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>International</MasterSetID>
+        <MasterSkillName>Spanish</MasterSkillName>
+        <MasterSkillCode>LANGSKILL39</MasterSkillCode>
+        <SkillType>Language_skill</SkillType>
+        <Level>lu, écrit, parlé</Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Immobilier</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Gestion Immobilière</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1221</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Contentieux</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Gestion des litiges et contentieux</MasterSkillName>
+        <MasterSkillCode>PROFSKILL30031</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>vente</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Vente</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1177</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>ordonnance</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Prescription Médicale</MasterSkillName>
+        <MasterSkillCode>PROFSKILL90396</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Préparation des dossiers de plaidoirie</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Suivi et Procédure Judiciaire</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1421</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>suivi des procédures</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Suivi et Procédure Judiciaire</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1421</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Appel</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Accueil Téléphonique et Gestion de standard</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1455</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Rédaction des comptes-rendus</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Saisie et tâches administratives</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1481</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Réalisation des statistiques</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Etudes et Statistiques</MasterSkillName>
+        <MasterSkillCode>PROFSKILL2185</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Mise en place de process</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Management Qualité et Efficacité des Processus</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1265</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>gestion des dossiers</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Saisie et tâches administratives</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1481</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Juridique</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Application du Droit et Gestion Juridique</MasterSkillName>
+        <MasterSkillCode>PROFSKILL2156</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>suivi des procédures judiciaires</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Suivi et Procédure Judiciaire</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1421</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>appels</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Accueil Téléphonique et Gestion de standard</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1455</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>contrat d&apos;assurance</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Gestion et Suivi d&apos;Assurance</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1369</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Rédaction des baux</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Gestion Immobilière</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1221</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Suivi des sinistres</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Gestion et Suivi d&apos;Assurance</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1369</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Accueil physique et téléphonique</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Accueil Téléphonique et Gestion de standard</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1455</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>immobiliers</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Gestion Immobilière</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1221</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>visites des biens</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Gestion Immobilière</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1221</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>traitement des dossiers</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Saisie et tâches administratives</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1481</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Accueil</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Accueillir du Public</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1579</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>financement</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Comptabilité et gestion de la trésorerie</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1248</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Recrutement</ExtractedSkill>
+        <Normalized>N</Normalized>
+        <MasterSetID></MasterSetID>
+        <MasterSkillName></MasterSkillName>
+        <MasterSkillCode></MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>assurance</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Gestion et Suivi d&apos;Assurance</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1369</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>immobilières</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Gestion Immobilière</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1221</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>protection juridique</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Gestion et Suivi d&apos;Assurance</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1369</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>vérification des assignations</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Gestion de Stocks et d’entrepôts</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1478</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Master II Droit de l&apos;immobilier et de son financement</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Gestion Financière</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1243</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+    <Skill>
+        <ExtractedSkill>Master I Droit privé - parcours droit de l&apos;immobilier</ExtractedSkill>
+        <Normalized>Y</Normalized>
+        <MasterSetID>MasterSetFR</MasterSetID>
+        <MasterSkillName>Gestion Immobilière</MasterSkillName>
+        <MasterSkillCode>PROFSKILL1221</MasterSkillCode>
+        <SkillType>Professional_skill</SkillType>
+        <Level></Level>
+        <NormalizedLevel></NormalizedLevel>
+        <DurationYears></DurationYears>
+        <DurationMonths></DurationMonths>
+        <StartDate></StartDate>
+        <EndDate></EndDate>
+    </Skill>
+
+</SkillsObject>
+
+<Other>
+    <FullTextKeywords>
+        Accueil physique et téléphoniqueContentieuxElaborationGestionRecrutementRéalisation des statistiquesRédactionassuranceconclusionsgestion des dossiersimmobiliersimmobilièresobtenuesprotection juridiquesupervision des tâchestraitement des dossiersventevérification des assignationsMaster II Droit de l&apos;immobilier et de son financementMaster I Droit privé - parcours droit de l&apos;immobilier
+    </FullTextKeywords>
+</Other>
+
+<UserArea>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+</UserArea>
+
+<DocumentText>
+Ophélie PUISSANT                                  33 ans
+5, rue Gallieni                                   *        06 60 02 40 68
+92100 Boulogne-Billancourt                        *         ophelie.puissant@gmail.com
+
+
+
+
+                                      Juriste Immobilier
+
+
+Experiences professionnelles
+
+Juin 2014 - déc. 2017    Juriste immobilier - Cabinet Maître Olivier FASSI Avocat, Paris (75116)
+                         Contentieux locatif de masse sur la France entière y compris DOM -TOM
+                         *     Rédaction et vérification des assignations et des conclusions :
+                               -  En demande : référés-expulsion, fond,
+                               -  En défense : opposition injonction de payer, opposition saisie-attribution, contestation saisie des
+                                  rémunérations, contestation saisie-vente, opposition à ordonnance de reprise « Loi Béteille »,
+                                  procédure devant le juge du surendettement, dire à expert,
+                         *     Préparation des dossiers de plaidoirie aux avocats substituant,
+                         *     Gestion et suivi des procédures devant les TI, TGI, JEX, Cour d&apos;Appel,
+                         *     Rédaction des comptes-rendus d&apos;audience,
+                         *     Vérification des décisions obtenues et rédaction des requêtes en rectification si nécessaire,
+                         *     Réalisation des statistiques concernant les comptes-rendus d&apos;audience (nombre de renvoi et d&apos;affaires
+                               plaidées) et les décisions obtenues,
+                         *     Mise en place de process internes optimisant la gestion des dossiers,
+                         *     Recrutement, formation du personnel et supervision des tâches (entre 5 et 7 personnes).
+
+Mars 2010 - mars 2014   Juriste contentieux et adjointe du Responsable Juridique - SACAPP, Boulogne-Billancourt (92)
+                         *     Vérification des conditions d&apos;acquisition des garanties (loyers impayés, dégradations immobilières,
+                               protection juridique, garantie revente),
+                         *     Mise en œuvre de la procédure d&apos;expulsion,
+                         *     Mise en place et suivi des procédures judiciaires (référés, fonds, appels),
+                         *     Mise en place et suivi des procédures de recouvrement amiables et contentieuses,
+                         *     Recrutement et formation des nouvelles recrues,
+                         *     Actualisation des conditions générales du contrat d&apos;assurance.
+
+Fév. 2009 - fév. 2010   Gestionnaire locatif  - Stage et CDD Agence FONCIA BUAT, Lille (59)
+                         *     Rédaction des baux d&apos;habitation et commerciaux,
+                         *     Réception de logements neufs,
+                         *     Suivi des sinistres (dégâts des eaux, garantie parfait achèvement) et des travaux,
+                         *     Traitement des résiliations des baux.
+
+Sept. 2008 - fév. 2010   Assistante commerciale  - (job étudiant) Agence FONCIA BUAT, Lille (59)
+                         *     Accueil physique et téléphonique
+                         *     Présentation des biens à vendre et à louer,
+                         *     Préparation des dossiers de solvabilité des futurs locataires pour transmission au service gestion,
+                         *     Assistanat des conseillers immobiliers.
+
+Juin 2008 - sept. 2008  Service Location  -  Stage Agence FONCIA BUAT, Lille (59)
+                         *     Présentation et visites des biens à louer,
+                         *     Elaboration et traitement des dossiers de candidature des futurs locataires,
+                         *     Accueil de la clientèle.
+Formation
+
+2015                     3 e     Cycle Procédure Civile - mention bien
+                         Ecole Nationale du Droit et de la Procédure (ENADEP - Paris)
+
+2009                     Master II Droit de l&apos;immobilier et de son financement - mention assez bien
+                         Université de Valenciennes (59)
+
+2008                     Master I Droit privé - parcours droit de l&apos;immobilier
+                         Université de Valenciennes (59)
+
+2007                     Licence de Droit
+                         Université de Troyes (10)
+
+2003                     Baccalauréat Littéraire, option espagnol renforcé
+                         Lycée Camille Claudel Troyes (10)
+
+
+Divers
+
+Anglais et espagnol lu, écrit, parlé.
+Maîtrise Excel, Word.
+Loisirs : course à pied, body-combat, natation, cuisine, voyage (Espagne, Italie, Indonésie, Allemagne, Ile Maurice), couture.
+</DocumentText>
+<DocumentHtml>
+&lt;div&gt;&lt;div style=&quot;position: relative;&quot;&gt;&lt;tk_metadata name=&quot;last_modified&quot; value=&quot;28/02/2018, 21:22&quot;&gt; &lt;/tk_metadata&gt;&lt;tk_metadata name=&quot;author&quot;&gt; &lt;/tk_metadata&gt;&lt;p&gt; &lt;/p&gt;
+&lt;div style=&quot;position:absolute;top:37px;left:661px;white-space:nowrap;&quot;&gt;&lt;img alt=&quot;image&quot; height=&quot;104&quot; src=&quot;2.jpg&quot; width=&quot;84&quot;&gt; &lt;/img&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:29px;left:653px;white-space:nowrap;&quot;&gt;&lt;img alt=&quot;image&quot; height=&quot;104&quot; src=&quot;3.jpg&quot; width=&quot;84&quot;&gt; &lt;/img&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:33px;left:84px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:11pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;&lt;span class=&quot;trxml-343&quot;&gt;Ophélie PUISSANT&lt;/span&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:49px;left:84px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;&lt;span class=&quot;trxml-126&quot;&gt;5, rue Gallieni&lt;/span&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:63px;left:84px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;&lt;span class=&quot;trxml-127&quot;&gt;92100 Boulogne-Billancourt&lt;/span&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:32px;left:415px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;33 ans
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:49px;left:415px;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;● 
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:46px;left:430px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;&lt;span class=&quot;trxml-263&quot;&gt;06 60 02 40 68&lt;/span&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:63px;left:415px;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;● 
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-12&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:60px;left:432px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-12&quot;&gt;&lt;span class=&quot;trxml-416&quot;&gt;ophelie.puissant@gmail.com&lt;/span&gt;&lt;/span&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:121px;left:305px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:17pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;Juriste &lt;span class=&quot;trxml-470&quot;&gt;Immobilier&lt;/span&gt;&lt;/span&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:170px;left:84px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:14pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;Experiences professionnelles
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:204px;left:88px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-45&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;&lt;span class=&quot;trxml-471&quot;&gt;Juin&lt;/span&gt; 2014 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-45&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:204px;left:136px;font-family:&amp;apos;BCDIEE+GillSansMT&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-45&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;– 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-45&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:204px;left:146px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;&lt;span class=&quot;trxml-45&quot;&gt;déc. 2017&lt;/span&gt;      
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:204px;left:236px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;&lt;span class=&quot;trxml-46&quot;&gt;Juriste &lt;span class=&quot;trxml-472&quot;&gt;immobilier&lt;/span&gt;&lt;/span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:204px;left:341px;font-family:&amp;apos;BCDJEE+GillSansMT-Bold&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;– &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:204px;left:350px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;&lt;span class=&quot;trxml-48&quot;&gt;Cabinet Maître Olivier FASSI Avocat, Paris (75116&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:218px;left:236px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;&lt;span class=&quot;trxml-473&quot;&gt;Contentieux&lt;/span&gt; locatif de masse sur la France entière y compris &lt;span class=&quot;trxml-122&quot;&gt;DOM&lt;/span&gt; -TOM&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:235px;left:236px;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;●  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:232px;left:264px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;&lt;span class=&quot;trxml-474&quot;&gt;Rédaction&lt;/span&gt; et vérification des assignations et des conclusions :
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:246px;left:264px;font-family:&amp;apos;Arial&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;-  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:246px;left:283px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;En demande : référés-expulsion, fond,
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:260px;left:264px;font-family:&amp;apos;Arial&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;-  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:260px;left:283px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;En &lt;span class=&quot;trxml-475&quot;&gt;défense&lt;/span&gt; : opposition injonction de payer, opposition saisie-attribution, contestation saisie des
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:274px;left:283px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;rémunérations, contestation &lt;span class=&quot;trxml-476&quot;&gt;saisie-vente&lt;/span&gt;, opposition à &lt;span class=&quot;trxml-477&quot;&gt;ordonnance&lt;/span&gt; de reprise « Loi Béteille »,
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:288px;left:283px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;&lt;span class=&quot;trxml-478&quot;&gt;procédure&lt;/span&gt; devant le juge du surendettement, dire à expert,
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:305px;left:236px;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;●  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:302px;left:264px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;&lt;span class=&quot;trxml-479&quot;&gt;Préparation des dossiers de plaidoirie&lt;/span&gt; aux avocats substituant,
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:318px;left:236px;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;●  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:316px;left:264px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;&lt;span class=&quot;trxml-480&quot;&gt;Gestion&lt;/span&gt; et &lt;span class=&quot;trxml-481&quot;&gt;suivi des procédures&lt;/span&gt; devant 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:316px;left:458px;font-family:&amp;apos;BCDIEE+GillSansMT&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;les TI, TGI, JEX, Cour d’Appel,
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:332px;left:236px;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;●  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:330px;left:264px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;&lt;span class=&quot;trxml-483&quot;&gt;Rédaction des comptes-rendus&lt;/span&gt; d’audience,
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:346px;left:236px;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;●  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:343px;left:264px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;Vérification des décisions obtenues et &lt;span class=&quot;trxml-484&quot;&gt;rédaction&lt;/span&gt; des requêtes en rectification si nécessaire,
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:360px;left:236px;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;●  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:357px;left:264px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;&lt;span class=&quot;trxml-485&quot;&gt;Réalisation des statistiques&lt;/span&gt; concernant les comptes-rendus 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:357px;left:557px;font-family:&amp;apos;BCDIEE+GillSansMT&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;d’audience (nombre de renvoi et d’affaires
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:371px;left:264px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;plaidées) et les décisions obtenues,
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:388px;left:236px;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;●  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:385px;left:264px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;&lt;span class=&quot;trxml-486&quot;&gt;Mise en place de process&lt;/span&gt; internes optimisant la &lt;span class=&quot;trxml-487&quot;&gt;gestion des dossiers&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:402px;left:236px;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;●  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:399px;left:264px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-128&quot;&gt;&lt;span class=&quot;trxml-81&quot;&gt;Recrutement, &lt;span class=&quot;trxml-488&quot;&gt;formation&lt;/span&gt; du personnel et &lt;span class=&quot;trxml-489&quot;&gt;supervision&lt;/span&gt; des tâches (entre 5 et 7 personnes&lt;/span&gt;&lt;/span&gt;).
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:428px;left:84px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;Mars 2010 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:428px;left:139px;font-family:&amp;apos;BCDIEE+GillSansMT&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;– 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-50&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:428px;left:148px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;&lt;span class=&quot;trxml-50&quot;&gt;mars 2014&lt;/span&gt;     
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:428px;left:236px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;&lt;span class=&quot;trxml-51&quot;&gt;Juriste &lt;span class=&quot;trxml-490&quot;&gt;contentieux&lt;/span&gt; et adjointe du &lt;span class=&quot;trxml-491&quot;&gt;Responsable&lt;/span&gt; &lt;span class=&quot;trxml-492&quot;&gt;Juridique&lt;/span&gt;&lt;/span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:428px;left:553px;font-family:&amp;apos;BCDJEE+GillSansMT-Bold&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;– &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:428px;left:562px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;&lt;span class=&quot;trxml-53&quot;&gt;SACAPP, Boulogne-Billancourt (92&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:445px;left:236px;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;●  
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:442px;left:264px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;Vérification des conditions 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:442px;left:405px;font-family:&amp;apos;BCDIEE+GillSansMT&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;d’acquisition des garanties (loyers impayés, dégradations 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:442px;left:700px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;immobilières,
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:456px;left:264px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;protection &lt;span class=&quot;trxml-493&quot;&gt;juridique&lt;/span&gt;, garantie revente),
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:473px;left:236px;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;●  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:470px;left:264px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;Mise en 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:470px;left:305px;font-family:&amp;apos;BCDIEE+GillSansMT&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;œuvre de la &lt;span class=&quot;trxml-494&quot;&gt;procédure&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:470px;left:421px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;d’expulsion,
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:487px;left:236px;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;●  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:484px;left:264px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;&lt;span class=&quot;trxml-495&quot;&gt;Mise en place&lt;/span&gt; et &lt;span class=&quot;trxml-496&quot;&gt;suivi des procédures judiciaires&lt;/span&gt; (référés, fonds, &lt;span class=&quot;trxml-497&quot;&gt;appels&lt;/span&gt;),
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:501px;left:236px;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;●  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:498px;left:264px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;&lt;span class=&quot;trxml-498&quot;&gt;Mise en place&lt;/span&gt; et &lt;span class=&quot;trxml-499&quot;&gt;suivi des procédures&lt;/span&gt; de recouvrement amiables et contentieuses,
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:515px;left:236px;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;●  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:512px;left:264px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;Recrutement et &lt;span class=&quot;trxml-500&quot;&gt;formation&lt;/span&gt; des nouvelles recrues,
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:529px;left:236px;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;●  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:526px;left:264px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;Actualisation des 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:526px;left:350px;font-family:&amp;apos;BCDIEE+GillSansMT&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-129&quot;&gt;&lt;span class=&quot;trxml-83&quot;&gt;conditions générales du &lt;span class=&quot;trxml-501&quot;&gt;contrat&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; d’assurance.
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:554px;left:84px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-55&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-85&quot;&gt;Fév. 2009 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-55&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-85&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:554px;left:135px;font-family:&amp;apos;BCDIEE+GillSansMT&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-55&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-85&quot;&gt;– 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-55&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-85&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:554px;left:144px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-85&quot;&gt;&lt;span class=&quot;trxml-55&quot;&gt;fév. 2010&lt;/span&gt;       
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-85&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:554px;left:236px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-85&quot;&gt;&lt;span class=&quot;trxml-56&quot;&gt;&lt;span class=&quot;trxml-502&quot;&gt;Gestionnaire&lt;/span&gt; locatif&lt;/span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-85&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-85&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:554px;left:353px;font-family:&amp;apos;BCDJEE+GillSansMT-Bold&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-85&quot;&gt;– &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-85&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-85&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:554px;left:366px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-85&quot;&gt;Stage et CDD &lt;span class=&quot;trxml-58&quot;&gt;Agence FONCIA BUAT, Lille (59&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-85&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-85&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:570px;left:236px;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-85&quot;&gt;●  
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-85&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:568px;left:264px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-130&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-85&quot;&gt;&lt;span class=&quot;trxml-503&quot;&gt;Rédaction des baux&lt;/span&gt; d&amp;apos;habitation et commerciaux,
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-130&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-85&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:584px;left:236px;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-130&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-85&quot;&gt;●  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-130&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-85&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:582px;left:264px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-130&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-85&quot;&gt;Réception de logements neufs,
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-130&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-85&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:598px;left:236px;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-130&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-85&quot;&gt;●  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-130&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-85&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:596px;left:264px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-130&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-85&quot;&gt;&lt;span class=&quot;trxml-504&quot;&gt;Suivi des sinistres&lt;/span&gt; (dégâts des eaux, garantie parfait achèvement) et des travaux,
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-130&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-85&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:612px;left:236px;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-130&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-85&quot;&gt;●  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-130&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-85&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:609px;left:264px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-130&quot;&gt;&lt;span class=&quot;trxml-85&quot;&gt;&lt;span class=&quot;trxml-505&quot;&gt;Traitement&lt;/span&gt; des résiliations des baux&lt;/span&gt;&lt;/span&gt;.
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:637px;left:84px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-60&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-87&quot;&gt;Sept. 2008 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-60&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-87&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:637px;left:139px;font-family:&amp;apos;BCDIEE+GillSansMT&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-60&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-87&quot;&gt;– 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-60&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-87&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:637px;left:148px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-87&quot;&gt;&lt;span class=&quot;trxml-60&quot;&gt;fév. 2010&lt;/span&gt;      
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-87&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:637px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-87&quot;&gt;&lt;span class=&quot;trxml-61&quot;&gt;Assistante commerciale&lt;/span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-87&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-87&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:637px;left:370px;font-family:&amp;apos;BCDJEE+GillSansMT-Bold&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-87&quot;&gt;– &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-87&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-87&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:637px;left:380px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-87&quot;&gt;(job étudiant) &lt;span class=&quot;trxml-63&quot;&gt;Agence FONCIA BUAT, Lille (59&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-87&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-87&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:654px;left:236px;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-87&quot;&gt;●  
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-87&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:651px;left:264px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-131&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-87&quot;&gt;&lt;span class=&quot;trxml-506&quot;&gt;Accueil physique et téléphonique&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-131&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-87&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:668px;left:236px;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-131&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-87&quot;&gt;●  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-131&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-87&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:665px;left:264px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-131&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-87&quot;&gt;Présentation des biens à vendre et à louer,
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-131&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-87&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:682px;left:236px;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-131&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-87&quot;&gt;●  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-131&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-87&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:679px;left:264px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-131&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-87&quot;&gt;&lt;span class=&quot;trxml-507&quot;&gt;Préparation&lt;/span&gt; des dossiers de solvabilité des futurs locataires pour transmission au &lt;span class=&quot;trxml-508&quot;&gt;service&lt;/span&gt; &lt;span class=&quot;trxml-509&quot;&gt;gestion&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-131&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-87&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:696px;left:236px;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-131&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-87&quot;&gt;●  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-131&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-87&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:693px;left:264px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-131&quot;&gt;&lt;span class=&quot;trxml-87&quot;&gt;Assistanat des conseillers &lt;span class=&quot;trxml-510&quot;&gt;immobiliers&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;.
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:721px;left:84px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-65&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-89&quot;&gt;&lt;span class=&quot;trxml-511&quot;&gt;Juin&lt;/span&gt; 2008 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-65&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-89&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:721px;left:133px;font-family:&amp;apos;BCDIEE+GillSansMT&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-65&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-89&quot;&gt;– 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-65&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-89&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:721px;left:142px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-89&quot;&gt;&lt;span class=&quot;trxml-65&quot;&gt;sept. 2008&lt;/span&gt;      
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-89&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:721px;left:236px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-89&quot;&gt;&lt;span class=&quot;trxml-512&quot;&gt;Service&lt;/span&gt; Location &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-89&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-89&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:721px;left:333px;font-family:&amp;apos;BCDJEE+GillSansMT-Bold&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-89&quot;&gt;– &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-89&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-89&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:721px;left:346px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-89&quot;&gt;&lt;span class=&quot;trxml-67&quot;&gt;Stage&lt;/span&gt; Agence &lt;span class=&quot;trxml-69&quot;&gt;FONCIA BUAT, Lille (59&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-89&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-89&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:738px;left:236px;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-89&quot;&gt;●  
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-89&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:735px;left:264px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-132&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-89&quot;&gt;Présentation et &lt;span class=&quot;trxml-513&quot;&gt;visites des biens&lt;/span&gt; à louer,
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-132&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-89&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:751px;left:236px;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-132&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-89&quot;&gt;●  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-132&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-89&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:749px;left:264px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-132&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-89&quot;&gt;Elaboration et &lt;span class=&quot;trxml-514&quot;&gt;traitement des dossiers&lt;/span&gt; de candidature des futurs locataires,
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-132&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-89&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:765px;left:236px;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-132&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-89&quot;&gt;●  
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-132&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-89&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:763px;left:264px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-132&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-89&quot;&gt;&lt;span class=&quot;trxml-515&quot;&gt;Accueil&lt;/span&gt; de la &lt;span class=&quot;trxml-516&quot;&gt;clientèle&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;.
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:778px;left:84px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:14pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;&lt;span class=&quot;trxml-517&quot;&gt;Formation&lt;/span&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:820px;left:84px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-71&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;&lt;span class=&quot;trxml-27&quot;&gt;2015&lt;/span&gt;                   
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-71&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:820px;left:236px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-28&quot;&gt;&lt;span class=&quot;trxml-71&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;3&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-28&quot;&gt;&lt;span class=&quot;trxml-71&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-28&quot;&gt;&lt;span class=&quot;trxml-71&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:819px;left:242px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:6pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-28&quot;&gt;&lt;span class=&quot;trxml-71&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;e&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-28&quot;&gt;&lt;span class=&quot;trxml-71&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-28&quot;&gt;&lt;span class=&quot;trxml-71&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:820px;left:249px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-71&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;&lt;span class=&quot;trxml-28&quot;&gt;Cycle &lt;span class=&quot;trxml-518&quot;&gt;Procédure&lt;/span&gt; Civile&lt;/span&gt; - &lt;span class=&quot;trxml-23&quot;&gt;mention bien&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-71&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-71&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:834px;left:236px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-30&quot;&gt;&lt;span class=&quot;trxml-71&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;Ecole Nationale du Droit et de la &lt;span class=&quot;trxml-519&quot;&gt;Procédure&lt;/span&gt; (ENADEP 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-30&quot;&gt;&lt;span class=&quot;trxml-71&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:834px;left:507px;font-family:&amp;apos;BCDIEE+GillSansMT&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-30&quot;&gt;&lt;span class=&quot;trxml-71&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;– 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-30&quot;&gt;&lt;span class=&quot;trxml-71&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:834px;left:517px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;&lt;span class=&quot;trxml-30&quot;&gt;&lt;span class=&quot;trxml-71&quot;&gt;Paris&lt;/span&gt;&lt;/span&gt;)
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:855px;left:84px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;&lt;span class=&quot;trxml-31&quot;&gt;2009&lt;/span&gt;                   
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-73&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:855px;left:236px;font-family:&amp;apos;BCDJEE+GillSansMT-Bold&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-73&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;&lt;span class=&quot;trxml-32&quot;&gt;Master II Droit de l’immobilier et de son &lt;span class=&quot;trxml-521&quot;&gt;financement&lt;/span&gt;&lt;/span&gt; &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-73&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-73&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:855px;left:540px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-73&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;- &lt;span class=&quot;trxml-24&quot;&gt;mention assez bien&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-73&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-73&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:869px;left:236px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;&lt;span class=&quot;trxml-34&quot;&gt;&lt;span class=&quot;trxml-73&quot;&gt;Université de Valenciennes (59&lt;/span&gt;&lt;/span&gt;)
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:891px;left:84px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-75&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;&lt;span class=&quot;trxml-35&quot;&gt;2008&lt;/span&gt;                   
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-75&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:891px;left:236px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-36&quot;&gt;&lt;span class=&quot;trxml-75&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;Master I Droit privé - &lt;span class=&quot;trxml-25&quot;&gt;parcours &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-25&quot;&gt;&lt;span class=&quot;trxml-36&quot;&gt;&lt;span class=&quot;trxml-75&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-25&quot;&gt;&lt;span class=&quot;trxml-36&quot;&gt;&lt;span class=&quot;trxml-75&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:891px;left:411px;font-family:&amp;apos;BCDJEE+GillSansMT-Bold&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-75&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;&lt;span class=&quot;trxml-25&quot;&gt;&lt;span class=&quot;trxml-36&quot;&gt;droit de&lt;/span&gt;&lt;/span&gt; l’immobilier&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-75&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-75&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:905px;left:236px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;&lt;span class=&quot;trxml-37&quot;&gt;&lt;span class=&quot;trxml-75&quot;&gt;Université de Valenciennes (59&lt;/span&gt;&lt;/span&gt;)
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:926px;left:84px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-77&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;&lt;span class=&quot;trxml-38&quot;&gt;2007&lt;/span&gt;                   
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-77&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:926px;left:236px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-39&quot;&gt;&lt;span class=&quot;trxml-77&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;Licence de Droit&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-77&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-77&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:940px;left:236px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;&lt;span class=&quot;trxml-40&quot;&gt;&lt;span class=&quot;trxml-77&quot;&gt;Université de Troyes (10&lt;/span&gt;&lt;/span&gt;)
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:962px;left:84px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-79&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;&lt;span class=&quot;trxml-41&quot;&gt;2003&lt;/span&gt;                   
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-79&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:962px;left:236px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;b&gt;&lt;span class=&quot;trxml-42&quot;&gt;&lt;span class=&quot;trxml-79&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;Baccalauréat Littéraire, option espagnol renforcé&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;span class=&quot;trxml-79&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-79&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;
+
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:976px;left:236px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-43&quot;&gt;&lt;span class=&quot;trxml-79&quot;&gt;&lt;span class=&quot;trxml-8&quot;&gt;Lycée Camille Claudel Troyes (10&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;)
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:1013px;left:84px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:14pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-10&quot;&gt;Divers
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-10&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1047px;left:84px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-90&quot;&gt;Anglais&lt;/span&gt; et &lt;span class=&quot;trxml-91&quot;&gt;espagnol&lt;/span&gt; &lt;span class=&quot;trxml-92&quot;&gt;lu, écrit, parlé&lt;/span&gt;.
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-10&quot;&gt;
+
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1061px;left:84px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-10&quot;&gt;&lt;span class=&quot;trxml-262&quot;&gt;Maîtrise&lt;/span&gt; &lt;span class=&quot;trxml-97&quot;&gt;Excel&lt;/span&gt;, &lt;span class=&quot;trxml-98&quot;&gt;Word&lt;/span&gt;&lt;/span&gt;.
+&lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:1075px;left:84px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;Loisirs : &lt;span class=&quot;trxml-108&quot;&gt;course à pied&lt;/span&gt;, &lt;span class=&quot;trxml-109&quot;&gt;body-combat&lt;/span&gt;, &lt;span class=&quot;trxml-110&quot;&gt;natation&lt;/span&gt;, &lt;span class=&quot;trxml-111&quot;&gt;cuisine&lt;/span&gt;, &lt;span class=&quot;trxml-112&quot;&gt;voyage&lt;/span&gt; (Espagne, Italie, Indonésie, Allemagne, Ile Maurice), &lt;span class=&quot;trxml-113&quot;&gt;couture&lt;/span&gt;&lt;/span&gt;. &lt;/div&gt;
+
+ &lt;/div&gt;&lt;/div&gt;
+</DocumentHtml>
+</Profile>
+

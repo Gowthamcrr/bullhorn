@@ -1,3 +1,4 @@
+# usr/bin/env python
 import os
 from xmlutils.xml2csv import xml2csv
 import csv

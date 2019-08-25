@@ -22,3 +22,8 @@ You can download the final artifact from "you can download the artifact in: http
 
 Note:
 Assume that the port "8081" of host machine is available. If incase the post is not availale in the host machine, Kindly Fork my repo and change the host port of Docker run command and  also change the respective port in Nexus Rest API.
+
+
+How to Use:
+Keep all your "n x candidate.xml" inside "input" folder
+You can get your output in "output/out.csv" also can find it inside Nexus Repo "http://{Jenkins_IP}:8081/repository/maven-releases/bullhorn/devops/1/devops-1.csv"

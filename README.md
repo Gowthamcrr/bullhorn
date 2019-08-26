@@ -21,7 +21,8 @@ Artifact Management:<br />
 You can download the final artifact from "you can download the artifact in: http://{Jenkins_IP}:8081/repository/maven-releases/bullhorn/devops/1/devops-1.csv"<br />
 <br />
 Note:<br />
-Assume that the port "8081" of host machine is available. If incase the post is not availale in the host machine, Kindly Fork my repo and change the host port of Docker run command and  also change the respective port in Nexus Rest API.<br />
+Assumption 1: Assume that the port "8081" of host machine is available. If incase the post is not availale in the host machine, Kindly Fork my repo and change the host port of Docker run command and  also change the respective port in Nexus Rest API.<br />
+Assumption 2: All XML are from portal which follows the defined XSD, which helps me to skip the XML and XML tag validation part.<br />
 <br />
 <br />
 How to Use:<br />
